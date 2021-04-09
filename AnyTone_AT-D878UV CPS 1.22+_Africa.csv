@@ -1,0 +1,653 @@
+No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
+1,6030001,7X2VX,Abdelkrim,Algiers,,Algeria,None,Private Call,None
+2,6030002,7X2UV,Hakim,Algiers,,Algeria,None,Private Call,None
+3,6030003,7X4CZ,CHAREF,STIDIA,,Algeria,None,Private Call,None
+4,6030004,7X2KF,Karim,Tns,,Algeria,None,Private Call,None
+5,6030005,7X0TM,Thomas,Algiers,,Algeria,DMR,Private Call,None
+6,6030006,7X2DE,Toufik,Algiers,,Algeria,DMR,Private Call,None
+7,6030007,7X2EZ,Rabeh,Algiers,,Algeria,DMR,Private Call,None
+8,6030008,7X2ET,Amine,Algiers KOUBA,,Algeria,DMR,Private Call,None
+9,6030009,7X2DD,Djaballah,Djelfa,,Algeria,DMR,Private Call,None
+10,6580001,ZD8DRP,Darrin,Georgetown,,Ascension Island,None,Private Call,None
+11,6130001,XT2MAX,Max,Ouagadougou,,Burkina Faso,None,Private Call,None
+12,6230001,TL7DX,TL7DX,Vero Beach Florida,,Central African Republic,None,Private Call,None
+13,6220001,TT8JLH,Jean-Louis,Ndjamena,,Chad,None,Private Call,None
+14,6380001,J28PJ,Jean-Philippe,Djibouti,,Djibouti,None,Private Call,None
+15,6200001,9G5AF,Haim,Accra,,Ghana,None,Private Call,None
+16,6200002,9G5AR,Richard,Accra,,Ghana,None,Private Call,None
+17,6200003,9G5GS,MAT,TAKORADI,,Ghana,None,Private Call,None
+18,6200004,9G1BS,Ioannis,Accra,,Ghana,DMR,Private Call,None
+19,6120001,TU5AS,Kouame,Abidjan,,Ivory Coast,DMR,Private Call,None
+20,6120002,TU5MS,Pacome ,Abidjan ,,Ivory Coast,DMR,Private Call,None
+21,6390001,5Z4XB,Mark,Nairobi,,Kenya,None,Private Call,None
+22,6390002,5Z4DJ,SYNCHRO,NAIROBI,,Kenya,None,Private Call,None
+23,6390003,5Z4ZT,Gitonga,Nairobi,,Kenya,None,Private Call,None
+24,6180001,EL2BN,Bassam,Monrovia,,Liberia,None,Private Call,None
+25,6180002,EL2JJ,Jean,Monrovia,,Liberia,None,Private Call,None
+26,6460001,5R8AE,Tonton,Antananarivo 101,,Madagascar,None,Private Call,None
+27,6090001,5T1A,Fawaz,Nouakchott,,Mauretania,None,Private Call,None
+28,6170001,3B8CW,Clive,Trou aux Biches,,Mauritius,None,Private Call,None
+29,6170002,3B8DM,Ismet,Pamplemousses,,Mauritius,None,Private Call,None
+30,6170003,3B8GW,Altaf,Coromandel,,Mauritius,None,Private Call,None
+31,6170004,3B8FP,Rachid-3B8FP,Curepipe,,Mauritius,None,Private Call,None
+32,6040001,CN8VX,Youness,Mohammedia,,Morocco,None,Private Call,None
+33,6040002,CN8FK,,Rabat,,Morocco,None,Private Call,None
+34,6040064,CN8FK,,Rabat,,Morocco,None,Private Call,None
+35,6040003,CN8IC,Mourad,TETOUAN,,Morocco,None,Private Call,None
+36,6040004,CN8IW,ALI,Tetouan,,Morocco,None,Private Call,None
+37,6040005,CN8VF,WANG,Rabat,,Morocco,None,Private Call,None
+38,6040006,CN8TAG,RACHID TAG,Bouznika,,Morocco,None,Private Call,None
+39,6040060,CN8TAG,RACHID TAG,Bouznika,,Morocco,None,Private Call,None
+40,6040007,CN8HAN,CN8HAN,Rabat,,Morocco,None,Private Call,None
+41,6040050,CN8HAN,CN8HAN,Rabat,,Morocco,None,Private Call,None
+42,6040008,CN8XA,FAICAl,TETOUAN,,Morocco,None,Private Call,None
+43,6040009,CN8TI,RAFAEL,Tetouan,,Morocco,None,Private Call,None
+44,6040010,CN8DN,Cn8dn,Eljadida,,Morocco,None,Private Call,None
+45,6040066,CN8DN,Cn8dn,Eljadida,,Morocco,None,Private Call,None
+46,6040011,CN8WW,DIPLOMAT,MEKNES,,Morocco,None,Private Call,None
+47,6040012,CN8YY,YOUSSEF,TETOUAN,,Morocco,None,Private Call,None
+48,6040013,CN8DDC,Zerhoun,MEKNES,,Morocco,None,Private Call,None
+49,6040014,CN8EAA,ADIL,Temara,,Morocco,None,Private Call,None
+50,6040015,CN8ECM,Hamdache,Tetouan,,Morocco,None,Private Call,None
+51,6040016,CN8MFR,MUSTAPHA,TETOUAN,,Morocco,None,Private Call,None
+52,6040017,CN8LA,Abdou,Casablanca,,Morocco,None,Private Call,None
+53,6040018,CN8HAQ,ABID,TETOUAN,,Morocco,None,Private Call,None
+54,6040019,CN8YM,Lhaj,MEKNES,,Morocco,None,Private Call,None
+55,6040020,CN8QLI,Ali,Laayoune,,Morocco,None,Private Call,None
+56,6040021,CN8AKT,AKACHAR,TETOUAN,,Morocco,None,Private Call,None
+57,6040022,CN8GX,Momo,Casablanca,,Morocco,None,Private Call,None
+58,6040023,CN8SG,Hassan,Kenitra,,Morocco,None,Private Call,None
+59,6040024,CN8JB,CN8JB,FES,,Morocco,None,Private Call,None
+60,6040025,CN8QR,RAJI,Tamensourt Marrakech,,Morocco,None,Private Call,None
+61,6040026,CN8INS,Saber,TETOUAN,,Morocco,None,Private Call,None
+62,6040027,CN8GC,GC OUJDA,Oujda,,Morocco,None,Private Call,None
+63,6040028,CN8KG,Najib,Kenitra,,Morocco,None,Private Call,None
+64,6040029,CN8ANT,ANT OUJDA,Oujda,,Morocco,None,Private Call,None
+65,6040030,CN8ZER,ZER OUJDA,Oujda,,Morocco,None,Private Call,None
+66,6040031,CN8SCS,Kamal,Casablanca,,Morocco,None,Private Call,None
+67,6040032,CN8KAM,El khayat,Casablanca,,Morocco,None,Private Call,None
+68,6040033,CN8ADC,Hassan,Meknes,,Morocco,None,Private Call,None
+69,6040034,CN8FF,Larbi,Temara,,Morocco,None,Private Call,None
+70,6040035,CN8AAI,LHADJ,RABAT-SALE,,Morocco,None,Private Call,None
+71,6040036,CN8AAD,Moh,Guelmim,,Morocco,None,Private Call,None
+72,6040037,CN8KHO,ABDELLATIF,Fes,,Morocco,None,Private Call,None
+73,6040038,CN8WO,BAF CN8WO,SIDI KACEM,,Morocco,None,Private Call,None
+74,6040039,CN8CMB,Choufani,AgaDir,,Morocco,None,Private Call,None
+75,6040040,CN8AMI,Khalid,Oujda,,Morocco,None,Private Call,None
+76,6040041,CN8SAH,Ameur,Oujda,,Morocco,None,Private Call,None
+77,6040042,CN8MAA,Mohammed,Oujda,,Morocco,None,Private Call,None
+78,6040043,CN8HQ,El hassane,Oujda,,Morocco,None,Private Call,None
+79,6040044,CN8HRA,Hamid,Oujda,,Morocco,None,Private Call,None
+80,6040045,CN8MEE,Soufyane,Oujda,,Morocco,None,Private Call,None
+81,6040046,CN8SYY,Youssef,Oujda,,Morocco,None,Private Call,None
+82,6040047,CN8JJB,Abdallah,Oujda,,Morocco,None,Private Call,None
+83,6040048,CN8DAR,Mohammed,Oujda,,Morocco,None,Private Call,None
+84,6040049,CN8VO,Abderrahim,Oujda,,Morocco,None,Private Call,None
+85,6040051,CN8IT,INDIATANGO68,Casablanca,,Morocco,None,Private Call,None
+86,6040052,CN8NY,None,Tanger,,Morocco,None,Private Call,None
+87,6040053,CN8DY,Simo-DMR,Rabat,,Morocco,None,Private Call,None
+88,6040054,CN8XB,X-B,CASABLANCA,,Morocco,None,Private Call,None
+89,6040055,CN8HF,Patrick,Tanger,,Morocco,None,Private Call,None
+90,6040056,CN8CJ,Moh,Rabat,,Morocco,None,Private Call,None
+91,6040057,CN8SO,SAMIR63,RABAT,,Morocco,None,Private Call,None
+92,6040058,CN8ABO,ALALAE,Sal,,Morocco,None,Private Call,None
+93,6040059,CN8MMC,MMDVM-DMR-P25-C4FM,BOUZNIKA,,Morocco,None,Private Call,None
+94,6040061,CN8QY,Abdou73,Essaouira,,Morocco,None,Private Call,None
+95,6040062,CN8PQ,HOSSIN,TETOUAN,,Morocco,None,Private Call,None
+96,6040063,CN8WT,NISRINE,CASABLANCA,,Morocco,None,Private Call,None
+97,6040065,CN8KF,Lido,Casablanca,,Morocco,None,Private Call,None
+98,6040067,CN2ACP,ABDELHALAK,Ttouan,,Morocco,None,Private Call,None
+99,6040068,CN2ACT,ISMAEL,TETOUAN0528.08/**,,Morocco,None,Private Call,None
+100,6040069,CN8HOM,Black Wave,Casablanca,,Morocco,None,Private Call,None
+101,6040070,CN8WF,Anwar,Temara,,Morocco,None,Private Call,None
+102,6040071,CN8YE,Rachid,Casablanca,,Morocco,None,Private Call,None
+103,6040072,CN8LY,Hal,Casablanca,,Morocco,None,Private Call,None
+104,6040073,CN8DMR,Youssef,Oujda,,Morocco,None,Private Call,None
+105,6040074,CN8WZ,Abdelwahad,Rabat,,Morocco,None,Private Call,None
+106,6040075,CN8MKA,CN8MKA,Nouaceur,,Morocco,None,Private Call,None
+107,6040076,CN8QL,AZIZ,Sale,,Morocco,None,Private Call,None
+108,6040077,CN8UN,Bernard N,RABAT,,Morocco,DMR,Private Call,None
+109,6040078,CN8DEM,Marouan,Marrakech,,Morocco,DMR,Private Call,None
+110,6040079,CN8DEL,MOHAMED,MARRAKECh,,Morocco,DMR,Private Call,None
+111,6430001,C91PM,Paulo,Maputo,,Mozambique,None,Private Call,None
+112,6430002,C91UZC,Freitas,Maputo,,Mozambique,None,Private Call,None
+113,6430003,C91WDL,Jaques,No Postal Address ,,Mozambique,None,Private Call,None
+114,6430004,C91GC,MiguelAngelo,Maputo,,Mozambique,None,Private Call,None
+115,6490001,V51RS,Robert,Windhoek,,Namibia,None,Private Call,None
+116,6490002,V51WF,Fritz,Windhoek,,Namibia,None,Private Call,None
+117,6490003,V51DM,Derek,Windhoek,,Namibia,None,Private Call,None
+118,6490004,V51DR,Eduan,Windhoek,,Namibia,None,Private Call,None
+119,6490005,V51MA,Mike,Windhoek,,Namibia,None,Private Call,None
+120,6491001,V51JP,Werner,Windhoek,,Namibia,None,Private Call,None
+121,6491002,V51V,Victor,Windhoek,,Namibia,None,Private Call,None
+122,6210001,5N0SVL,Izzy,Lagos,,Nigeria,None,Private Call,None
+123,6470001,FR4NP,Jacky,Le Port,,Reunion,None,Private Call,None
+124,6470002,FR4QK,Jerome,Saint Paul,,Reunion,None,Private Call,None
+125,6470045,FR4QK,Jerome,Saint Paul,,Reunion,None,Private Call,None
+126,6470003,FR5GS,Axel,SAINT-BENOIT,,Reunion,None,Private Call,None
+127,6470044,FR5GS,Axel,SAINT-BENOIT,,Reunion,None,Private Call,None
+128,6470004,FR5FZ,Jean-Hugues,SAINTE-SUZANNE,,Reunion,None,Private Call,None
+129,6470005,FR5FC,PATRICK,SAINT LEU,,Reunion,None,Private Call,None
+130,6470006,FR1JB,Jerome,Cilaos,,Reunion,None,Private Call,None
+131,6470007,FR4PV,James,LE GUILLAUME  ST PAUL,,Reunion,None,Private Call,None
+132,6470008,FR4LI,Nicolas,St Pierre,,Reunion,None,Private Call,None
+133,6470009,FR5CU,ALAIN,LES TROIS BASSINS,,Reunion,None,Private Call,None
+134,6470010,FR4OV,Willy,Le Tampon,,Reunion,None,Private Call,None
+135,6470011,FR5CB,JEAN,Sainte Marie,,Reunion,None,Private Call,None
+136,6470012,FR4OM,Jean philippe,Tampon,,Reunion,None,Private Call,None
+137,6470013,FR4QU,MARIE,SAINT-DENIS,,Reunion,None,Private Call,None
+138,6470014,FR4QV,Anaud,Sainte Suzanne,,Reunion,None,Private Call,None
+139,6470015,FR4PG,JACQUES,SAINT JOSEPH,,Reunion,None,Private Call,None
+140,6470016,FR4OP,JOSEPH FABRICE,LA RIVIERE SAINT LOUIS,,Reunion,None,Private Call,None
+141,6470017,FR4OO,,Sainte Clotilde,,Reunion,None,Private Call,None
+142,6470018,FR4OS,Francois,Sainte Clotilde,,Reunion,None,Private Call,None
+143,6470019,FR4OH,FR4OH,Etang Sal,,Reunion,None,Private Call,None
+144,6470020,FR4GF,JOAQUIN,SAINT-ANDRE,,Reunion,None,Private Call,None
+145,6470021,FR1ID,FR1ID,St Andre,,Reunion,None,Private Call,None
+146,6470022,FR4HY,FR4HY,St Andre,,Reunion,None,Private Call,None
+147,6470023,FR5DZ,FR5DZ,Le Tampon,,Reunion,None,Private Call,None
+148,6470024,FR5CK,Marius,PETITE ILE,,Reunion,None,Private Call,None
+149,6470025,FR5HV,HV,SAINT-JOSEPH,,Reunion,None,Private Call,None
+150,6470026,FR4PJ,FR4PJ,Sainte Marie,,Reunion,None,Private Call,None
+151,6470027,FR1GZ,Yvon,La Montagne,,Reunion,None,Private Call,None
+152,6470028,FR4OZ,Pascal,Ste-Marie,,Reunion,None,Private Call,None
+153,6470029,FR5FR,Antoine,St Joseph,,Reunion,None,Private Call,None
+154,6470030,FR5EK,FR5EK,Le Tampon,,Reunion,None,Private Call,None
+155,6470031,FR5ZU,JAK,Salazie,,Reunion,None,Private Call,None
+156,6470032,FR4OA,Mina,Saint Denis,,Reunion,None,Private Call,None
+157,6470033,FR5CP,Andras,Le Port,,Reunion,None,Private Call,None
+158,6470034,FR1LC,Johann,LA POSSESSION,All Regions,Reunion,None,Private Call,None
+159,6470035,FR4OU,Pierre,Le Tampon,,Reunion,None,Private Call,None
+160,6470036,FR1DI,BRUNO,RAVINE DES CABRIS,,Reunion,None,Private Call,None
+161,6470037,FR4FE,Marc,Le Tampon,,Reunion,None,Private Call,None
+162,6470038,FR4PY,Lucas,Liste orange,,Reunion,None,Private Call,None
+163,6470039,FR4FH,Lilian,Saint-Pierre,,Reunion,None,Private Call,None
+164,6470040,FR4ON,Nico,Saint-Louis,,Reunion,None,Private Call,None
+165,6470041,FR5EC,Jean-Claude,SAINT-PAUL,,Reunion,None,Private Call,None
+166,6470042,FR5ZE,FR5ZE,ETANG SALE,,Reunion,None,Private Call,None
+167,6470043,FR4DJ,Paul,Le Tampon,,Reunion,None,Private Call,None
+168,6470046,FR1EY,Fr1ey,Le TAMPON,,Reunion,None,Private Call,None
+169,6470047,FR4OT,Joel,LE TAMPON,,Reunion,None,Private Call,None
+170,6470048,FR5GI,Louis,Sainte-Suzanne,,Reunion,None,Private Call,None
+171,6470049,FR4PM,HENRI,ST LOUIS,,Reunion,None,Private Call,None
+172,6470050,FR1FF,FR1FF,SAINTE-MARIE,,Reunion,None,Private Call,None
+173,6470051,FR5ZX,ANDRE MICHEL,LA CHALOUPE SAINT LEU,,Reunion,None,Private Call,None
+174,6470052,FR1GV,Alain,LES AVIRONS,,Reunion,None,Private Call,None
+175,6470053,FR5AO,Jean Marc,SAINT-DENIS,,Reunion,None,Private Call,None
+176,6470054,FR4TA,Daniel,Le Port,,Reunion,None,Private Call,None
+177,6470055,FR1GT,Marc,Saint Paul,,Reunion,None,Private Call,None
+178,6470056,FR1EU,Bruno,Saint Paul,,Reunion,None,Private Call,None
+179,6470057,FR4KF,RC ADRASEC 974,SAINT-PIERRE,,Reunion,None,Private Call,None
+180,6470058,FR4NR,Jean Marc,SAINT-GILLES LES HAUTS,,Reunion,None,Private Call,None
+181,6470059,FR4SP,MARTEL,Plaine des cafres,,Reunion,None,Private Call,None
+182,6470060,FR0OB,Fred,Saint Paul,,Reunion,None,Private Call,None
+183,6470061,FR4KM,Radio club ARRA,SAINT LEU,,Reunion,None,Private Call,None
+184,6470062,FR4IG,IRENEE,ST-PIERRE,,Reunion,None,Private Call,None
+185,6470063,FR4TS,Jimmy,Le TAMPON,,Reunion,DMR,Private Call,None
+186,6470064,FR4TU,Frederic,Saint pierre,,Reunion,DMR,Private Call,None
+187,6080001,6W1ST,SERGE,Dakar/ SENEGAL,,Senegal,None,Private Call,None
+188,6550001,ZS6RDD,Ralf Paro,Roodepoort,,South Africa,None,Private Call,None
+189,6550002,ZS6VRB,Bill,Strubenvale,,South Africa,None,Private Call,None
+190,6550003,ZS4JT,Johan Du Toit,Philippolis,,South Africa,None,Private Call,None
+191,6550004,ZS6NEB,Niel,Klerksdorp,,South Africa,None,Private Call,None
+192,6550005,ZS6RHL,HENNIE,Lydenburg,,South Africa,None,Private Call,None
+193,6550006,ZS6DLK,Zs6dlk,Henley on Klip,,South Africa,None,Private Call,None
+194,6550007,ZR6DO,Darius,Pretoria,,South Africa,None,Private Call,None
+195,6550008,ZS6RES,TREVOR PUTTERILL,Johannesburg,,South Africa,None,Private Call,None
+196,6556037,ZS6RES,TREVOR PUTTERILL,Johannesburg,,South Africa,None,Private Call,None
+197,6550009,ZS6RAT,Robain,Johannesburg,,South Africa,None,Private Call,None
+198,6550010,ZR2BK,Kevern,St Francis Bay,,South Africa,None,Private Call,None
+199,6550011,ZS6RN,Nigel,Crystal Park,,South Africa,None,Private Call,None
+200,6550012,ZS6BP,Scouting,Benoni,,South Africa,None,Private Call,None
+201,6550013,ZR6BOS,Marius,Middelburg,,South Africa,None,Private Call,None
+202,6550014,ZS4X,Francois,Bloemfontein,,South Africa,None,Private Call,None
+203,6550015,ZR4EM,Zagene,Bloemfontein,,South Africa,None,Private Call,None
+204,6550016,ZS6TSP,ZS6TSP Tanya,Johannesburg,,South Africa,None,Private Call,None
+205,6550017,ZS6BOS,KOBUS,RANDFONTEIN,,South Africa,None,Private Call,None
+206,6550018,ZS2HR,Hugo,Port Elizabeth,,South Africa,None,Private Call,None
+207,6550019,ZS6ANT,Anthony,Johannesburg,,South Africa,None,Private Call,None
+208,6550020,ZS6JFE,Jurie Ferreira,Pretoria,,South Africa,None,Private Call,None
+209,6550021,ZS6DVL,Diederich,Springs/Witbank,,South Africa,None,Private Call,None
+210,6550022,ZS6BS,Bertie,Randfontein,,South Africa,None,Private Call,None
+211,6550023,ZS5GI,ZS5GI Gary,Durban,,South Africa,None,Private Call,None
+212,6550024,ZS6WP,Bill,Krugersdorp,,South Africa,None,Private Call,None
+213,6550025,ZS2AG,Ashley,Port Elizabeth,,South Africa,None,Private Call,None
+214,6550026,ZS6AYS,Leon ZS6AYS,Pretoria,,South Africa,None,Private Call,None
+215,6550027,ZS1JHG,John,SUN VALLEY,,South Africa,None,Private Call,None
+216,6550028,ZS2AGR,Gareth,Port Elizabeth,,South Africa,None,Private Call,None
+217,6550029,ZS6HET,Jan ZS6HET,Rustenburg,,South Africa,None,Private Call,None
+218,6550030,ZS1WLM,Willem,Saldanha,,South Africa,None,Private Call,None
+219,6550031,ZS1ML,Marius Lubbe,Durbanville Cape Town,,South Africa,None,Private Call,None
+220,6550032,ZS4JPJ,Kobus,Bloemfontein,,South Africa,None,Private Call,None
+221,6550033,ZS1VVD,Hannes,Strand,,South Africa,None,Private Call,None
+222,6550034,ZS1KIM,KIM ZS1KIM,George,,South Africa,None,Private Call,None
+223,6550035,ZS1JBO,Jacques,Vredenburg,,South Africa,None,Private Call,None
+224,6550036,ZS4E,ZS4E,Ladybrand,,South Africa,None,Private Call,None
+225,6550037,ZS6AVG,Andrew,Randburg,,South Africa,None,Private Call,None
+226,6550038,ZS6NAY,Nigel,Randburg,,South Africa,None,Private Call,None
+227,6550039,ZS6AWL,Johan,Klerksdorp,,South Africa,None,Private Call,None
+228,6550040,ZR5JF,Johan de Wit,Newcastle,,South Africa,None,Private Call,None
+229,6550041,ZR6DE,Richard,Johannesburg,,South Africa,None,Private Call,None
+230,6550042,ZS6WHY,Neil Viljoen,Brakpan,,South Africa,None,Private Call,None
+231,6550043,ZS5RTL,Duncan,Pinetown,,South Africa,None,Private Call,None
+232,6550044,ZR6WT,Stewart,Johannesburg,,South Africa,None,Private Call,None
+233,6550045,ZR6DPT,Derick,Edenvale,,South Africa,None,Private Call,None
+234,6550046,ZS6BSG,1st Bryanston Scouts,Johannesburg,,South Africa,None,Private Call,None
+235,6550047,ZS6JBZ,Johann Bez,Johannesburg,,South Africa,None,Private Call,None
+236,6550048,ZS6DDK,Daniel,Johannesburg,,South Africa,None,Private Call,None
+237,6550049,ZS6TB,Joe,Pretoria,,South Africa,None,Private Call,None
+238,6550050,ZS1A,Johan,Cape Town,,South Africa,None,Private Call,None
+239,6550051,ZS6ASK,Alvin,Benoni,,South Africa,None,Private Call,None
+240,6550052,ZS6WG,Anton,Benoni,,South Africa,None,Private Call,None
+241,6550053,ZS5ZP,Eric,Palm Beach KZN,,South Africa,None,Private Call,None
+242,6550054,ZR6MS,Marius,Johannesburg,,South Africa,None,Private Call,None
+243,6551001,ZS1JPL,Johan,Simons Town,,South Africa,None,Private Call,None
+244,6551002,ZS6AGB,AG,Johannesburg,,South Africa,None,Private Call,None
+245,6556099,ZS6AGB,AG,Johannesburg,,South Africa,None,Private Call,None
+246,6551003,ZS1V,Paul,Cape Town,,South Africa,None,Private Call,None
+247,6551004,ZS1VDV,Jan,Stellenbosch,Cape,South Africa,None,Private Call,None
+248,6551005,ZS1MTF,Matt,Cape Town,,South Africa,None,Private Call,None
+249,6551006,ZS1TR,Trevor,LAgulhas,,South Africa,None,Private Call,None
+250,6551007,ZS1DAD,Steven,Cape Town,,South Africa,None,Private Call,None
+251,6551008,ZS1JNT,John,Cape Town,,South Africa,None,Private Call,None
+252,6551009,ZS1BTD,Brian,Cape Town,,South Africa,None,Private Call,None
+253,6551010,ZS1PDE,Peter,Gordons Bay,,South Africa,None,Private Call,None
+254,6551011,ZS1GFL,Georg,Cape Town,,South Africa,None,Private Call,None
+255,6551012,ZS1YT,Rassie,Strand,,South Africa,None,Private Call,None
+256,6551013,ZS1ZW,Jason,Cape Town,,South Africa,None,Private Call,None
+257,6551014,ZS1OSK,Ian,Cape Town,,South Africa,None,Private Call,None
+258,6551015,ZS1K,Kobus,Kraaifontein,,South Africa,None,Private Call,None
+259,6551016,ZS1AIE,James,Simonstown,,South Africa,None,Private Call,None
+260,6551017,ZR1AOC,Dave,Mosselbay,,South Africa,None,Private Call,None
+261,6551018,ZS1BM,Marinus,Hermanus,,South Africa,None,Private Call,None
+262,6551019,ZS1OK,Alister,Cape Town,,South Africa,None,Private Call,None
+263,6551020,ZS1JEN,ZS1JEN,Cape Town,,South Africa,None,Private Call,None
+264,6551021,ZS1ARB,Jonathan Endersby,Cape Town,,South Africa,None,Private Call,None
+265,6551022,ZS1FSX,ZS1FSX,Langebaan,,South Africa,None,Private Call,None
+266,6551023,ZS1SCI,Ohan Smit,Cape Town,,South Africa,None,Private Call,None
+267,6551024,ZS1AI,Johannes,Cape Town,,South Africa,None,Private Call,None
+268,6551025,ZS1SA,Rob,Cape Town,,South Africa,None,Private Call,None
+269,6551026,ZS1MO,Max Ozinsky,Cape Town,,South Africa,None,Private Call,None
+270,6551027,ZS1EQ,John Ward,Cape Town,,South Africa,None,Private Call,None
+271,6551028,ZS1ZKZ,James,Cape town,,South Africa,None,Private Call,None
+272,6551029,ZS1BI,Greg Roberts,Cape Town,,South Africa,None,Private Call,None
+273,6551030,ZS1ST,Steve,Cape Town,,South Africa,None,Private Call,None
+274,6551031,ZS1UNA,Una,Cape Town,,South Africa,None,Private Call,None
+275,6551032,ZR1LH,Lawrence,Cape Town,,South Africa,None,Private Call,None
+276,6551033,ZS1SDK,Sdkarssen,Cape Town Western Cape,,South Africa,None,Private Call,None
+277,6551034,ZS1FC,CHRIS ZS1FC,JACOBSBAAI VREDENBURG,,South Africa,None,Private Call,None
+278,6551035,ZR1SWB,SchalkWim,Brackenfell,,South Africa,None,Private Call,None
+279,6551036,ZR1AGV,Gerrit,Beaufort West,,South Africa,None,Private Call,None
+280,6551037,ZS1DON,Don,Cape Town,,South Africa,None,Private Call,None
+281,6551038,ZS1BCD,Bernie,Wellington,,South Africa,None,Private Call,None
+282,6551039,ZS1G,ZS1G,Brackenfell,,South Africa,None,Private Call,None
+283,6551040,ZS1SJ,ZS1SJ,Gordons Bay,,South Africa,None,Private Call,None
+284,6551041,ZS1RIC,Richard,Atlone,,South Africa,None,Private Call,None
+285,6551044,ZS1RIC,Richard,Atlone,,South Africa,None,Private Call,None
+286,6551042,ZS1GRC,ZS1GRC,Cape Town,,South Africa,None,Private Call,None
+287,6551043,ZS1TS,Timothy,Cape Town,,South Africa,None,Private Call,None
+288,6551045,ZS1JDM,Jacques,Cape Town,,South Africa,None,Private Call,None
+289,6551046,ZS1VBC,Virgil,Cape Town,,South Africa,None,Private Call,None
+290,6551047,ZS1CDG,Chris Gozzard,Cape Town,,South Africa,None,Private Call,None
+291,6551048,ZS1EI,Peet,Brackenfell,,South Africa,None,Private Call,None
+292,6551049,ZS1RBT,James,Cape Town,,South Africa,None,Private Call,None
+293,6551050,ZS1OIN,Oleg,Cape Town,,South Africa,None,Private Call,None
+294,6551051,ZS1ANF,Oleg,Cape Town,,South Africa,None,Private Call,None
+295,6551052,ZS1OSS,Danie,Cape Town,,South Africa,None,Private Call,None
+296,6551053,ZS1FX,Bruce,Cape Town,,South Africa,None,Private Call,None
+297,6551054,ZS1X,Dirk,Cape Town,,South Africa,None,Private Call,None
+298,6551055,ZS1MR,Michael,Cape Town,,South Africa,None,Private Call,None
+299,6551056,ZS1MJ,Michael Oosterhagen,Gordons Bay,,South Africa,None,Private Call,None
+300,6551057,ZS1FT,Francois,Robertson,,South Africa,None,Private Call,None
+301,6552001,ZS2ABF,Peter,East Loindon,,South Africa,None,Private Call,None
+302,6552002,ZS2AFB,Andrew,Port Elezabeth,,South Africa,None,Private Call,None
+303,6552003,ZS2AFB,Andrew,Port Elezabeth,,South Africa,None,Private Call,None
+304,6552004,ZS2VA,Les,Port Elizabeth,,South Africa,None,Private Call,None
+305,6552005,ZS2VA,Les,Port Elizabeth,,South Africa,None,Private Call,None
+306,6552006,ZS2PE,PEARS,Port Elizabeth,,South Africa,None,Private Call,None
+307,6552007,ZR2TX,Tony,Port Elizabeth,,South Africa,None,Private Call,None
+308,6552008,ZS2MDL,Mike,Port Elizabeth,,South Africa,None,Private Call,None
+309,6552009,ZS2BD,Bernice,Port Elizabeth,,South Africa,None,Private Call,None
+310,6552010,ZS2MHN,Michael,Uitenhage,,South Africa,None,Private Call,None
+311,6552011,ZS2N,Nev,Port Elizabeth,,South Africa,None,Private Call,None
+312,6552012,ZR1E,Andreeksteen,Oudtshoorn,,South Africa,None,Private Call,None
+313,6552013,ZS2GV,Glen,Port Elizabeth,,South Africa,None,Private Call,None
+314,6552014,ZS2X,TimZS2X,Port Elizabeth,,South Africa,None,Private Call,None
+315,6552015,ZS2DL,Donovan,Port Elizabeth,,South Africa,None,Private Call,None
+316,6552016,ZS2DN,Rosalie,Port Elizabeth,,South Africa,None,Private Call,None
+317,6552017,ZS2CV,Aidan,Port Elizabeth,,South Africa,None,Private Call,None
+318,6552018,ZS2LB,Lance,Port Elizabeth,,South Africa,None,Private Call,None
+319,6553001,ZS3DT,Rudi,Vryburg,,South Africa,None,Private Call,None
+320,6553002,ZS3PS,PAT,VRYBURG,,South Africa,None,Private Call,None
+321,6553003,ZU3J,Junior,Vryburg,,South Africa,None,Private Call,None
+322,6553004,ZS3AP,Anthony,Vryburg,,South Africa,None,Private Call,None
+323,6553005,ZS3LAM,Anton Springbok,Springbok,,South Africa,None,Private Call,None
+324,6554001,ZS4OIL,Mark,Sasolburg,,South Africa,None,Private Call,None
+325,6556047,ZS4OIL,Mark,Sasolburg,,South Africa,None,Private Call,None
+326,6554002,ZS4PR,Riaan,Sasolburg,,South Africa,None,Private Call,None
+327,6554003,ZS5SF,Monk,Welkom,,South Africa,None,Private Call,None
+328,6554004,ZS4OM,Louis,Kroonstad,,South Africa,None,Private Call,None
+329,6554005,ZS4JIK,ZS4JiK,Parys,,South Africa,None,Private Call,None
+330,6555001,ZS5GR,Tony,Durban,,South Africa,None,Private Call,None
+331,6555022,ZS5GR,Tony,Durban,,South Africa,None,Private Call,None
+332,6555002,ZS5BG,Bradley,Durban,,South Africa,None,Private Call,None
+333,6555003,ZS5BG,Bradley,Durban,,South Africa,None,Private Call,None
+334,6555004,ZS5BG,Bradley,Durban,,South Africa,None,Private Call,None
+335,6555005,ZS5DU,Charly,Pinetown,,South Africa,None,Private Call,None
+336,6555006,ZS5SAM,Fred,Durban,,South Africa,None,Private Call,None
+337,6555029,ZS5SAM,Fred,Durban,,South Africa,None,Private Call,None
+338,6555007,ZS5AGM,Geoff,Durban,,South Africa,None,Private Call,None
+339,6555008,ZS5F,Craig,Durban,,South Africa,None,Private Call,None
+340,6555027,ZS5F,Craig,Durban,,South Africa,None,Private Call,None
+341,6555009,ZS5HR,Henry,Durban,,South Africa,None,Private Call,None
+342,6555023,ZS5HR,Henry,Durban,,South Africa,None,Private Call,None
+343,6555010,ZS5CGW,Christopher,Durban,,South Africa,None,Private Call,None
+344,6555011,ZS5BR,Brian,Durban,,South Africa,None,Private Call,None
+345,6555012,ZS5BWY,Bernard,Hillcrest,,South Africa,None,Private Call,None
+346,6555013,ZS5BBW,Mohammed,Durban,,South Africa,None,Private Call,None
+347,6555014,ZS5LPT,David,Durban,,South Africa,None,Private Call,None
+348,6555015,ZS5JM,Jay,Durban,,South Africa,None,Private Call,None
+349,6555016,ZR5S,Shaun,Durban,,South Africa,None,Private Call,None
+350,6555017,ZS5PL,Peter,Durban,,South Africa,None,Private Call,None
+351,6555025,ZS5PL,Peter,Durban,,South Africa,None,Private Call,None
+352,6555018,ZS5AVS,Alan,Durban,,South Africa,None,Private Call,None
+353,6555019,ZS5JW,Justin,Summerveld,,South Africa,None,Private Call,None
+354,6555020,ZS5LT,Pravin,Durban,,South Africa,None,Private Call,None
+355,6555021,ZS5LT,Pravin,Durban,,South Africa,None,Private Call,None
+356,6555024,ZU5A,Tianna,Durban,,South Africa,None,Private Call,None
+357,6555026,ZS5CEY,Andy,Durban,,South Africa,None,Private Call,None
+358,6555047,ZS5CEY,Andy,Durban,,South Africa,None,Private Call,None
+359,6555028,ZS5X,Sean,Durban,,South Africa,None,Private Call,None
+360,6555030,ZS5PMB,MARC,Pietermaritzburg,,South Africa,None,Private Call,None
+361,6555031,ZS5DDM,Des,Wartburg,,South Africa,None,Private Call,None
+362,6555032,ZS5S,Shaun,Pietermaritzburg,,South Africa,None,Private Call,None
+363,6555038,ZS5S,Shaun,Pietermaritzburg,,South Africa,None,Private Call,None
+364,6555033,ZS5ML,Mike,Pietermaritzburg,,South Africa,None,Private Call,None
+365,6555034,ZS5LO,Lawrence,Pietermaritzburg,,South Africa,None,Private Call,None
+366,6555035,ZS5PO,Jo,Mandeni,,South Africa,None,Private Call,None
+367,6555036,ZR5BR,Bryce,Pietermaritzburg,,South Africa,None,Private Call,None
+368,6555037,ZS5SK,Steven,Umlaas Road,,South Africa,None,Private Call,None
+369,6555039,ZR5CAT,Carlo,ESTCOURT,,South Africa,None,Private Call,None
+370,6555040,ZS5AY,Bob,Pietermaritzburg,,South Africa,None,Private Call,None
+371,6555041,ZS5QM,Ben,Pietermaritzburg,,South Africa,None,Private Call,None
+372,6555042,ZS5KDK,Koos,Pietermaritzburg,,South Africa,None,Private Call,None
+373,6555043,ZR5ZS,Willem,Pietermaritzburg,,South Africa,None,Private Call,None
+374,6555044,ZS5CU,Bob,Pietermaritzburg,,South Africa,None,Private Call,None
+375,6555045,ZR5LLF,Lolz,Pietermaritzburg,,South Africa,None,Private Call,None
+376,6555046,ZR5SEM,Stanley,Howick,,South Africa,None,Private Call,None
+377,6555048,ZS5PG,Matthew,Durban,,South Africa,None,Private Call,None
+378,6555049,ZS5V,Marjoke,Howick,,South Africa,None,Private Call,None
+379,6555050,ZS5GMW,,Durban,,South Africa,None,Private Call,None
+380,6555051,ZS5WFD,Keith,Westville,,South Africa,None,Private Call,None
+381,6555052,ZR5YJ,Gavin,Durban,,South Africa,None,Private Call,None
+382,6555053,ZS5CD,Crocodile Dundee,Pinetown,,South Africa,None,Private Call,None
+383,6555054,ZS5DD,DEON,Durban,,South Africa,None,Private Call,None
+384,6555055,ZS5MAB,Mike,Waterfall,,South Africa,None,Private Call,None
+385,6555056,ZS5JK,James,Durban,,South Africa,None,Private Call,None
+386,6555057,ZS5RP,Richard,Durban,,South Africa,None,Private Call,None
+387,6555058,ZS5ANT,Ant,Howick,,South Africa,None,Private Call,None
+388,6555059,ZS6SID,Sidney,Uvongo,,South Africa,None,Private Call,None
+389,6556025,ZS6SID,Sidney,Uvongo,,South Africa,None,Private Call,None
+390,6555060,ZS5GAV,Gavin,Durban,,South Africa,None,Private Call,None
+391,6555061,ZS5MAX,MAX,Pinetown,,South Africa,None,Private Call,None
+392,6555062,ZR5BCB,Brian,Howick,,South Africa,None,Private Call,None
+393,6555063,ZS5TWJ,Troy ZS5twj,Durban,,South Africa,None,Private Call,None
+394,6555064,ZS5JY,NORMAN,DURBAN,,South Africa,None,Private Call,None
+395,6555065,ZS5GM,Zs5Gm,Durban,Kwazulu-Natal,South Africa,ZS5GM,Private Call,None
+396,6555066,ZS5KT,Justin,Durban,,South Africa,None,Private Call,None
+397,6555067,ZS5LG,Leo,Hillcrest,,South Africa,None,Private Call,None
+398,6555068,ZS5KM,Mike,Kloof,,South Africa,None,Private Call,None
+399,6556001,ZS6RVC,Ronald,Northcliff,,South Africa,None,Private Call,None
+400,6556006,ZS6RVC,Ronald,Northcliff,,South Africa,None,Private Call,None
+401,6556002,ZS6DR,Derek,Johannesburg,,South Africa,None,Private Call,None
+402,6556003,ZS6ARG,Lee,Johannesburg,,South Africa,None,Private Call,None
+403,6556004,ZS6GAV,Gavin,Johannesburg,,South Africa,None,Private Call,None
+404,6556005,ZS6MJH,Martin,Hartbeespoort,,South Africa,None,Private Call,None
+405,6556007,ZS6CAL,Richard,Johannesburg,,South Africa,None,Private Call,None
+406,6556008,ZS6RO,Dick,Johannesburg,,South Africa,None,Private Call,None
+407,6556009,ZS6XU,Steven,Johannesburg,,South Africa,None,Private Call,None
+408,6556010,ZS6HZ,Marc,Johannesburg,,South Africa,None,Private Call,None
+409,6556017,ZS6HZ,Marc,Johannesburg,,South Africa,None,Private Call,None
+410,6556018,ZS6HZ,Marc,Johannesburg,,South Africa,None,Private Call,None
+411,6556011,ZR6AOR,Cees,Johannesburg,,South Africa,None,Private Call,None
+412,6556012,ZR6WAX,Russell,Johannesburg,,South Africa,None,Private Call,None
+413,6556013,ZS6BIB,Rowan,Centurion Pretoria,,South Africa,None,Private Call,None
+414,6556014,ZR6DLG,David,Johannesburg,,South Africa,None,Private Call,None
+415,6556015,ZR6DRP,Dane,Johannesburg,,South Africa,None,Private Call,None
+416,6556016,ZS6NAT,Norman,Brakpan,,South Africa,None,Private Call,None
+417,6556019,ZS6KED,Errol,Roodepoort,,South Africa,None,Private Call,None
+418,6556020,ZS6RIC,Rickus,Johannesburg,,South Africa,None,Private Call,None
+419,6556021,ZS6PRO,Robert,Johannesburg,,South Africa,None,Private Call,None
+420,6556022,ZS6GL,Graham,Johannesburg,,South Africa,None,Private Call,None
+421,6556023,ZS6MSW,Michael,Johannesburg,,South Africa,None,Private Call,None
+422,6550055,ZS6KZA,Anre,Krugersdorp,,South Africa,None,Private Call,None
+423,6556024,ZS6KZA,Anre,Krugersdorp,,South Africa,None,Private Call,None
+424,6556026,ZS6HJF,Hampie,Johannesburg,,South Africa,None,Private Call,None
+425,6556101,ZS6HJF,Hampie,Johannesburg,,South Africa,None,Private Call,None
+426,6556027,ZS6NJV,Nico,Roodepoort,,South Africa,None,Private Call,None
+427,6556028,ZS6ECF,Elize,Brakpan,,South Africa,None,Private Call,None
+428,6556175,ZS6ECF,Elize,Brakpan,,South Africa,None,Private Call,None
+429,6556029,ZS6SEL,Selwyn,Kempton Park,,South Africa,None,Private Call,None
+430,6556030,ZS6RBJ,Rory,Roodepoort,,South Africa,None,Private Call,None
+431,6556038,ZS6RBJ,Rory,Roodepoort,,South Africa,None,Private Call,None
+432,6556031,ZS6BWW,Gavin,Johannesburg,,South Africa,None,Private Call,None
+433,6556126,ZS6BWW,Gavin,Johannesburg,,South Africa,None,Private Call,None
+434,6556032,ZS6CMO,Curtis,Alberton,,South Africa,None,Private Call,None
+435,6556052,ZS6CMO,Curtis,Alberton,,South Africa,None,Private Call,None
+436,6556033,ZS6ADN,Adrian,Alberton,,South Africa,None,Private Call,None
+437,6556048,ZS6ADN,Adrian,Alberton,,South Africa,None,Private Call,None
+438,6556034,ZS6WT,Anthony,Alberton,,South Africa,None,Private Call,None
+439,6556035,ZS6LOL,Nico,Roodepoort,,South Africa,None,Private Call,None
+440,6556036,ZS6BM,Marinus,Roodepoort,,South Africa,None,Private Call,None
+441,6556069,ZS6BM,Marinus,Roodepoort,,South Africa,None,Private Call,None
+442,6556039,ZS6ITI,Domenic,Edenvale,,South Africa,None,Private Call,None
+443,6556040,ZS6WIM,Willem,Springs,,South Africa,None,Private Call,None
+444,6556139,ZS6WIM,Willem,Springs,,South Africa,None,Private Call,None
+445,6556041,ZS6TVB,Theo,Pretoria,,South Africa,None,Private Call,None
+446,6556042,ZS6GJM,Gabriel,Pretoria,,South Africa,None,Private Call,None
+447,6556043,ZS6JPL,Johan,Pretoria,Gauteng,South Africa,None,Private Call,None
+448,6556070,ZS6JPL,Johan,Pretoria,Gauteng,South Africa,None,Private Call,None
+449,6556044,ZS6RH,Craig,Pretoria,,South Africa,None,Private Call,None
+450,6556045,ZS6AH,Andre,Pretoria,,South Africa,None,Private Call,None
+451,6556046,ZS6EY,Hennie,Vanderbijlpark,,South Africa,None,Private Call,None
+452,6556077,ZS6EY,Hennie,Vanderbijlpark,,South Africa,None,Private Call,None
+453,6556049,ZS6YI,Gary,Vereeniging,,South Africa,None,Private Call,None
+454,6556050,ZR6AIC,Anton,Bassonia,,South Africa,None,Private Call,None
+455,6556051,ZR6AIC,Anton,Bassonia,,South Africa,None,Private Call,None
+456,6556053,ZR6AUK,Daniel,Pretoria,,South Africa,None,Private Call,None
+457,6556054,ZS6MI,Roy,Pretoria,,South Africa,None,Private Call,None
+458,6556055,ZS6MJP,Mark,Krugersdorp,,South Africa,None,Private Call,None
+459,6556056,ZR6LSD,Dave,Boksborg,,South Africa,None,Private Call,None
+460,6556057,ZS6CSI,Johnny,Brakpan,,South Africa,None,Private Call,None
+461,6556058,ZS6SDJ,Johan,Brakpan,,South Africa,None,Private Call,None
+462,6556059,ZS6SP,Peter,Pretoria,,South Africa,None,Private Call,None
+463,6556063,ZS6SP,Peter,Pretoria,,South Africa,None,Private Call,None
+464,6556060,ZS6ANF,Andre,Pretoria,,South Africa,None,Private Call,None
+465,6556061,ZS6AAG,Jean-Louis,Shongwe Mission,,South Africa,None,Private Call,None
+466,6556062,ZS6ARA,Jean,Centurion,,South Africa,None,Private Call,None
+467,6556064,ZS6IDB,Imile,Vereeniginng,,South Africa,None,Private Call,None
+468,6556065,ZS6AVS,Ferdi,Vanderbijlpark,,South Africa,None,Private Call,None
+469,6556066,ZS6PX,Jaco,Vereeniging,,South Africa,None,Private Call,None
+470,6556067,ZS6SL,Erich,Boksburg,,South Africa,None,Private Call,None
+471,6556068,ZS6HLR,Hennie,Vereeniging,,South Africa,None,Private Call,None
+472,6556071,ZS6TA,George,Pretoria,,South Africa,None,Private Call,None
+473,6556073,ZS6TA,George,Pretoria,,South Africa,None,Private Call,None
+474,6556072,ZS6MDV,,Johannesburh,,South Africa,None,Private Call,None
+475,6556074,ZS6DMX,Johan,Boksburg,,South Africa,None,Private Call,None
+476,6556075,ZS6DJD,,Meyerton,,South Africa,None,Private Call,None
+477,6556076,ZS6JMG,Jaco,Meyerton,,South Africa,None,Private Call,None
+478,6556078,ZS6IIX,Henry,Benoni,,South Africa,None,Private Call,None
+479,6556132,ZS6IIX,Henry,Benoni,,South Africa,None,Private Call,None
+480,6556079,ZS6PAJ,Phil,Johannesburg,,South Africa,None,Private Call,None
+481,6556093,ZS6PAJ,Phil,Johannesburg,,South Africa,None,Private Call,None
+482,6556080,ZS6MN,Nico,Meyerton,,South Africa,None,Private Call,None
+483,6556081,ZS6JMN,Gerhard,Pretoria,,South Africa,None,Private Call,None
+484,6556082,ZS6ZN,Natalia,Gauteng,,South Africa,None,Private Call,None
+485,6556083,ZS6BQP,Martin,Pretoria,,South Africa,None,Private Call,None
+486,6556084,ZS6PMT,,Witbank,,South Africa,None,Private Call,None
+487,6556209,ZS6PMT,,Witbank,,South Africa,None,Private Call,None
+488,6556085,ZS6JGP,Justin,Sandton,,South Africa,None,Private Call,None
+489,6556086,ZS6LEB,Mark,Johannesburg,,South Africa,None,Private Call,None
+490,6556087,ZS6HRK,Hans,Sandton,,South Africa,None,Private Call,None
+491,6556088,ZS6KCM,Kaitlin,Johannesburg,,South Africa,None,Private Call,None
+492,6556089,ZS6MEM,Michelle,Johannesburg,,South Africa,None,Private Call,None
+493,6556090,ZS6VM,Veronica,Johannesburg,,South Africa,None,Private Call,None
+494,6556091,ZS6RJM,Richard,Johannesburg,,South Africa,None,Private Call,None
+495,6556092,ZS6GPM,Graham,Johannesburg,,South Africa,None,Private Call,None
+496,6556094,ZS6HWG,Allen,Vanderbijlpark,,South Africa,None,Private Call,None
+497,6556095,ZS6ROB,Robert,Boksburg,,South Africa,None,Private Call,None
+498,6556096,ZS6LMG,,Johannesburg,,South Africa,None,Private Call,None
+499,6556108,ZS6LMG,,Johannesburg,,South Africa,None,Private Call,None
+500,6556097,ZR6MM,Stefan,Pretoria,,South Africa,None,Private Call,None
+501,6556098,ZR6AEZ,Nic,Roodepoort,,South Africa,None,Private Call,None
+502,6556100,ZS6LML,Linda,Johannesburg,,South Africa,None,Private Call,None
+503,6556109,ZS6LML,Linda,Johannesburg,,South Africa,None,Private Call,None
+504,6556102,ZS6DGB,David,Randburg,,South Africa,None,Private Call,None
+505,6556103,ZS6PCS,Pierre,Pretoria,,South Africa,None,Private Call,None
+506,6556104,ZS6BG,Gavin,Benoni,,South Africa,None,Private Call,None
+507,6556105,ZS6PS,ZS6PS,Pretoria,,South Africa,None,Private Call,None
+508,6556106,ZS6OTL,ZS6OTL,Middelburg,,South Africa,None,Private Call,None
+509,6556107,ZS6LAM,Anton,Bronkhorstspruit,,South Africa,None,Private Call,None
+510,6556123,ZS6LAM,Anton,Bronkhorstspruit,,South Africa,None,Private Call,None
+511,6556110,ZS6SDC,Sdconradie,Heidelberg,,South Africa,None,Private Call,None
+512,6556111,ZS6WDL,ZS6WDL,Piet Retief,,South Africa,None,Private Call,None
+513,6556125,ZS6WDL,ZS6WDL,Piet Retief,,South Africa,None,Private Call,None
+514,6556112,ZS6J,Johann,Pretoria,,South Africa,None,Private Call,None
+515,6556211,ZS6J,Johann,Pretoria,,South Africa,None,Private Call,None
+516,6556113,ZS6EMS,Hannes,Benoni,,South Africa,None,Private Call,None
+517,6556151,ZS6EMS,Hannes,Benoni,,South Africa,None,Private Call,None
+518,6556114,ZS6SSR,Don,Kempton Park,,South Africa,None,Private Call,None
+519,6556115,ZS6GOO,Angus,Randburg,,South Africa,None,Private Call,None
+520,6556116,ZR6BDZ,Langes,Middelburg,,South Africa,None,Private Call,None
+521,6556117,ZS6ELI,Evan,Pretoria,,South Africa,None,Private Call,None
+522,6556118,ZS6ADR,Ronnie,Witbank,,South Africa,None,Private Call,None
+523,6556119,ZR6WTF,Grant,Johannesburg,,South Africa,None,Private Call,None
+524,6556120,ZS6JES,Jess,Bapsfontein,,South Africa,None,Private Call,None
+525,6556121,ZS6AF,Johan,Nelspruit,,South Africa,None,Private Call,None
+526,6556122,ZS6PVT,Phillip,Roodepoort,,South Africa,None,Private Call,None
+527,6556124,ZR6DWS,De Wet,Boksburg,,South Africa,None,Private Call,None
+528,6556127,ZS6HAK,Singe,Pretoria,,South Africa,None,Private Call,None
+529,6556128,ZS6RAR,Richardt,Pretoria,,South Africa,None,Private Call,None
+530,6556183,ZS6RAR,Richardt,Pretoria,,South Africa,None,Private Call,None
+531,6556129,ZR6AUU,LINTON,MUSINA,,South Africa,None,Private Call,None
+532,6556130,ZS6RAS,Alastair,Johannesburg,,South Africa,None,Private Call,None
+533,6556131,ZS6SKY,Stephen,Kempton Park,,South Africa,None,Private Call,None
+534,6556133,ZS6BSH,Yvonne,Middelburg,,South Africa,None,Private Call,None
+535,6556134,ZS6OB,Pine,Pretoria,,South Africa,None,Private Call,None
+536,6556135,ZS6PJS,JM Schepers,Randburg,,South Africa,None,Private Call,None
+537,6556136,ZS6VS,Dawid,Middelburg,,South Africa,None,Private Call,None
+538,6556137,ZS6SBV,Ronel,Middelburg,,South Africa,None,Private Call,None
+539,6556138,ZS6CSV,Conrad,Lydenburg,,South Africa,None,Private Call,None
+540,6556177,ZS6CSV,Conrad,Lydenburg,,South Africa,None,Private Call,None
+541,6556140,ZS6OPS,Chad,Roodepoort,Gauteng,South Africa,None,Private Call,None
+542,6556141,ZR6RON,ZR6RON,Discovery,,South Africa,None,Private Call,None
+543,6556142,ZS6XP,Piet,Middelburg,,South Africa,None,Private Call,None
+544,6556143,ZS6REY,Att,Rayton,,South Africa,None,Private Call,None
+545,6556144,ZS6WTF,Kyle,Roodepoort,Gauteng,South Africa,None,Private Call,None
+546,6556145,ZS6TIM,Tim,Pretoria,,South Africa,None,Private Call,None
+547,6556146,ZR6JC,Johan,Johannesburg,,South Africa,None,Private Call,None
+548,6556147,ZS6G,Piet,White River,,South Africa,None,Private Call,None
+549,6556148,ZS6RM,Hennie,Rustenburg,,South Africa,None,Private Call,None
+550,6556149,ZS6LDV,Louise,Rustenburg,,South Africa,None,Private Call,None
+551,6556150,ZS6KRW,Kelvin,Randburg,,South Africa,None,Private Call,None
+552,6556152,ZR6TG,Tom,Vanderbijlpark,,South Africa,None,Private Call,None
+553,6556153,ZR6CP,Shrek-Polly,Weltevredenpark,,South Africa,None,Private Call,None
+554,6556173,ZR6CP,Shrek-Polly,Weltevredenpark,,South Africa,None,Private Call,None
+555,6556154,ZS6BML,Machael,Polokwane,,South Africa,None,Private Call,None
+556,6556155,ZR6RB,Romeo,Vanderbijlpark,,South Africa,None,Private Call,None
+557,6556156,ZS6CHS,Corlie,Pretoria,,South Africa,None,Private Call,None
+558,6556157,ZS6JT,Henk,Middelburg,,South Africa,None,Private Call,None
+559,6556158,ZS6MAW,Marinus ZS6MAW,Pretoria,,South Africa,None,Private Call,None
+560,6556159,ZS6BYT,Scott,Heidelberg,,South Africa,None,Private Call,None
+561,6556160,ZS6OK,Liv,Vanderbijlpark,,South Africa,None,Private Call,None
+562,6556161,ZS6RHZ,Rod,Kempton Park,,South Africa,None,Private Call,None
+563,6556162,ZS6AW,Danny,Randburg Johannesburg,,South Africa,None,Private Call,None
+564,6556163,ZS6ART,ZS6ARTG,Roodepoort,,South Africa,None,Private Call,None
+565,6556164,ZS6ANE,Nigel,Pretoria,,South Africa,None,Private Call,None
+566,6556165,ZS6JNG,John,Benoni,Gauteng,South Africa,None,Private Call,None
+567,6556166,ZR6HYW,Marinus Haywood,Pretoria,,South Africa,None,Private Call,None
+568,6556169,ZR6HYW,Marinus Haywood,Pretoria,,South Africa,None,Private Call,None
+569,6556167,ZS6GGA,Glen,Johannesburg,,South Africa,None,Private Call,None
+570,6556168,ZS6WY,Wynand,Johannesburg,,South Africa,None,Private Call,None
+571,6556170,ZS6WPD,WILLEM,VEREENIGING,,South Africa,None,Private Call,None
+572,6556171,ZR6WR,Richard,Randburg,,South Africa,None,Private Call,None
+573,6556172,ZS6GBD,Boesman,Centurion,,South Africa,None,Private Call,None
+574,6556174,ZS6JSJ,JJ,Pretoria,,South Africa,None,Private Call,None
+575,6556176,ZR6ATS,Stretchy,Eastleigh,,South Africa,None,Private Call,None
+576,6556178,ZS6VIL,Bertus Viljoen,Pretoria,,South Africa,None,Private Call,None
+577,6556179,ZS6GLN,Glynn Chamberlain,Benoni,,South Africa,None,Private Call,None
+578,6556180,ZS6SSB,Quintin,Germiston,Gauteng,South Africa,None,Private Call,None
+579,6556181,ZR6ZAK,Zak,Pretoria,,South Africa,None,Private Call,None
+580,6556182,ZS6KB,Kevin,Johannesburg,,South Africa,None,Private Call,None
+581,6556184,ZS6SNY,AdrSny,Krugersdorp,,South Africa,None,Private Call,None
+582,6556185,ZS6DGS,Dirk,Sandton,,South Africa,None,Private Call,None
+583,6556186,ZS6S,Al,Johannesburg,,South Africa,None,Private Call,None
+584,6556187,ZS6ZYM,Jan,Vanderbijlpark,,South Africa,None,Private Call,None
+585,6556188,ZS6AGE,Gordon,Roodepoort,,South Africa,None,Private Call,None
+586,6556189,ZS6JGL,John,Pretoria,,South Africa,None,Private Call,None
+587,6556190,ZS6RPL,Roelof,Pretoria,,South Africa,None,Private Call,None
+588,6556191,ZS6ELX,Edward,Pretoria,,South Africa,None,Private Call,None
+589,6556192,ZS6PGN,Peet,Pretoria,,South Africa,None,Private Call,None
+590,6556193,ZS6GTK,Gerrie,Pretoria,,South Africa,None,Private Call,None
+591,6556194,ZS6STE,Stephen,Roodepoort,,South Africa,None,Private Call,None
+592,6556195,ZS6DVG,Danie,Pretoria,,South Africa,None,Private Call,None
+593,6556196,ZS6BMN,Jan,Centurion,,South Africa,None,Private Call,None
+594,6556197,ZS6IW,Johan,Dunnottar,Gauteng,South Africa,None,Private Call,None
+595,6556198,ZR6DBE,Bernhard,Lanseria,,South Africa,None,Private Call,None
+596,6556199,ZS6ACC,Dave,Roodepoort,,South Africa,None,Private Call,None
+597,6556200,ZS6DVD,Schalk,Skukuza,,South Africa,None,Private Call,None
+598,6556201,ZS6C,Geoff,RoodepoortKrugersdorp,,South Africa,None,Private Call,None
+599,6556202,ZS6ALH,AndreH,Roodepoort,,South Africa,None,Private Call,None
+600,6556203,ZS6MC,Henry,Johannesburg,,South Africa,None,Private Call,None
+601,6556204,ZS6HR,Rainer,Linden,,South Africa,None,Private Call,None
+602,6556205,ZS6CVM,Chris,Pretoria,,South Africa,None,Private Call,None
+603,6556206,ZS6ZA,Etienne,Kempton Park,Gauteng,South Africa,None,Private Call,None
+604,6556207,ZR6GD,Grant,Johannesburg,,South Africa,None,Private Call,None
+605,6556208,ZS6NMP,Nico,Johannesburg,,South Africa,None,Private Call,None
+606,6556210,ZS6VB,Hardus,Randburg,,South Africa,None,Private Call,None
+607,6556212,ZS6JBS,B Sinner,Melville,,South Africa,None,Private Call,None
+608,6556213,ZS6RL,Lappies,Potchefstroom,Gauteng,South Africa,None,Private Call,None
+609,6556214,ZS6JRM,James,Randburg,,South Africa,None,Private Call,None
+610,6556215,ZS6BJG,Bestus,WITBANK,,South Africa,None,Private Call,None
+611,6556216,ZR6RTN,Corrie,Roodepoort,,South Africa,None,Private Call,None
+612,6556217,ZS6BOX,Cliff,Randburg,,South Africa,None,Private Call,None
+613,6556218,ZS6JML,Johan,Boksburg,,South Africa,None,Private Call,None
+614,6556219,ZS6ET,Ettienne Scheepers,Johannesburg,,South Africa,None,Private Call,None
+615,6556220,ZS6ZET,ZS6ZET,Benoni Johannesburg,,South Africa,None,Private Call,None
+616,6550056,ZS6HM,Hennie,Pretoria,,South Africa,None,Private Call,None
+617,6550057,ZS1SCH,ZS1SCH,Cape Town,,South Africa,None,Private Call,None
+618,6550058,ZS4OB,GILLIS,,,South Africa,None,Private Call,None
+619,6550059,ZS6KVZ,Kobie,Johannesburg,,South Africa,None,Private Call,None
+620,6550060,ZS1DMS,David,Cape Town,Cape,South Africa,DMR,Private Call,None
+621,6550061,ZS6HI,Keith,Farmall Johannesburg,Gauteng,South Africa,DMR,Private Call,None
+622,6550062,ZS1ZU,Reddam House Amateur Radio Club,Durbanville Cape Town,,South Africa,DMR,Private Call,None
+623,6550063,ZS1AL,Allan,Cape Town,Cape,South Africa,DMR,Private Call,None
+624,6550065,ZS6DPR,Danie,Pretoria,Gauteng,South Africa,DMR,Private Call,None
+625,6550066,ZS5O,Hugo,Pinetown,Kwazulu-Natal,South Africa,DMR,Private Call,None
+626,6550067,ZS6PVW,Pieter L,0183 Pretoria,Gauteng,South Africa,DMR,Private Call,None
+627,6550068,ZS1GAF,Sean,Milnerton,Cape,South Africa,DMR,Private Call,None
+628,6550086,ZS6PL,Derek,Pretoria,Gauteng,South Africa,DMR,Private Call,None
+629,6550070,ZS5CAL,Calvin Clive,Durban,Kwazulu-Natal,South Africa,DMR,Private Call,None
+630,6550071,ZS5DDB,David,Pretoria,Gauteng,South Africa,DMR,Private Call,None
+631,6550072,ZS1KK,David J,Cape Town,Cape,South Africa,DMR,Private Call,None
+632,6550073,ZS6JDE,Hannes,Pretoria,Gauteng,South Africa,DMR,Private Call,None
+633,6550074,ZS6KY,Johan,Johannesburg,Gauteng,South Africa,DMR,Private Call,None
+634,6550075,ZS6TJ,Ronald,Johannesburg,Gauteng,South Africa,DMR,Private Call,None
+635,6550076,ZS6CRT,EmComm Assist CERT,Roodepoort,Gauteng,South Africa,DMR,Private Call,None
+636,6550081,ZS1HC,Stan,Cape Town,Cape,South Africa,DMR,Private Call,None
+637,6550077,ZS6MHG,Mark,Potchefstroom,,South Africa,DMR,Private Call,None
+638,6550078,ZR1ABO,Neil,Somerset West,Cape,South Africa,DMR,Private Call,None
+639,6550079,ZS6NG,Neilen,Randfontein,Gauteng,South Africa,DMR,Private Call,None
+640,6550080,ZS6GJF,Glynis J,Oaktree,Gauteng,South Africa,DMR,Private Call,None
+641,6550082,ZS6BOR,Barend,Randpark Ridge,Gauteng,South Africa,DMR,Private Call,None
+642,6550083,ZS2BCM,Albertus,Jeffreys Bay,Eastern Cape,South Africa,DMR,Private Call,None
+643,6550084,ZR1DX,Dx Safari Radio Club,NoneCape Town,Cape,South Africa,DMR,Private Call,None
+644,6340001,ST2JB,John,Khartoum,,Sudan,None,Private Call,None
+645,6530001,3DA0MF,Louis,Mazini,,Swasiland,None,Private Call,None
+646,6400001,5H3DX,Charles,Zinga,,Tanzania,None,Private Call,None
+647,6150001,5V1JE,John,Lome,,Togo,None,Private Call,None
+648,6450001,9J2YO,Gabi,Lusaka,,Zambia,None,Private Call,None
+649,6450002,9J2RD,Rob,Ndola,,Zambia,None,Private Call,None
+650,6450003,9J2BS,Jerry,Mufulira,,Zambia,None,Private Call,None
+651,6480001,Z21NRT,David,Harare,,Zimbabwe,None,Private Call,None
+652,6480002,Z21EK,Howard,Harare,,Zimbabwe,None,Private Call,None
