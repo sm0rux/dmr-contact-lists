@@ -3852,7 +3852,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 3851,2400195,SM0XSY,Sten,Upplands-Vasby,Stockholm,Sweden,None,Private Call,None
 3852,2400196,SM0VUX,Jan,Alvsjo,Stockholm,Sweden,None,Private Call,None
 3853,2400197,SA0LAT,Thor,Upplands-Vasby,Stockholm,Sweden,None,Private Call,None
-3854,2400198,SM0GZD,Guy,Jarfalla,Stockholm,Sweden,None,Private Call,None
+3854,2400198,SM0GZD,Guy,Jarfalla,Stockholm,Sweden,,Private Call,None
 3855,2400199,SE0P,Palle,Upplands-Vasby,,Sweden,None,Private Call,None
 3856,2400200,SM0IES,Dioden,Jarna,Stockholm,Sweden,None,Private Call,None
 3857,2400201,SM0RVV,Erik,Jarfalla,Stockholm,Sweden,None,Private Call,None
@@ -4120,7 +4120,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 4119,2400475,SM5PIZ,Tomas,Kungsor,,Sweden,None,Private Call,None
 4120,2400476,SM5FJD,Hans,Strangnas,,Sweden,None,Private Call,None
 4121,2400477,SM0HWY,Olof,Alvsjo,Stockholm,Sweden,None,Private Call,None
-4122,2400478,SM7IZJ,Rolf,Helsingborg,,Sweden,None,Private Call,None
+4122,2400478,SM7IZJ,Rolf,Helsingborg,Skane,Sweden,None,Private Call,None
 4123,2400479,SM6MMX,Johan,Molndal,,Sweden,None,Private Call,None
 4124,2400480,SA5ACN,Joakim,Norrkoping,,Sweden,None,Private Call,None
 4125,2405066,SA5ACN,Joakim,Norrkoping,,Sweden,None,Private Call,None
@@ -4158,7 +4158,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 4157,2400510,SM5DRW,Erka,Nykoping,,Sweden,None,Private Call,None
 4158,2400511,SM2ILF,Stefan,Skelleftea,,Sweden,None,Private Call,None
 4159,2400512,SM7DKF,Ronnie,Hollviken,,Sweden,None,Private Call,None
-4160,2400513,SK7RFL,Analog,Algutsrum,,Sweden,None,Private Call,None
+4160,2400513,SK7RFL,Analog,Algutsrum,Kalmar,Sweden,None,Private Call,None
 4161,2400514,SM0LTC,Matte,Farentuna,Stockholm,Sweden,None,Private Call,None
 4162,2400515,SM6YVI,SM6YVI,Goteborg,,Sweden,None,Private Call,None
 4163,2400516,SA6TAO,Tord,Vallda,,Sweden,None,Private Call,None
@@ -4168,7 +4168,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 4167,2400520,SA5LKX,Ludde,Uppsala,,Sweden,None,Private Call,None
 4168,2400521,SM6STI,Johan,Goteborg,,Sweden,None,Private Call,None
 4169,2400522,SM2WLQ,THOMAS,Umea,,Sweden,None,Private Call,None
-4170,2400523,SM5WEB,Tobias,,,Sweden,None,Private Call,None
+4170,2400523,SM5WEB,Tobias,Skultuna,Vastmanland,Sweden,None,Private Call,None
 4171,2400524,SA3SMB,Mikael,Jarbo,,Sweden,None,Private Call,None
 4172,2400525,SA4JOK,Johan,Solleron,,Sweden,None,Private Call,None
 4173,2400526,SM6XWE,Ola,Tibro,,Sweden,None,Private Call,None
@@ -4241,7 +4241,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 4240,2402014,SM2OAN,Mikael,Kalix,,Sweden,None,Private Call,None
 4241,2402015,SM2VTS,Magnus,Umea,,Sweden,None,Private Call,None
 4242,2402016,SM2DCU,Olof,Vannas,,Sweden,None,Private Call,None
-4243,2402019,SM2RHL,Andre,Boliden,,Sweden,None,Private Call,None
+4243,2402019,SM2RHL,Andre,Skelleftea,,Sweden,None,Private Call,None
 4244,2402021,SA2BDO,Patohls,Hornefors,,Sweden,None,Private Call,None
 4245,2402074,SA2BDO,Patohls,Hornefors,,Sweden,None,Private Call,None
 4246,2402022,SM2FXT,JABE,Skelleftea,,Sweden,Anytone,Private Call,None
@@ -4323,7 +4323,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 4322,2403005,SM3CKA,Orjan,Sjalevad,Vasternorrland,Sweden,None,Private Call,None
 4323,2403041,SM3CKA,Orjan,Sjalevad,Vasternorrland,Sweden,None,Private Call,None
 4324,2403006,SM3EFS,Lennart,Kvissleby,,Sweden,None,Private Call,None
-4325,2403007,SA3AER,Henrik,Sundsvall,,Sweden,None,Private Call,None
+4325,2403007,SA3AER,Henrik,Sundsvall,Vasternorrland,Sweden,None,Private Call,None
 4326,2403008,SA3CKC,Robin,Hofors,,Sweden,None,Private Call,None
 4327,2403059,SA3CKC,Robin,Hofors,,Sweden,None,Private Call,None
 4328,2403009,SM3VEG,Ove,Shammar,,Sweden,None,Private Call,None
@@ -5255,14 +5255,14 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 5254,2407024,SM7JUN,Thomas,Loddekopinge,,Sweden,None,Private Call,None
 5255,2407025,SA7BVQ,Joakim,Eslov,,Sweden,None,Private Call,None
 5256,2407032,SA7BVQ,Joakim,Eslov,,Sweden,None,Private Call,None
-5257,2407026,SM7IKJ,Ronny,Loesboda,,Sweden,None,Private Call,None
-5258,2407174,SM7IKJ,Ronny,Loesboda,,Sweden,None,Private Call,None
+5257,2407026,SM7IKJ,Ronny,Lonsboda,Skane,Sweden,None,Private Call,None
+5258,2407174,SM7IKJ,Ronny,Lonsboda,Skane,Sweden,None,Private Call,None
 5259,2407027,SA7BSK,Kevin,Malmo,Skane,Sweden,None,Private Call,None
 5260,2407231,SA7BSK,Kevin,Malmo,Skane,Sweden,None,Private Call,None
 5261,2407028,SA7BPE,Henrik,Teckomatorp,,Sweden,None,Private Call,None
 5262,2407029,SM7VLL,Haakan,Malmo,,Sweden,None,Private Call,None
 5263,2407296,SM7VLL,Haakan,Malmo,,Sweden,None,Private Call,None
-5264,2407030,SK7PL,Radioclub,Lonsboda,,Sweden,None,Private Call,None
+5264,2407030,SK7PL,Radioclub,Lonsboda,Skane,Sweden,None,Private Call,None
 5265,2407031,SA7BLZ,Lasse,Hyllinge,,Sweden,None,Private Call,None
 5266,2407033,SM7OYS,Tommy,Svedala,,Sweden,None,Private Call,None
 5267,2407034,SM7WDL,Ronald,Malmo,,Sweden,None,Private Call,None
@@ -5346,12 +5346,12 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 5345,2407103,SA7ARZ,Conny,Kvidinge,,Sweden,None,Private Call,None
 5346,2407109,SA7ARZ,Conny,Kvidinge,,Sweden,None,Private Call,None
 5347,2407104,SK7NU,Bengt,Helsingborg,,Sweden,None,Private Call,None
-5348,2407105,SG7IKJ,Ronny,Lonsboda,,Sweden,Hotspot,Private Call,None
-5349,2407188,SG7IKJ,Ronny,Lonsboda,,Sweden,Hotspot,Private Call,None
+5348,2407105,SG7IKJ,Ronny,Lonsboda,Skane,Sweden,Hotspot,Private Call,None
+5349,2407188,SG7IKJ,Ronny,Lonsboda,Skane,Sweden,Hotspot,Private Call,None
 5350,2407106,SM7WZM,Magnus,Vaxjo,,Sweden,None,Private Call,None
 5351,2407107,SA7KSI,Gustav,Vaxjo,,Sweden,None,Private Call,None
 5352,2407115,SA7KSI,Gustav,Vaxjo,,Sweden,None,Private Call,None
-5353,2407108,SM7YJB,Roger,Trelleborg,Skane,Sweden,,Private Call,None
+5353,2407108,SM7YJB,Roger,Hoor,Skane,Sweden,,Private Call,None
 5354,2407111,SK7HO,Burlovs,Skaningsboda,,Sweden,None,Private Call,None
 5355,2407112,SM7PHS,Borje,Alvesta,,Sweden,None,Private Call,None
 5356,2407113,SM7IZZ,Johan,Ystad,,Sweden,None,Private Call,None
@@ -5480,7 +5480,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 5479,2407251,SM7FWZ,Ronny,Forserum,,Sweden,None,Private Call,None
 5480,2407252,SM7VZP,Sm7vzp,Vastervik,,Sweden,None,Private Call,None
 5481,2407253,SM7YTJ,Sm7ytj,Korsberga,,Sweden,None,Private Call,None
-5482,2407254,SA7LAK,SA7LAK,Trelleborg,,Sweden,None,Private Call,None
+5482,2407254,SA7LAK,Sa7Lak,Trelleborg,Skane,Sweden,None,Private Call,None
 5483,2407255,SA7ELD,Christian,Vallakra,,Sweden,None,Private Call,None
 5484,2407256,SM7VVN,Mikael,Viken,,Sweden,None,Private Call,None
 5485,2407257,SA7BBF,Peter,Gunnebo,,Sweden,None,Private Call,None
@@ -5647,3 +5647,4 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 5646,2400629,SM6NYJ,Christer,Varberg,Halland,Sweden,DMR,Private Call,None
 5647,2400630,SA7IDE,Hans,Gamleby,Kalmar,Sweden,DMR,Private Call,None
 5648,2400631,SA6MEA,Anders,ELDSBERGA,,Sweden,DMR,Private Call,None
+5649,2400632,SM0ECF,Ingemar,Ekero,,Sweden,DMR,Private Call,None
