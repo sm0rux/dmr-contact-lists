@@ -982,7 +982,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 981,5053373,VK3APC,Moorabbin & District Radio Club,Moorabbin,Victoria,Australia,DMR,Private Call,None
 982,5053374,VK3CC,Peter Joseph,Maryborough Vic 3465,Victoria,Australia,DMR,Private Call,None
 983,5053382,VK3CC,Peter Joseph,Maryborough Vic 3465,Victoria,Australia,DMR,Private Call,None
-984,5053375,VK3FUR,Michael,Gladstone,Queensland,Australia,DMR,Private Call,None
+984,5053375,VK3FUR,Michaela,Gladstone,Queensland,Australia,DMR,Private Call,None
 985,5053376,VK3TOQ,Leigh,Burwood Vic 3125,Victoria,Australia,DMR,Private Call,None
 986,5053377,VK3FRAB,Damien,Melbourne,Victoria,Australia,DMR,Private Call,None
 987,5053378,VK3YNV,Ray,Shepparton Vic 3630,Victoria,Australia,DMR,Private Call,None
@@ -2861,7 +2861,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 2860,5051198,VK4OF,David,BRISBANE,Queensland,Australia,DMR,Private Call,None
 2861,5051199,VK4TKA,Kerrod,DECEPTION BAY,Queensland,Australia,DMR,Private Call,None
 2862,5051200,VK3TV,Mal,Epping,Victoria,Australia,DMR,Private Call,None
-2863,5051201,VK2IDL,Ian,Port Macquarie,New South Wales,Australia,DMR,Private Call,None
+2863,5051201,VK2GL,Ian,Port Macquarie,New South Wales,Australia,DMR,Private Call,None
 2864,5051202,VK2FOX,Nathan,Ingleburn,New South Wales,Australia,DMR,Private Call,None
 2865,5051203,VK4FBUZ,Clay,Glendale,Queensland,Australia,DMR,Private Call,None
 2866,5051204,VK3QL,Ian J,Melbourne Vic 3001,Victoria,Australia,DMR,Private Call,None
@@ -3227,887 +3227,890 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 3226,5051582,VK4HDO,Doug,Ipswich,Queensland,Australia,DMR,Private Call,None
 3227,5051584,VK7AAS,Gabriela,Hobart,Tasmania,Australia,DMR,Private Call,None
 3228,5051585,VK4FOTO,Paul,Townsville,Queensland,Australia,DMR,Private Call,None
-3229,5480001,E51DOM,Dom,Maritime mobile most of the time,,Cook Islands,DMR,Private Call,None
-3230,5460001,FK8HM,PESQUE,Noumea,South Province,New Caledonia,CCS7,Private Call,None
-3231,5460002,FK8HM,PESQUE,Noumea,South Province,New Caledonia,DMR,Private Call,None
-3232,5460003,FK8HM,PESQUE,Noumea,South Province,New Caledonia,Other,Private Call,None
-3233,5460004,FK4RD,Yves,Noumea,South Province,New Caledonia,CCS7,Private Call,None
-3234,5460005,FK1UW,Tardivel,Noumea,South Province,New Caledonia,CCS7,Private Call,None
-3235,5460006,FK4RH,Gilles (Gil),Bourail,South Province,New Caledonia,CCS7,Private Call,None
-3236,5460007,FK8IH,Pierre,NOUMEA,South Province,New Caledonia,DMR,Private Call,None
-3237,5460008,FK8GU,Jacques,PAITA,South Province,New Caledonia,DMR,Private Call,None
-3238,5460009,FK8ET,Jean Michel,Paita,South Province,New Caledonia,DMR,Private Call,None
-3239,5460010,FK4TK,Yannick,mont dore,South Province,New Caledonia,DMR,Private Call,None
-3240,3117107,ZL1TNC,Rex,Dargaville,North Island 2,New Zealand,Portable,Private Call,None
-3241,3117125,ZL1TNC,Rex,Dargaville,North Island 2,New Zealand,Mobile /W9,Private Call,None
-3242,5302057,ZL1TNC,Rex,Dargaville,North Island 2,New Zealand,DMR,Private Call,None
-3243,5301189,ZL1DEF,Nicholas,Auckland,North Island 2,New Zealand,Other,Private Call,None
-3244,5302109,ZL1DEF,Nicholas,Auckland,North Island 2,New Zealand,Other,Private Call,None
-3245,5300001,ZL4SJ,Steve,Mobile,North Island 2,New Zealand,,Private Call,None
-3246,5301035,ZL4SJ,Steve,Mobile,North Island 2,New Zealand,,Private Call,None
-3247,5301037,ZL2FX,Scott,Palmerston N.,,New Zealand,,Private Call,None
-3248,5300003,ZL2UN,Neil,Masterton,,New Zealand,,Private Call,None
-3249,5301038,ZL2UN,Neil,Masterton,,New Zealand,,Private Call,None
-3250,5300004,ZL4SLG,Stephen,Dunedin,,New Zealand,,Private Call,None
-3251,5300005,ZL2JA,Wanganui Amateur Radio Society Inc.,Whanganui,North Island 2,New Zealand,,Private Call,None
-3252,5302036,ZL2JA,Wanganui Amateur Radio Society Inc.,Whanganui,North Island 2,New Zealand,Club Fleet,Private Call,None
-3253,5302037,ZL2JA,Wanganui Amateur Radio Society Inc.,Whanganui,North Island 2,New Zealand,Club Fleet,Private Call,None
-3254,5302038,ZL2JA,Wanganui Amateur Radio Society Inc.,Whanganui,North Island 2,New Zealand,Club Fleet,Private Call,None
-3255,5302039,ZL2JA,Wanganui Amateur Radio Society Inc.,Whanganui,North Island 2,New Zealand,Club Fleet,Private Call,None
-3256,5302040,ZL2JA,Wanganui Amateur Radio Society Inc.,Whanganui,North Island 2,New Zealand,Club Fleet,Private Call,None
-3257,5302041,ZL2JA,Wanganui Amateur Radio Society Inc.,Whanganui,North Island 2,New Zealand,Club Fleet,Private Call,None
-3258,5300006,ZL2IY,Tim,Levin,,New Zealand,,Private Call,None
-3259,5300007,ZL2LOZ,Lawrence,Wellington,,New Zealand,,Private Call,None
-3260,5300008,ZL3WNG,Brian,Dunedin,South Island,New Zealand,,Private Call,None
-3261,5300168,ZL3WNG,Brian,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3262,5300009,ZL3EP,Scott,Christchurch,,New Zealand,,Private Call,None
-3263,5301001,ZL4JY,John,Waikanae,North Island 2,New Zealand,Portable,Private Call,None
-3264,5301002,ZL4JY,John,Waikanae,North Island 2,New Zealand,DMR,Private Call,None
-3265,5301003,ZL4JY,John,Waikanae,North Island 2,New Zealand,Portable,Private Call,None
-3266,5301042,ZL4JY,John,Waikanae,North Island 2,New Zealand,Control Station,Private Call,None
-3267,5302001,ZL4JY,John,Waikanae,North Island 2,New Zealand,Mobile,Private Call,None
-3268,5301005,ZL2JG,Jeff,Waikanae Beach,North Island 2,New Zealand,Portable,Private Call,None
-3269,5302002,ZL2JG,Jeff,Waikanae Beach,North Island 2,New Zealand,Mobile,Private Call,None
-3270,5302003,ZL2JG,Jeff,Waikanae Beach,North Island 2,New Zealand,Portable,Private Call,None
-3271,5301008,ZL2KG,Steve,Kapiti,North Island 2,New Zealand,Portable,Private Call,None
-3272,5302006,ZL2KG,Steve,Kapiti,North Island 2,New Zealand,Mobile,Private Call,None
-3273,5302154,ZL2KG,Steve,Kapiti,North Island 2,New Zealand,927.8Mhz ,Private Call,None
-3274,5301009,ZL2RAY,Ray,Wellington,North Island 1,New Zealand,Portable,Private Call,None
-3275,5301025,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,Loaner #1,Private Call,None
-3276,5301026,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,Loaner #2,Private Call,None
-3277,5302087,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,DMR,Private Call,None
-3278,5302088,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,DMR,Private Call,None
-3279,5302089,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,DMR,Private Call,None
-3280,5302090,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,DMR,Private Call,None
-3281,5302091,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,DMR,Private Call,None
-3282,5302101,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,DMR,Private Call,None
-3283,5302102,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,DMR,Private Call,None
-3284,5301029,ZL1THG,Tom,Hamilton,,New Zealand,Portable,Private Call,None
-3285,5301034,ZL2BEZ,Paul,Wellington,North Island 2,New Zealand,Portable,Private Call,None
-3286,5301049,ZL2BEZ,Paul,Wellington,North Island 2,New Zealand,Mobile,Private Call,None
-3287,5301039,ZL2MGS,Mike,Hamilton,North Island 1,New Zealand,Portable,Private Call,None
-3288,5301040,ZL1UPJ,Jono,Hamilton,North Island 1,New Zealand,Portable,Private Call,None
-3289,5301041,ZL1PK,Phil,Hamilton,North Island 1,New Zealand,Portable,Private Call,None
-3290,5301043,ZL1UX,Hamilton,Hamilton,North Island 1,New Zealand,Club Fleet,Private Call,None
-3291,5301044,ZL1UX,Hamilton,Hamilton,North Island 1,New Zealand,Club Fleet,Private Call,None
-3292,5301045,ZL1RWR,Russ,Hamilton,North Island 1,New Zealand,Mobile,Private Call,None
-3293,5301046,ZL1TOM,Tom,Hamilton,North Island 1,New Zealand,Portable,Private Call,None
-3294,5301047,ZL3IH,Earl,Te Awamutu,North Island 1,New Zealand,Portable,Private Call,None
-3295,5301048,ZL1TOY,Fergus,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3296,5301092,ZL1TOY,Fergus,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3297,5301050,ZL2TDC,Steve,Palmerston North,North Island 1,New Zealand,Portable,Private Call,None
-3298,5301051,ZL2GJL,Geoff,Turangi,North Island 2,New Zealand,Portable,Private Call,None
-3299,5301070,ZL2GJL,Geoff,Turangi,North Island 2,New Zealand,Mobile,Private Call,None
-3300,5301052,ZL1BNG,Neil,Hamilton,North Island 1,New Zealand,Portable,Private Call,None
-3301,5301053,ZL2AJ,Warren Kyle,Rd3 Te Awamutu,North Island 1,New Zealand,Mobile,Private Call,None
-3302,5301166,ZL2AJ,Warren Kyle,Rd3 Te Awamutu,North Island 1,New Zealand,DMR,Private Call,None
-3303,5301054,ZL2ADL,Brian,Sanson,North Island 1,New Zealand,Portable,Private Call,None
-3304,5301055,ZL1JJ,Japie,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3305,5301056,ZL1NE,John,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3306,5301057,ZL1BBZ,Bob,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3307,5301058,ZL1MIT,Malcolm,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3308,5301059,ZL1BNQ,Richard,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3309,5301060,ZL1ICU,Laurie,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3310,5301061,ZL1XR,Roger,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3311,5301062,ZL1JD,John,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3312,5301063,ZL1BQ,Auckland,Auckland,North Island 1,New Zealand,Club Fleet,Private Call,None
-3313,5301064,ZL1BQ,Auckland,Auckland,North Island 1,New Zealand,Club Fleet,Private Call,None
-3314,5301065,ZL1BQ,Auckland,Auckland,North Island 1,New Zealand,Club Fleet,Private Call,None
-3315,5301066,ZL1BQ,Auckland,Auckland,North Island 1,New Zealand,Club Fleet,Private Call,None
-3316,5301067,ZL1BQ,Auckland,Auckland,North Island 1,New Zealand,Club Fleet,Private Call,None
-3317,5301068,ZL1TTE,Doug,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3318,5301069,ZL1KF,Leslie,Hamilton,North Island 1,New Zealand,Portable,Private Call,None
-3319,5301071,ZL2ALY,Cliff,Paraparaumu,North Island 1,New Zealand,Portable,Private Call,None
-3320,5301072,ZL2SFM,Mercer,Wellington,North Island 1,New Zealand,Other,Private Call,None
-3321,5301073,ZL2TWT,Wysocki,Lower Hutt,North Island 1,New Zealand,Other,Private Call,None
-3322,5301074,ZL1HN,Brian,RAGLAN,North Island 1,New Zealand,Portable,Private Call,None
-3323,5301076,ZL1HN,Brian,RAGLAN,North Island 1,New Zealand,Mobile,Private Call,None
-3324,5301077,ZL1HN,Brian,RAGLAN,North Island 1,New Zealand,Other,Private Call,None
-3325,5301075,ZL1CC,Brendan,RAGLAN,North Island 1,New Zealand,Portable,Private Call,None
-3326,5301078,ZL1TBG,Ralph,Warkworth,North Island 1,New Zealand,Mobile,Private Call,None
-3327,5301116,ZL1TBG,Ralph,Warkworth,North Island 1,New Zealand,DMR,Private Call,None
-3328,5301079,ZL1ABX,,AUCKLAND,North Island 1,New Zealand,Portable,Private Call,None
-3329,5301080,ZL1VH,Vaughan,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3330,5301081,ZL1COP,Andrew,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3331,5301082,ZL2ARN,Gordon,Waikanae,North Island 1,New Zealand,Other,Private Call,None
-3332,5301083,ZL1KLP,Riku,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3333,5301110,ZL1KLP,Riku,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3334,5301135,ZL1KLP,Riku,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3335,5301084,ZL2AJS,Tony,Paraparaumu,North Island 1,New Zealand,Mobile,Private Call,None
-3336,5301085,ZL2OLY,Oliver,Wellington,North Island 1,New Zealand,Mobile,Private Call,None
-3337,5301086,ZL1KRH,Kevin,Tauranga,North Island 1,New Zealand,Non-DMR,Private Call,None
-3338,5301087,ZL1AZT,Ian K,Tauranga,North Island 2,New Zealand,Non-DMR,Private Call,None
-3339,5302049,ZL1AZT,Ian K,Tauranga,North Island 2,New Zealand,Other,Private Call,None
-3340,5301088,ZL1TAP,Andrew,TAURANGA,North Island 1,New Zealand,Other,Private Call,None
-3341,5301089,ZL1BVA,John K,Mount Maunganui Tau,North Island 1,New Zealand,Control Station,Private Call,None
-3342,5301177,ZL1BVA,John K,Mount Maunganui Tau,North Island 1,New Zealand,DMR,Private Call,None
-3343,5301090,ZL1DY,Graham,HAMILTON,North Island 1,New Zealand,Portable,Private Call,None
-3344,5301091,ZL1SB,Steve,HENDERSON  AK,North Island 1,New Zealand,Other,Private Call,None
-3345,5301093,ZL1TLC,Tony,auckland,North Island 1,New Zealand,Portable,Private Call,None
-3346,5301094,ZL1GI,Philip,Tauranga,North Island 1,New Zealand,Portable,Private Call,None
-3347,5301095,ZL1SKL,Soren,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3348,5301136,ZL1SKL,Soren,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3349,5301096,ZL3WPK,Paul,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3350,5301097,ZL1GSM,Grant,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3351,5301098,ZL1UOJ,David,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3352,5301099,ZL1BNO,Mark,Auckland,North Island 1,New Zealand,Portable,Private Call,None
-3353,5301100,ZL1BAK,Graeme,Te Aroha,North Island 1,New Zealand,DMR,Private Call,None
-3354,5300098,ZL1WBZ,Neil,Warkworth,North Island 1,New Zealand,Base,Private Call,None
-3355,5301101,ZL1WBZ,Neil,Warkworth,North Island 1,New Zealand,Mobile,Private Call,None
-3356,5301102,ZL1LK,Roy,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3357,5301103,ZL1CTS,Cliff,Tauranga,North Island 1,New Zealand,not used,Private Call,None
-3358,5301104,ZL1CTS,Cliff,Tauranga,North Island 1,New Zealand,not used,Private Call,None
-3359,5301190,ZL1CTS,Cliff,Tauranga,North Island 1,New Zealand,DMR,Private Call,None
-3360,5301105,ZL1OLE,Ole,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3361,5301106,ZL1DAM,David,Cambridge,North Island 1,New Zealand,DMR,Private Call,None
-3362,5301108,ZL1DAM,David,Cambridge,North Island 1,New Zealand,DMR,Private Call,None
-3363,5301107,ZL1AQC,Vic,Tauranga,North Island 1,New Zealand,Other,Private Call,None
-3364,5301109,ZL2RO,Phil,Hastings,North Island 1,New Zealand,CCS7,Private Call,None
-3365,5301111,ZL4DAN,Daniel,Whakatane,North Island 1,New Zealand,DMR,Private Call,None
-3366,5301127,ZL4DAN,Daniel,Whakatane,North Island 1,New Zealand,DMR,Private Call,None
-3367,5300246,ZL3RUM,Karl,Whakatane,North Island 1,New Zealand,DMR TM9300,Private Call,None
-3368,5301112,ZL3RUM,Karl,Whakatane,North Island 1,New Zealand,DMR MD380 & HotSpots,Private Call,None
-3369,5301113,ZL1FE,David,Whakatane,North Island 1,New Zealand,DMR,Private Call,None
-3370,5301114,ZL2HB,Paul,Napier,North Island 1,New Zealand,CCS7,Private Call,None
-3371,5300154,ZL1OBI,Sam,Hamilton,North Island 1,New Zealand,MD-UV380G,Private Call,None
-3372,5301115,ZL1OBI,Sam,Hamilton,North Island 1,New Zealand,MD-UV380G,Private Call,None
-3373,5301117,ZL1TGS,Jim,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3374,5301118,ZL1HSV,Craig,Tauranga,North Island 1,New Zealand,DMR,Private Call,None
-3375,5301119,ZL1HSV,Craig,Tauranga,North Island 1,New Zealand,DMR,Private Call,None
-3376,5301120,ZL1ID,Neil,Tauranga,North Island 1,New Zealand,DMR,Private Call,None
-3377,5301121,ZL1UUP,G N,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3378,5301122,ZL2EP,Michael,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
-3379,5301123,ZL2BJO,Selwyn,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
-3380,5301124,ZL2TFY,David Oliver,Taihape,North Island 1,New Zealand,DMR,Private Call,None
-3381,5301125,ZL2ROR,Phil,Hastings,North Island 1,New Zealand,CCS7,Private Call,None
-3382,5301126,ZL1TAJ,Neill,Tauranga,North Island 1,New Zealand,DMR,Private Call,None
-3383,5301128,ZL1TEC,Tauranga Emergency,Tauranga,North Island 1,New Zealand,Club Fleet,Private Call,None
-3384,5301129,ZL1TEC,Tauranga Emergency,Tauranga,North Island 1,New Zealand,Club Fleet,Private Call,None
-3385,5301130,ZL1TEC,Tauranga Emergency,Tauranga,North Island 1,New Zealand,Club Fleet,Private Call,None
-3386,5301131,ZL1TEC,Tauranga Emergency,Tauranga,North Island 1,New Zealand,Club Fleet,Private Call,None
-3387,5301132,ZL1TEC,Tauranga Emergency,Tauranga,North Island 1,New Zealand,Club Fleet,Private Call,None
-3388,5301133,ZL1TEC,Tauranga Emergency,Tauranga,North Island 1,New Zealand,Club Fleet,Private Call,None
-3389,5301134,ZL2MF,Maurice,Matakana,North Island 1,New Zealand,DMR,Private Call,None
-3390,5300212,ZL1RKW,Ryan,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
-3391,5301137,ZL1RKW,Ryan,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
-3392,5301138,ZL1PKS,K D,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3393,5301139,ZL1MIKE,Mike,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3394,5300251,ZL1AFK,C,Opotiki,North Island 1,New Zealand,DMR,Private Call,None
-3395,5301140,ZL1AFK,C,Opotiki,North Island 1,New Zealand,DMR,Private Call,None
-3396,5301141,ZL4FW,Danny,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3397,5301142,ZL1KNI,James,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3398,5301143,ZL1NB,Nigel,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
-3399,5301144,ZL4BEN,Ben,Wellington,North Island 2,New Zealand,CCS7,Private Call,None
-3400,5302063,ZL4BEN,Ben,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3401,5301145,ZL1RH,Rob,Hamilton,North Island 1,New Zealand,DMR,Private Call,None
-3402,5301146,ZL1MR,David,Papakura,North Island 1,New Zealand,DMR,Private Call,None
-3403,5301152,ZL1MR,David,Papakura,North Island 1,New Zealand,DMR,Private Call,None
-3404,5301163,ZL1MR,David,Papakura,North Island 1,New Zealand,DMR,Private Call,None
-3405,5301147,ZL1IRC,Ian,Papaklura,North Island 1,New Zealand,DMR,Private Call,None
-3406,5301148,ZL1RAC,Craig,New Plymouth,North Island 2,New Zealand,DMR,Private Call,None
-3407,5301149,ZL1TZP,Stephen,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3408,5301150,ZL1AAO,Bruce,Thames,North Island 1,New Zealand,DMR,Private Call,None
-3409,5301151,ZL1YA,Chris,Cambridge,North Island 1,New Zealand,DMR,Private Call,None
-3410,5301153,ZL1DK,David,Southgate  Takanini,North Island 1,New Zealand,Other,Private Call,None
-3411,5301154,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
-3412,5301155,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
-3413,5301156,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
-3414,5301157,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
-3415,5301158,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
-3416,5301159,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
-3417,5301160,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
-3418,5301161,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
-3419,5301162,ZL1TOB,Jeff,Whangarei,North Island 1,New Zealand,Portable,Private Call,None
-3420,5301164,ZL1IA,Ivan,Glendene Auckland 06,North Island 1,New Zealand,DMR,Private Call,None
-3421,5301165,ZL1IA,Ivan,Glendene Auckland 06,North Island 1,New Zealand,DMR,Private Call,None
-3422,5301167,ZL2GV,J D,Tauranga 3118,North Island 1,New Zealand,CCS7,Private Call,None
-3423,5301168,ZL1MLD,Alex,Albany,North Island 1,New Zealand,DMR,Private Call,None
-3424,5301169,ZL1MLD,Alex,Albany,North Island 1,New Zealand,DMR,Private Call,None
-3425,5301030,ZL2KB,Kapiti,Paraparaumu,North Island 1,New Zealand,Loaner #1,Private Call,None
-3426,5301031,ZL2KB,Kapiti,Paraparaumu,North Island 1,New Zealand,Loaner #2,Private Call,None
-3427,5301032,ZL2KB,Kapiti,Paraparaumu,North Island 1,New Zealand,Loaner #3,Private Call,None
-3428,5301033,ZL2KB,Kapiti,Paraparaumu,North Island 1,New Zealand,Loaner #4,Private Call,None
-3429,5301036,ZL2KB,Kapiti,Paraparaumu,North Island 1,New Zealand,Fleet,Private Call,None
-3430,5301170,ZL2KB,Kapiti,Paraparaumu,North Island 1,New Zealand,DMR,Private Call,None
-3431,5301171,ZL2KB,Kapiti,Paraparaumu,North Island 1,New Zealand,DMR,Private Call,None
-3432,5301172,ZL1RIC,Ricky,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3433,5301173,ZL2DON,Donald,Lower Hutt,North Island 1,New Zealand,DMR,Private Call,None
-3434,5301178,ZL2DON,Donald,Lower Hutt,North Island 1,New Zealand,DMR,Private Call,None
-3435,5301174,ZL4LEY,Leyton,Hamilton,North Island 1,New Zealand,DMR,Private Call,None
-3436,5301175,ZL1OTF,Ivan,Rodney District,North Island 1,New Zealand,DMR,Private Call,None
-3437,5301176,ZL2JPM,John P (Dr),Wellington,North Island 1,New Zealand,DMR,Private Call,None
-3438,5301179,ZL1IX,Ian N,Whangarei,North Island 1,New Zealand,DMR,Private Call,None
-3439,5301180,ZL1NUX,Gavin L.,Papakura Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3440,5301181,ZL1AA,Zl1aa,Glen Innes Auckland,North Island 1,New Zealand,Club Fleet,Private Call,None
-3441,5301182,ZL1AA,Zl1aa,Glen Innes Auckland,North Island 1,New Zealand,Club Fleet,Private Call,None
-3442,5301183,ZL1JAP,Yasuo,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3443,5301184,ZL1JAP,Yasuo,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3444,5301185,ZL1BIV,Jeff,Beachlands Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3445,5301186,ZL1AKW,Dave,Tauranga,North Island 1,New Zealand,DMR,Private Call,None
-3446,5301187,ZL2ADP,M E,Carterton,North Island 1,New Zealand,DMR,Private Call,None
-3447,5301188,ZL1SWW,Simon,Glendowie,North Island 1,New Zealand,DMR,Private Call,None
-3448,5301191,ZL2DR,David,Levin,North Island 1,New Zealand,DMR,Private Call,None
-3449,5301192,ZL2KI,Kenneth,Levin,North Island 2,New Zealand,DMR,Private Call,None
-3450,5301193,ZL2KI,Kenneth,Levin,North Island 2,New Zealand,DMR,Private Call,None
-3451,5301194,ZL1CNB,Charles,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3452,5301195,ZL2WD,Hayden,Palmerston North,North Island 2,New Zealand,DMR Sec,Private Call,None
-3453,5302073,ZL2WD,Hayden,Palmerston North,North Island 2,New Zealand,DMR Prime,Private Call,None
-3454,5301196,ZL2HJS,Hayden,Palmerston North,North Island 2,New Zealand,Other,Private Call,None
-3455,5302086,ZL2HJS,Hayden,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3456,5301197,ZL2AQL,Mike,Tauranga,North Island 1,New Zealand,DMR,Private Call,None
-3457,5301198,ZL1BQA,E D (Ted),Waiuku,North Island 1,New Zealand,DMR,Private Call,None
-3458,5301215,ZL1BQA,E D (Ted),Waiuku,North Island 1,New Zealand,DMR,Private Call,None
-3459,5301199,ZL2JR,Jhun,New Lynn 0600,North Island 1,New Zealand,DMR,Private Call,None
-3460,5301200,ZL1BU,Graeme,,,New Zealand,DMR,Private Call,None
-3461,5301220,ZL1BU,Graeme,,,New Zealand,DMR,Private Call,None
-3462,5301201,ZL1BCO,Taupo Amateur Radio,Taupo,North Island 1,New Zealand,DMR,Private Call,None
-3463,5301217,ZL1BCO,Taupo Amateur Radio,Taupo,North Island 1,New Zealand,DMR,Private Call,None
-3464,5301221,ZL1BCO,Taupo Amateur Radio,Taupo,North Island 1,New Zealand,Club Fleet,Private Call,None
-3465,5301202,ZL1SK,M R,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3466,5301205,ZL1ED,Edward E,Taupo,North Island 1,New Zealand,DMR,Private Call,None
-3467,5301206,ZL1ED,Edward E,Taupo,North Island 1,New Zealand,DMR,Private Call,None
-3468,5300026,ZL1KFM,Kevin,Te Kauwhata,North Island 1,New Zealand,DMR,Private Call,None
-3469,5301207,ZL1KFM,Kevin,Te Kauwhata,North Island 1,New Zealand,DMR,Private Call,None
-3470,5301208,ZL1CR,Jeremy Pritchard,Hamilton,North Island 1,New Zealand,DMR,Private Call,None
-3471,5301209,ZL1CR,Jeremy Pritchard,Hamilton,North Island 1,New Zealand,DMR,Private Call,None
-3472,5301210,ZL1AMK,Jeff,Whangarei,North Island 1,New Zealand,DMR,Private Call,None
-3473,5301211,ZL1GIU,Bill,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3474,5301212,ZL1GIU,Bill,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3475,5301213,ZL1DX,Bob,Hamilton,North Island 1,New Zealand,DMR,Private Call,None
-3476,5301214,ZL1ULN,David,Henderson Auckland 0610,North Island 1,New Zealand,DMR,Private Call,None
-3477,5301216,ZL1MY,G R,Auckland,North Island 2,New Zealand,DMR,Private Call,None
-3478,5302144,ZL1MY,G R,Auckland,North Island 2,New Zealand,DMR,Private Call,None
-3479,5301218,ZL1KU,Kelvin,Taupo,North Island 1,New Zealand,DMR,Private Call,None
-3480,5301219,ZL1KU,Kelvin,Taupo,North Island 1,New Zealand,DMR,Private Call,None
-3481,5301222,ZL1HX,Bowden (Bow),Rd2 Wellsford,North Island 1,New Zealand,DMR,Private Call,None
-3482,5301223,ZL2REX,Rex,Wellington,North Island 1,New Zealand,DMR,Private Call,None
-3483,5302004,ZL2MDH,Martin,paraparaumu,North Island 2,New Zealand,Portable,Private Call,None
-3484,5302005,ZL3JM,Philip,Kapiti Coast,North Island 2,New Zealand,Portable,Private Call,None
-3485,5302007,ZL2LI,Len,palmerston north,North Island 2,New Zealand,Portable,Private Call,None
-3486,5302008,ZL2AUB,Peter,Palmerston North,North Island 2,New Zealand,Portable,Private Call,None
-3487,5302009,ZL2JML,Warren,Palmerston North,North Island 2,New Zealand,Portable,Private Call,None
-3488,5302152,ZL2JML,Warren,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3489,5302010,ZL2KO,Manawatu Amatuer Radio Soc.Inc Arec,Palmerston North,North Island 2,New Zealand,Club Fleet,Private Call,None
-3490,5302011,ZL2KO,Manawatu Amatuer Radio Soc.Inc Arec,Palmerston North,North Island 2,New Zealand,Club Fleet,Private Call,None
-3491,5302012,ZL2KO,Manawatu Amatuer Radio Soc.Inc Arec,Palmerston North,North Island 2,New Zealand,Club Fleet,Private Call,None
-3492,5302103,ZL2KO,Manawatu Amatuer Radio Soc.Inc Arec,Palmerston North,North Island 2,New Zealand,Club Fleet,Private Call,None
-3493,5302104,ZL2KO,Manawatu Amatuer Radio Soc.Inc Arec,Palmerston North,North Island 2,New Zealand,Club Fleet,Private Call,None
-3494,5302105,ZL2KO,Manawatu Amatuer Radio Soc.Inc Arec,Palmerston North,North Island 2,New Zealand,Club Fleet,Private Call,None
-3495,5302106,ZL2KO,Manawatu Amatuer Radio Soc.Inc Arec,Palmerston North,North Island 2,New Zealand,Club Fleet,Private Call,None
-3496,5302013,ZL2TDA,Denis,Palmerston North,North Island 2,New Zealand,Portable,Private Call,None
-3497,5302015,ZL2CZE,Jan,Napier,North Island 2,New Zealand,Mobile,Private Call,None
-3498,5302016,ZL3TJ,Peter,Wellington,North Island 2,New Zealand,Portable,Private Call,None
-3499,5302017,ZL3TJ,Peter,Wellington,North Island 2,New Zealand,Mobile,Private Call,None
-3500,5302018,ZL2NSA,Michael,Upper Hutt,North Island 2,New Zealand,Mobile,Private Call,None
-3501,5302019,ZL2DAZ,Darren,Palmerston North,North Island 2,New Zealand,Portable,Private Call,None
-3502,5300160,ZL2TYR,Don,Porirua,North Island 2,New Zealand,Portable,Private Call,None
-3503,5302020,ZL2TYR,Don,Porirua,North Island 2,New Zealand,Portable,Private Call,None
-3504,5302021,ZL2ASA,Dinsdale,Palmerston North,North Island 2,New Zealand,Portable,Private Call,None
-3505,5302022,ZL2JTD,Ted,Carterton 5713,North Island 2,New Zealand,Portable,Private Call,None
-3506,5302023,ZL2TXS,Stephen,Paraparaumu,North Island 2,New Zealand,Portable,Private Call,None
-3507,5302024,ZL2WAL,Rob,Wellington,North Island 2,New Zealand,Mobile,Private Call,None
-3508,5302026,ZL1VMF,Mark,Wellington,North Island 2,New Zealand,Other,Private Call,None
-3509,5300054,ZL2CJR,Colin,Otaki,North Island 2,New Zealand,DMR,Private Call,None
-3510,5302027,ZL2CJR,Colin,Otaki,North Island 2,New Zealand,DMR,Private Call,None
-3511,5302028,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3512,5302029,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
-3513,5302030,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
-3514,5302031,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
-3515,5302032,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
-3516,5302033,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
-3517,5302034,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
-3518,5302035,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Loaner,Private Call,None
-3519,5302081,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
-3520,5302082,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
-3521,5302042,ZL1DFC,Rob,Dairy Flat,North Island 2,New Zealand,DMR,Private Call,None
-3522,5302043,ZL1CQO,Jon,Hastings,North Island 2,New Zealand,DMR,Private Call,None
-3523,5302044,ZL1RD,Rob,Dairy Flat,North Island 2,New Zealand,DMR,Private Call,None
-3524,5300022,ZL2NAT,Nate,Paraparaumu,North Island 2,New Zealand,DMR,Private Call,None
-3525,5302045,ZL2NAT,Nate,Paraparaumu,North Island 2,New Zealand,DMR,Private Call,None
-3526,5302046,ZL4RFC,4rf,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
-3527,5302047,ZL4RFC,4rf,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
-3528,5302053,ZL4RFC,4rf,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
-3529,5302054,ZL4RFC,4rf,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
-3530,5300017,ZL1AFZ,Jonathan,Pahiatua,North Island 2,New Zealand,DMR,Private Call,None
-3531,5302048,ZL1AFZ,Jonathan,Pahiatua,North Island 2,New Zealand,DMR,Private Call,None
-3532,5302050,ZL3JON,Jon,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3533,5302051,ZL2TH,Trevor,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3534,5302052,ZL2DAA,David,Auckland,North Island 2,New Zealand,DMR,Private Call,None
-3535,5302055,ZL2DAT,Steven,New Zealand,North Island 2,New Zealand,DMR,Private Call,None
-3536,5302056,ZL2VNZ,Roidain,Masterton,North Island 2,New Zealand,DMR,Private Call,None
-3537,5302058,ZL2MLH,Michael,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3538,5302065,ZL2MLH,Michael,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3539,5302059,ZL2JHG,James,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3540,5302060,ZL1FAT,Aaron,Auckland,North Island 2,New Zealand,DMR,Private Call,None
-3541,5302061,ZL1FAT,Aaron,Auckland,North Island 2,New Zealand,DMR,Private Call,None
-3542,5302062,ZL2WPW,Tony,Hastings,North Island 2,New Zealand,CCS7,Private Call,None
-3543,5302064,ZL2TVM,Gavin,Lower Hutt,North Island 2,New Zealand,DMR,Private Call,None
-3544,5302066,ZL1THU,Simon,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3545,5302067,ZL2HM,Peter,Waipawa,North Island 2,New Zealand,CCS7,Private Call,None
-3546,5302068,ZL1TCG,S G M,Marton,North Island 2,New Zealand,DMR,Private Call,None
-3547,5302069,ZL2GZ,Graeme,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3548,5302070,ZL2KA,Daniel,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3549,5302071,ZL1LC,Jim,Auckland,North Island 2,New Zealand,DMR,Private Call,None
-3550,5302072,ZL2DRM,David,Masterton,North Island 2,New Zealand,CCS7,Private Call,None
-3551,5302074,ZL1OZ,Brett,,,New Zealand,DMR,Private Call,None
-3552,5302123,ZL1OZ,Brett,,,New Zealand,DMR,Private Call,None
-3553,5302075,ZL2AUS,Brett,,,New Zealand,DMR,Private Call,None
-3554,5302107,ZL2AUS,Brett,,,New Zealand,DMR,Private Call,None
-3555,5302077,ZL2DEK,David,Palmerston North,North Island 2,New Zealand,DMR  Mobile,Private Call,None
-3556,5302112,ZL2DEK,David,Palmerston North,North Island 2,New Zealand,DMR  MD380,Private Call,None
-3557,5302140,ZL2DEK,David,Palmerston North,North Island 2,New Zealand,DMR  Ailunce H1,Private Call,None
-3558,5302078,ZL2LOL,Barbara,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3559,5302079,ZL1YHF,Matthew B,Auckland,North Island 2,New Zealand,DMR,Private Call,None
-3560,5302080,ZL1LWR,Syd,Rd 9 Te Puke.,North Island 2,New Zealand,Other,Private Call,None
-3561,5302083,ZL2SNG,Scott N,Levin,North Island 2,New Zealand,DMR,Private Call,None
-3562,5302124,ZL2SNG,Scott N,Levin,North Island 2,New Zealand,DMR,Private Call,None
-3563,5302084,ZL2TED,Ted,Wainuiomata Lower Hu,North Island 2,New Zealand,DMR,Private Call,None
-3564,5302085,ZL2TED,Ted,Wainuiomata Lower Hu,North Island 2,New Zealand,DMR,Private Call,None
-3565,5302093,ZL2RAC,Rachel,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3566,5302094,ZL2ARL,Colin,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3567,5302122,ZL2ARL,Colin,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3568,5302095,ZL2BRF,Brian,Porirua,North Island 2,New Zealand,DMR,Private Call,None
-3569,5302096,ZL2EZ,Tony,Hastings,North Island 2,New Zealand,CCS7,Private Call,None
-3570,5302097,ZL2BEQ,P M,New Zealand 4475,North Island 2,New Zealand,DMR,Private Call,None
-3571,5302098,ZL2WL,Wayne,Havelock North,North Island 2,New Zealand,DMR,Private Call,None
-3572,5302145,ZL2WL,Wayne,Havelock North,North Island 2,New Zealand,DMR,Private Call,None
-3573,5302099,ZL2AMS,Nzart Branch 23 Arec,Marton,North Island 2,New Zealand,Club Fleet,Private Call,None
-3574,5302100,ZL2AMS,Nzart Branch 23 Arec,Marton,North Island 2,New Zealand,Club Fleet,Private Call,None
-3575,5302108,ZL1UBE,Jim D,Dannevirke,North Island 2,New Zealand,DMR,Private Call,None
-3576,5300046,ZL2KEJ,Kim,Palmerston North,North Island 2,New Zealand,Portable,Private Call,None
-3577,5302110,ZL2KEJ,Kim,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3578,5300023,ZL2JEL,John,Aramoho Wanganui,North Island 2,New Zealand,DMR,Private Call,None
-3579,5302111,ZL2JEL,John,Aramoho Wanganui,North Island 2,New Zealand,DMR,Private Call,None
-3580,5302113,ZL2WLR,Wayne L,Hastings,North Island 2,New Zealand,DMR,Private Call,None
-3581,5302146,ZL2WLR,Wayne L,Hastings,North Island 2,New Zealand,DMR,Private Call,None
-3582,5302114,ZL2AEL,Tony A.,Paraparaumu Beach,North Island 2,New Zealand,DMR,Private Call,None
-3583,5302115,ZL1AXG,Mike,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3584,5302116,ZL2AN,Rob,Napier,North Island 2,New Zealand,Other,Private Call,None
-3585,5302117,ZL2WPA,Peter,Waipawa,North Island 2,New Zealand,DMR,Private Call,None
-3586,5302118,ZL2APD,Alan,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3587,5302119,ZL2BILL,Bill,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3588,5302120,ZL2SKY,Allan,Woodville,North Island 2,New Zealand,DMR,Private Call,None
-3589,5302121,ZL2OK,David,Takapau,North Island 2,New Zealand,CCS7,Private Call,None
-3590,5302125,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
-3591,5302126,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
-3592,5302127,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
-3593,5302128,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
-3594,5302129,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
-3595,5302130,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
-3596,5302131,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
-3597,5302132,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
-3598,5302133,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
-3599,5302134,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
-3600,5302135,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
-3601,5302136,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
-3602,5302137,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
-3603,5302138,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
-3604,5300075,ZL4LOL,Dean,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3605,5302139,ZL4LOL,Dean,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3606,5302141,ZL2MCP,Mike,Whanganui,North Island 2,New Zealand,DMR,Private Call,None
-3607,5302142,ZL2MST,Max Julian,Masterton,North Island 2,New Zealand,DMR,Private Call,None
-3608,5302143,ZL2FT,Jason,Wanganui,North Island 2,New Zealand,DMR,Private Call,None
-3609,5302147,ZL2RCL,Robin,Lower Hutt,North Island 2,New Zealand,DMR,Private Call,None
-3610,5302148,ZL2LO,Chris,Wanganui,North Island 2,New Zealand,DMR,Private Call,None
-3611,5302150,ZL2LO,Chris,Wanganui,North Island 2,New Zealand,DMR,Private Call,None
-3612,5302149,ZL2OR,D O,Palmerston North 5301,North Island 2,New Zealand,DMR,Private Call,None
-3613,5302151,ZL2TFG,Warren,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3614,5302153,ZL2KEA,Juno,Levin,North Island 2,New Zealand,DMR,Private Call,None
-3615,5303001,ZL3VP,Gareth,Christchurch,South Island,New Zealand,Mobile,Private Call,None
-3616,5303002,ZL3PX,Geoff,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3617,5303003,ZL4FZ,Richard G,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3618,5303136,ZL4FZ,Richard G,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3619,5303004,ZL3DMC,Don,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3620,5300235,ZL3AC,Christchurch,Christchurch,South Island,New Zealand,Club Mobl 1,Private Call,None
-3621,5300236,ZL3AC,Christchurch,Christchurch,South Island,New Zealand,Club Mobl 2,Private Call,None
-3622,5303005,ZL3AC,Christchurch,Christchurch,South Island,New Zealand,Club Port 1,Private Call,None
-3623,5303006,ZL3AC,Christchurch,Christchurch,South Island,New Zealand,Club Port 2,Private Call,None
-3624,5303026,ZL3AC,Christchurch,Christchurch,South Island,New Zealand,Club Port 3,Private Call,None
-3625,5303027,ZL3AC,Christchurch,Christchurch,South Island,New Zealand,Club Port 4,Private Call,None
-3626,5303028,ZL3AC,Christchurch,Christchurch,South Island,New Zealand,Club Port 5,Private Call,None
-3627,5300016,ZL3TOY,Blair,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3628,5303007,ZL3TOY,Blair,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3629,5300037,ZL3RCK,Ron,Loburn,South Island,New Zealand,DMR,Private Call,None
-3630,5303008,ZL3RCK,Ron,Loburn,South Island,New Zealand,Portable,Private Call,None
-3631,5303009,ZL3RX,Rob,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3632,5303010,ZL3ROD,Rodrigo,West Melton,South Island,New Zealand,Portable,Private Call,None
-3633,5303011,ZL3DMH,Douglas Mervyn,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3634,5303035,ZL3DMH,Douglas Mervyn,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3635,5303141,ZL3DMH,Douglas Mervyn,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3636,5303012,ZL4KD,Kenneth,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3637,5303013,ZL4KS,Lindsey,Dunedin,South Island,New Zealand,Portable,Private Call,None
-3638,5303014,ZL4ASC,Adam,Dunedin,South Island,New Zealand,Portable,Private Call,None
-3639,5303015,ZL4DC,Stewart,Dunedin,South Island,New Zealand,Portable,Private Call,None
-3640,5303016,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Portable,Private Call,None
-3641,5303017,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Portable,Private Call,None
-3642,5303018,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Portable,Private Call,None
-3643,5303019,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Portable,Private Call,None
-3644,5303020,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Portable,Private Call,None
-3645,5303070,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3646,5303071,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3647,5303072,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3648,5303073,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3649,5303074,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3650,5303075,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3651,5303076,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3652,5303077,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3653,5303078,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3654,5303086,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
-3655,5303087,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
-3656,5303088,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
-3657,5303089,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
-3658,5303090,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
-3659,5303091,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
-3660,5303092,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
-3661,5303112,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
-3662,5303113,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
-3663,5303114,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
-3664,5303115,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
-3665,5303116,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
-3666,5303117,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
-3667,5303021,ZL4JH,Martin,Dunedin,South Island,New Zealand,Portable,Private Call,None
-3668,5303022,ZL4KX,Bede,Dunedin,South Island,New Zealand,Portable,Private Call,None
-3669,5303023,ZL4FM,Alan,Dunedin,South Island,New Zealand,Portable,Private Call,None
-3670,5303024,ZL4RC,Ross,Dunedin,South Island,New Zealand,Portable,Private Call,None
-3671,5303025,ZL3TRX,D J,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3672,5303110,ZL3TRX,D J,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3673,5303111,ZL3TRX,D J,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3674,5303029,ZL2ASF,Steve,Motueka,South Island,New Zealand,Portable,Private Call,None
-3675,5303030,ZL2FZ,Robin,Motueka,South Island,New Zealand,Portable,Private Call,None
-3676,5303031,ZL2BCG,Jim,Motueka,South Island,New Zealand,Portable,Private Call,None
-3677,5303032,ZL2GK,Motueka,Motueka,South Island,New Zealand,Club Fleet,Private Call,None
-3678,5303033,ZL2GK,Motueka,Motueka,South Island,New Zealand,Club Fleet,Private Call,None
-3679,5303054,ZL2GK,Motueka,Motueka,South Island,New Zealand,Portable,Private Call,None
-3680,5303055,ZL2GK,Motueka,Motueka,South Island,New Zealand,Portable,Private Call,None
-3681,5303056,ZL2GK,Motueka,Motueka,South Island,New Zealand,Portable,Private Call,None
-3682,5303057,ZL2GK,Motueka,Motueka,South Island,New Zealand,Portable,Private Call,None
-3683,5303058,ZL2GK,Motueka,Motueka,South Island,New Zealand,Portable,Private Call,None
-3684,5303059,ZL2GK,Motueka,Motueka,South Island,New Zealand,Portable,Private Call,None
-3685,5303034,ZL3GSL,Graham,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3686,5303036,ZL2UCX,Steve,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3687,5303142,ZL2UCX,Steve,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3688,5303037,ZL4RP,Roy,DUNEDIN,South Island,New Zealand,Mobile,Private Call,None
-3689,5300068,ZL3TMB,Mike,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3690,5303038,ZL3TMB,Mike,Christchurch,South Island,New Zealand,Mobile,Private Call,None
-3691,5303039,ZL3UYJ,Alan,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3692,5303040,ZL3IX,Smith,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3693,5303041,ZL2MV,Graham,Christchurch,South Island,New Zealand,Mobile,Private Call,None
-3694,5303042,ZL2BHF,Jim,Nelson,South Island,New Zealand,Portable,Private Call,None
-3695,5303043,ZL1DFA,Daniel,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3696,5303044,ZL4NZ,Keith,Rolleston,South Island,New Zealand,Portable,Private Call,None
-3697,5300039,ZL4HD,Tom,Bluff,South Island,New Zealand,DMR,Private Call,None
-3698,5303045,ZL4HD,Tom,Bluff,South Island,New Zealand,Mobile,Private Call,None
-3699,5303046,ZL4DE,Daniel,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3700,5303189,ZL4DE,Daniel,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3701,5303047,ZL3FV,James,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3702,5303048,ZL2IC,David,Christchurch,South Island,New Zealand,Portable,Private Call,None
-3703,5303049,ZL3CHD,Pete,Christchurch,South Island,New Zealand,Other,Private Call,None
-3704,5303050,ZL2HZ,Andrew,Nelson,South Island,New Zealand,Portable,Private Call,None
-3705,5303060,ZL2HZ,Andrew,Nelson,South Island,New Zealand,Mobile,Private Call,None
-3706,5303051,ZL3DG,Rene,CHRISTCHURCH,South Island,New Zealand,Other,Private Call,None
-3707,5303052,ZL3HB,Rory,Christchurch,South Island,New Zealand,Mobile,Private Call,None
-3708,5303053,ZL4LDS,Lindsay,Dunedin,South Island,New Zealand,Mobile,Private Call,None
-3709,5303061,ZL4QD,Kevin,Dunedin,South Island,New Zealand,Portable,Private Call,None
-3710,5303062,ZL4AL,Eastern,Gore,South Island,New Zealand,Control Station,Private Call,None
-3711,5303063,ZL4AL,Eastern,Gore,South Island,New Zealand,Club Fleet,Private Call,None
-3712,5303064,ZL4AL,Eastern,Gore,South Island,New Zealand,Club Fleet,Private Call,None
-3713,5303065,ZL4AL,Eastern,Gore,South Island,New Zealand,Club Fleet,Private Call,None
-3714,5303066,ZL4AL,Eastern,Gore,South Island,New Zealand,Club Fleet,Private Call,None
-3715,5303067,ZL4AL,Eastern,Gore,South Island,New Zealand,Club Fleet,Private Call,None
-3716,5303068,ZL4AL,Eastern,Gore,South Island,New Zealand,Club Fleet,Private Call,None
-3717,5303069,ZL4AL,Eastern,Gore,South Island,New Zealand,Club Fleet,Private Call,None
-3718,5303079,ZL4SB,David,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3719,5303080,ZL3AD,Andrew,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3720,5303081,ZL3HRB,Heinz,Koenigswinter,,New Zealand,,Private Call,None
-3721,5303082,ZL3UE,R H,Lincoln,South Island,New Zealand,DMR,Private Call,None
-3722,5303083,ZL3LM,Lez,Oamaru,South Island,New Zealand,DMR,Private Call,None
-3723,5303084,ZL3FK,F R,Oamaru,South Island,New Zealand,DMR,Private Call,None
-3724,5303085,ZL2ARC,Alastair,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3725,5303093,ZL4VM,Vernon,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3726,5303094,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3727,5303095,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3728,5303096,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3729,5303097,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3730,5303098,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3731,5303099,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3732,5303123,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3733,5303124,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3734,5303158,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3735,5303159,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3736,5303160,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3737,5303161,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3738,5303162,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3739,5303163,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3740,5303164,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3741,5303165,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
-3742,5303174,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,Club Fleet,Private Call,None
-3743,5303175,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,Club Fleet,Private Call,None
-3744,5303100,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,Club Fleet,Private Call,None
-3745,5303101,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,Club Fleet,Private Call,None
-3746,5303102,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,Club Fleet,Private Call,None
-3747,5303103,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,Club Fleet,Private Call,None
-3748,5303104,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,Club Fleet,Private Call,None
-3749,5303105,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
-3750,5303177,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
-3751,5303178,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
-3752,5303179,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
-3753,5303180,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
-3754,5303181,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
-3755,5303182,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
-3756,5303183,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
-3757,5303184,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
-3758,5303106,ZL2SAR,Dylan N,Tasman,South Island,New Zealand,DMR,Private Call,None
-3759,5303107,ZL2SAR,Dylan N,Tasman,South Island,New Zealand,DMR,Private Call,None
-3760,5303108,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,Club Fleet,Private Call,None
-3761,5303125,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3762,5303126,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3763,5303127,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3764,5303128,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3765,5303129,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3766,5303130,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3767,5303131,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3768,5303147,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3769,5303109,ZL3OOC,Oliver J.,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3770,5303118,ZL3TFQ,R L,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3771,5303119,ZL4IND,Daniel,Invercargill,South Island,New Zealand,CCS7,Private Call,None
-3772,5303120,ZL3VY,A P,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3773,5303121,ZL4OC,R F,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3774,5300140,ZL4LC,Lindsay,Wyndham,South Island,New Zealand,DMR Repeater,Private Call,None
-3775,5303122,ZL4LC,Lindsay,Wyndham,South Island,New Zealand,DMR,Private Call,None
-3776,5303132,ZL3TDF,B A,Old West Coast Road,South Island,New Zealand,DMR,Private Call,None
-3777,5303133,ZL3TDF,B A,Old West Coast Road,South Island,New Zealand,DMR,Private Call,None
-3778,5303143,ZL3TDF,B A,Old West Coast Road,South Island,New Zealand,DMR,Private Call,None
-3779,5303134,ZL1UTC,Tony,Havelock,South Island,New Zealand,DMR,Private Call,None
-3780,5303135,ZL3PM,Matthew J,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3781,5303137,ZL2IA,Jim,Te Anau,South Island,New Zealand,DMR,Private Call,None
-3782,5303138,ZL3TNK,H A,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3783,5303139,ZL4LDY,Dave,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3784,5303140,ZL1KJ,Gertjan,Auckland,South Island,New Zealand,DMR,Private Call,None
-3785,5303203,ZL1KJ,Gertjan,Auckland,South Island,New Zealand,DMR,Private Call,None
-3786,5303144,ZL3MJH,Matt,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3787,5303145,ZL4CD,Chris.,Invercargill . South,South Island,New Zealand,CCS7,Private Call,None
-3788,5303146,ZL3STU,Stuart W,Ashburton,South Island,New Zealand,DMR,Private Call,None
-3789,5300010,ZL3CLD,Chris,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3790,5303166,ZL3CLD,Chris,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3791,5303167,ZL4CJF,Chris,Te Anau,South Island,New Zealand,DMR,Private Call,None
-3792,5303212,ZL4CJF,Chris,Te Anau,South Island,New Zealand,DMR,Private Call,None
-3793,5303168,ZL3TVP,Tony T,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3794,5303169,ZL3TVP,Tony T,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3795,5303170,ZL3REW,Robin,Rakaia,South Island,New Zealand,DMR,Private Call,None
-3796,5303186,ZL3REW,Robin,Rakaia,South Island,New Zealand,DMR,Private Call,None
-3797,5303171,ZL4ERU,Hamish,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3798,5303172,ZL2EX,Tasman,Motueka,South Island,New Zealand,DMR,Private Call,None
-3799,5300040,ZL4BLF,Thomas,Bluff,South Island,New Zealand,DMR,Private Call,None
-3800,5303173,ZL4BLF,Thomas,Bluff,South Island,New Zealand,DMR,Private Call,None
-3801,5303176,ZL1ANI,Kevin,Wakefield Nelson,South Island,New Zealand,DMR,Private Call,None
-3802,5303185,ZL4RX,Robin,Rakaia,South Island,New Zealand,DMR,Private Call,None
-3803,5303193,ZL4RX,Robin,Rakaia,South Island,New Zealand,DMR,Private Call,None
-3804,5303187,ZL3ADF,J E (John),Christchurch 8053,South Island,New Zealand,DMR,Private Call,None
-3805,5303188,ZL4RA,Chris,Queenstown,South Island,New Zealand,DMR,Private Call,None
-3806,5303190,ZL3DVR,Douglas M,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3807,5303191,ZL4KRS,Mike,Oamaru,South Island,New Zealand,DMR,Private Call,None
-3808,5303192,ZL3TOO,C D,Christchurch 8002,South Island,New Zealand,DMR,Private Call,None
-3809,5303195,ZL4FOX,Bart,Roxburgh,South Island,New Zealand,DMR,Private Call,None
-3810,5303196,ZL3JH,James C,Temuka South Canterbury.,South Island,New Zealand,Other,Private Call,None
-3811,5303197,ZL3JH,James C,Temuka South Canterbury.,South Island,New Zealand,DMR,Private Call,None
-3812,5303198,ZL2WMS,Mike,Nelson,South Island,New Zealand,DMR,Private Call,None
-3813,5303199,ZL2BAZ,Barry G,Nelson,South Island,New Zealand,DMR,Private Call,None
-3814,5303205,ZL2BAZ,Barry G,Nelson,South Island,New Zealand,DMR,Private Call,None
-3815,5303200,ZL2JGW,Gordon,Nelson,South Island,New Zealand,DMR,Private Call,None
-3816,5303201,ZL4OM,M P,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3817,5303202,ZL4SN,N C,Oamaru,South Island,New Zealand,DMR,Private Call,None
-3818,5303204,ZL2BBK,Steve,Nelson,South Island,New Zealand,DMR,Private Call,None
-3819,5303206,ZL3SI,Simon,Kaiapoi,South Island,New Zealand,DMR,Private Call,None
-3820,5303207,ZL4BDS,Brendan,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3821,5303208,ZL4BMC,Bevan,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3822,5303209,ZL3CATH,Catherine J,Christchurch City Canterbury,South Island,New Zealand,DMR,Private Call,None
-3823,5303210,ZL4MD,Allan,Mosgiel,South Island,New Zealand,DMR,Private Call,None
-3824,5303211,ZL3CJB,Carey,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3825,5301004,ZL2GGD,Graham,Hawke's Bay,,New Zealand,,Private Call,None
-3826,5301006,ZL2HD,John,Wellington,,New Zealand,Portable,Private Call,None
-3827,5301007,ZL1MRC,Mike,Auckland,,New Zealand,,Private Call,None
-3828,5301010,ZL3TC,Peter,Lower Hutt,,New Zealand,Portable,Private Call,None
-3829,5301011,ZL2TWS,John,Lower Hutt,,New Zealand,Portable,Private Call,None
-3830,5301012,ZL2FY,Richard,Paraparaumu,,New Zealand,Portable,Private Call,None
-3831,5301024,ZL2FY,Richard,Paraparaumu,,New Zealand,Mobile,Private Call,None
-3832,5301013,ZL2BHJ,Jill,Wellington,,New Zealand,Control,Private Call,None
-3833,5301014,ZL2SX,David,Wellington,,New Zealand,Portable,Private Call,None
-3834,5301015,ZL2ABN,Graham,Porirua,,New Zealand,Mobile,Private Call,None
-3835,5301016,ZL4JS,Jeff,Masterton,,New Zealand,Portable,Private Call,None
-3836,5301017,ZL2BRG,Simon,Wellington,,New Zealand,Portable,Private Call,None
-3837,5301018,ZL2UGL,Justin,Wellington,,New Zealand,Portable,Private Call,None
-3838,5301019,ZL2UFI,Mark,Wellington,,New Zealand,Portable,Private Call,None
-3839,5301020,ZL2GO,Len,Paraparaumu,,New Zealand,Portable,Private Call,None
-3840,5301021,ZL2BKC,Wayne,Wellington,,New Zealand,Portable,Private Call,None
-3841,5301022,ZL2RJP,Randall,Wellington,,New Zealand,Portable,Private Call,None
-3842,5301023,ZL2TGC,Geoff,Kapiti,,New Zealand,Loaner,Private Call,None
-3843,5301027,ZL2FC,Colin,Wairarapa,,New Zealand,Portable,Private Call,None
-3844,5301028,ZL2BA,David,Wairarapa,,New Zealand,Portable,Private Call,None
-3845,5300013,ZL2MNM,Mike,Wellington,North Island 1,New Zealand,DMR,Private Call,None
-3846,5300011,ZL3ADB,Graham,Westport 7601,South Island,New Zealand,DMR,Private Call,None
-3847,5300012,ZL3GAV,Gavin,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3848,5300014,ZL3FLY,John-Willaim,Bluff,South Island,New Zealand,DMR,Private Call,None
-3849,5300015,ZL3FLY,John-Willaim,Bluff,South Island,New Zealand,DMR,Private Call,None
-3850,5300018,ZL2BRM,Eddie,Masterton,North Island 2,New Zealand,DMR,Private Call,None
-3851,5300019,ZL1LAC,Leith,Orewa,North Island 1,New Zealand,TP9360-H5,Private Call,None
-3852,5300020,ZL1LAC,Leith,Orewa,North Island 1,New Zealand,Kydera DM-760,Private Call,None
-3853,5300021,ZL3MIL,Maree,Levin,North Island 2,New Zealand,DMR,Private Call,None
-3854,5300024,ZL3VW,Ronald,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3855,5300025,ZL2XT,Mike,Trx Nr Christchurch,South Island,New Zealand,DMR,Private Call,None
-3856,5300027,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,BM OpenBridge,Private Call,None
-3857,5300028,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,DMR,Private Call,None
-3858,5300029,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,DMR,Private Call,None
-3859,5300030,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,DMR,Private Call,None
-3860,5300047,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,DMR,Private Call,None
-3861,5300108,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,DMR,Private Call,None
-3862,5300210,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,DMR,Private Call,None
-3863,5300211,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,DMR,Private Call,None
-3864,5300031,ZL2ADO,James,Carterton 5951,North Island 2,New Zealand,DMR,Private Call,None
-3865,5300033,ZL1KAN,Michael,1 Waitetoko Rd2 Turangi,North Island 1,New Zealand,DMR,Private Call,None
-3866,5300034,ZL1KAN,Michael,1 Waitetoko Rd2 Turangi,North Island 1,New Zealand,DMR,Private Call,None
-3867,5300035,ZL2KRIS,Kris,Porirua,North Island 2,New Zealand,DMR,Private Call,None
-3868,5300036,ZL4TE,Pete,Cambridge,North Island 1,New Zealand,DMR,Private Call,None
-3869,5300038,ZL4NB,Nick,INVERCARGILL,South Island,New Zealand,DMR,Private Call,None
-3870,5300041,ZL1PRT,S,Taupo,North Island 1,New Zealand,DMR,Private Call,None
-3871,5300042,ZL1FJ,Brendan,Taupo,North Island 1,New Zealand,DMR,Private Call,None
-3872,5300043,ZL3TGR,Ian,Timaru,South Island,New Zealand,Ian ZL3TGR,Private Call,None
-3873,5300044,ZL4SGB,Stewart,Te Anau,South Island,New Zealand,DMR,Private Call,None
-3874,5300045,ZL4AU,Roland/Roly,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3875,5300048,ZL1UTH,Trevor,Taumarunui,North Island 1,New Zealand,DMR,Private Call,None
-3876,5300049,ZL1UTH,Trevor,Taumarunui,North Island 1,New Zealand,DMR,Private Call,None
-3877,5300050,ZL4GJ,Trevor,Hamilton 3206,North Island 1,New Zealand,DMR,Private Call,None
-3878,5300051,ZL2AUX,Dave,Marton 4710,North Island 2,New Zealand,DMR,Private Call,None
-3879,5300052,ZL4ARG,Alex R,Invercargill,South Island,New Zealand,DMR,Private Call,None
-3880,5300053,ZL1LAP,Graham,Hamilton,North Island 1,New Zealand,DMR,Private Call,None
-3881,5300055,ZL1KCJ,Ms.K C J (Jerry),Bader Hamilton,North Island 1,New Zealand,DMR,Private Call,None
-3882,5300032,ZL2BD,Bernard,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3883,5300056,ZL2DOC,Dave,Taihape,North Island 2,New Zealand,DMR,Private Call,None
-3884,5300057,ZL2DOC,Dave,Taihape,North Island 2,New Zealand,DMR,Private Call,None
-3885,5300058,ZL4WPS,Warren P,Greymouth,South Island,New Zealand,DMR,Private Call,None
-3886,5300248,ZL4WPS,Warren P,Greymouth,South Island,New Zealand,DMR,Private Call,None
-3887,5300059,ZL1MPW,Mark,Whakatane,North Island 1,New Zealand,DMR,Private Call,None
-3888,5300060,ZL3CAR,Canterbury Amateur,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3889,5300063,ZL3CAR,Canterbury Amateur,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3890,5300061,ZL2SN,Kuang,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3891,5300062,ZL2BCI,Benjamin,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3892,5300064,ZL3HAM,Tony,Rd1 Oxford 7495,South Island,New Zealand,DMR,Private Call,None
-3893,5300065,ZL1VE,VENKATESAN,hamilton,North Island 1,New Zealand,DMR,Private Call,None
-3894,5300066,ZL2ATH,Wynne,Wellington,North Island 1,New Zealand,DMR,Private Call,None
-3895,5300067,ZL4IA,Mike,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3896,5300069,ZL4GDM,Graham,Wanaka,South Island,New Zealand,DMR,Private Call,None
-3897,5300070,ZL4GDM,Graham,Wanaka,South Island,New Zealand,DMR,Private Call,None
-3898,5300071,ZL3CJH,Chris,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3899,5300072,ZL2ELL,Elliot,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3900,5300087,ZL2ELL,Elliot,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3901,5300073,ZL2RMC,Robert,Nelson,South Island,New Zealand,DMR,Private Call,None
-3902,5300074,ZL4MV,G L,Invercargill 9810,South Island,New Zealand,DMR,Private Call,None
-3903,5300076,ZL4DVG,Daniel J,Hokitika,South Island,New Zealand,DMR,Private Call,None
-3904,5300077,ZL1VCR,N. Brian,Rotorua,North Island 1,New Zealand,DMR,Private Call,None
-3905,5300078,ZL3TSD,Tony,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3906,5300079,ZL1JWB,John,Whakatane,North Island 1,New Zealand,DMR,Private Call,None
-3907,5300080,ZL2FOX,Adam,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3908,5300081,ZL1AOX,Ian T.,Rd4 Papakura Auckland 2584,North Island 1,New Zealand,DMR,Private Call,None
-3909,5300082,ZL1BTS,Terence,Paremoremo Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3910,5300083,ZL4ND,Nick,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3911,5300084,ZL4DK,David,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3912,5300085,ZL4WDR,Peter,Wellington,North Island 1,New Zealand,ZL4WDR,Private Call,None
-3913,5300086,ZL2KH,Roger,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3914,5300088,ZL3TOM,Thomas,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3915,5300089,ZL2THS,Tom,Nelson,South Island,New Zealand,DMR,Private Call,None
-3916,5300090,ZL1JHE,Ian,Mount Maunganui Tauranga,North Island 1,New Zealand,DMR,Private Call,None
-3917,5300091,ZL3PRA,Rob,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3918,5300092,ZL2UB,David J,Dannevirke,North Island 2,New Zealand,DMR,Private Call,None
-3919,5300093,ZL2UB,David J,Dannevirke,North Island 2,New Zealand,DMR,Private Call,None
-3920,5300094,ZL2WT,David H.,Havelock North,North Island 1,New Zealand,DMR,Private Call,None
-3921,5300095,ZL2WG,Wayne,Hastings,North Island 1,New Zealand,DMR,Private Call,None
-3922,5300096,ZL4SY,Norman,Kaka Point Otago. South Island,South Island,New Zealand,DMR,Private Call,None
-3923,5300099,ZL4FG,Peter,INVERCARGILL 9879,South Island,New Zealand,DMR,Private Call,None
-3924,5300097,ZL1CVD,Chris,Oamaru,South Island,New Zealand,ZL1CVD,Private Call,None
-3925,5300100,ZL1PID,Stuart J,Carterton,,New Zealand,DMR,Private Call,None
-3926,5300101,ZL2IQ,Murray,LOWER HUT 6315,North Island 2,New Zealand,DMR,Private Call,None
-3927,5300103,ZL1BHD,Steve,Edgecumbe,North Island 2,New Zealand,DMR,Private Call,None
-3928,5300102,ZL2XM,Barrie,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3929,5300104,ZL4CEL,Terry,Mosgiel,South Island,New Zealand,DMR,Private Call,None
-3930,5300105,ZL2JTL,John,Porirua,,New Zealand,DMR,Private Call,None
-3931,5300106,ZL2AQY,Eddie,RD1 Thames,,New Zealand,DMR,Private Call,None
-3932,5300107,ZL2AQY,Eddie,RD1 Thames,,New Zealand,DMR,Private Call,None
-3933,5300109,ZL1MDR,Matt,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3934,5300110,ZL2RSA,Shaun,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-3935,5300111,ZL4KN,R B,INVERCARGILL 9812,South Island,New Zealand,DMR,Private Call,None
-3936,5300112,ZL2VAX,Philip,PAHIATUA,North Island 2,New Zealand,DMR,Private Call,None
-3937,5300113,ZL1DL,Dave,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3938,5300114,ZL1DL,Dave,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3939,5300116,ZL1SLC,shannon,Auckland,North Island 2,New Zealand,DMR,Private Call,None
-3940,5300115,ZL1RAH,Rodger,AUCKLAND,,New Zealand,DMR,Private Call,None
-3941,5300117,ZL2MRT,Murray,Eketahuna,North Island 2,New Zealand,DMR,Private Call,None
-3942,5300118,ZL2BZH,G J,NEW PLYMOUTH 4310,North Island 2,New Zealand,DMR,Private Call,None
-3943,5300119,ZL2BAC,T G,WAIKANAE KAPITI 5036,North Island 2,New Zealand,DMR,Private Call,None
-3944,5300120,ZL2CWA,Craig Warren,Hamilton,North Island 2,New Zealand,DMR,Private Call,None
-3945,5300121,ZL1VR,Charlie,DUNEDIN,South Island,New Zealand,DMR,Private Call,None
-3946,5300122,ZL1TOA,Ocean,Hamilton,North Island 2,New Zealand,DMR,Private Call,None
-3947,5300126,ZL2DW,David,Hastings,North Island 2,New Zealand,DMR,Private Call,None
-3948,5300123,ZL2GX,Giovanni,Palmerston North,,New Zealand,DMR,Private Call,None
-3949,5300124,ZL1OW,Raymond J,Kawerau,North Island 1,New Zealand,DMR,Private Call,None
-3950,5300125,ZL3KBL,Alex,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3951,5300127,ZL2FAD,Frederik,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
-3952,5300128,ZL2FAD,Frederik,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
-3953,5300129,ZL2EW,Matthew. W,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3954,5300130,ZL2EW,Matthew. W,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-3955,5300131,ZL2TEC,Bryce,Nelson,South Island,New Zealand,DMR,Private Call,None
-3956,5300133,ZL1AB,North Shore Radio Club,AUCKLAND,North Island 2,New Zealand,DMR,Private Call,None
-3957,5300132,ZL1LDP,Lance,TAURANGA,North Island 2,New Zealand,DMR,Private Call,None
-3958,5300134,ZL1VAK,Allan B,Taupo 3330,North Island 1,New Zealand,DMR,Private Call,None
-3959,5300135,ZL3HGN,Stuart,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3960,5300136,ZL3HGN,Stuart,Christchurch,South Island,New Zealand,DMR,Private Call,None
-3961,5300137,ZL2SH,Shane,Masterton,North Island 2,New Zealand,DMR,Private Call,None
-3962,5300147,ZL2SH,Shane,Masterton,North Island 2,New Zealand,DMR,Private Call,None
-3963,5300138,ZL3HR,Paul,ROLLESTON,,New Zealand,DMR,Private Call,None
-3964,5300139,ZL3HR,Paul,ROLLESTON,,New Zealand,DMR,Private Call,None
-3965,5300141,ZL1UCH,Chris,Kerikeri,North Island 2,New Zealand,DMR,Private Call,None
-3966,5300142,ZL2XS,Brian,Timberlea,North Island 2,New Zealand,DMR,Private Call,None
-3967,5300143,ZL1MVL,Ian,Whangarei,North Island 2,New Zealand,DMR,Private Call,None
-3968,5300144,ZL2WKS,Will,Wellington/Wairarapa,North Island 2,New Zealand,DMR,Private Call,None
-3969,5300190,ZL2WKS,Will,Wellington/Wairarapa,North Island 2,New Zealand,ZL2WK,Private Call,None
-3970,5300145,ZL4MY,Mike,Feilding,North Island 2,New Zealand,DMR,Private Call,None
-3971,5300146,ZL4MY,Mike,Feilding,North Island 2,New Zealand,DMR,Private Call,None
-3972,5300148,ZL1HMD,Simon J,Waitakere,North Island 2,New Zealand,DMR,Private Call,None
-3973,5300149,ZL1GW,Paul,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3974,5300150,ZL3MC,Mark,Nelson,South Island,New Zealand,DMR,Private Call,None
-3975,5300151,ZL2SY,Seymour,Carterton,North Island 2,New Zealand,DMR,Private Call,None
-3976,5300152,ZL2FJ,Frank,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3977,5300153,ZL3GP,Philip,Picton,South Island,New Zealand,DMR,Private Call,None
-3978,5300163,ZL3GP,Philip,Picton,South Island,New Zealand,DMR,Private Call,None
-3979,5300155,ZL1GER,Kieran,Auckland,North Island 2,New Zealand,Mobile,Private Call,None
-3980,5300213,ZL1GER,Kieran,Auckland,North Island 2,New Zealand,Portable,Private Call,None
-3981,5300156,ZL4RM,Eb,INVERCARGILL,North Island 2,New Zealand,DMR,Private Call,None
-3982,5300157,ZL3SST,Shaun,New Plymouth,North Island 2,New Zealand,DMR,Private Call,None
-3983,5300158,ZL1CLH,Chris,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3984,5300159,ZL1LAS,Liam,Taupo,North Island 1,New Zealand,DMR,Private Call,None
-3985,5300161,ZL2SB,Brendin,Hastings Hawksbay NZ,North Island 2,New Zealand,DMR,Private Call,None
-3986,5300162,ZL2SB,Brendin,Hastings Hawksbay NZ,North Island 2,New Zealand,DMR,Private Call,None
-3987,5300164,ZL2TD,Peter,Otaki,North Island 2,New Zealand,DMR,Private Call,None
-3988,5300165,ZL2WGN,Don,Porirua,North Island 2,New Zealand,DMR,Private Call,None
-3989,5300166,ZL2WGN,Don,Porirua,North Island 2,New Zealand,DMR,Private Call,None
-3990,5300167,ZL1OGX,Ian,Auckland,,New Zealand,DMR,Private Call,None
-3991,5300170,ZL2TB,Ted,Newlands WELLINGTON 6037,North Island 1,New Zealand,DMR,Private Call,None
-3992,5300169,ZL3NR,Narottam,Christchurch 8022,South Island,New Zealand,DMR,Private Call,None
-3993,5300171,ZL4PDX,Braidy,Dunedin,South Island,New Zealand,DMR,Private Call,None
-3994,5300172,ZL1QV,David,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-3995,5300173,ZL4GS,Grant,Tauranga,North Island 2,New Zealand,DMR,Private Call,None
-3996,5300174,ZL1KPB,Karsten,Kihikihi,North Island 2,New Zealand,DMR,Private Call,None
-3997,5300175,ZL1WK,Eastern Bay Of Plenty Branch 51,Whakatane,North Island 1,New Zealand,DMR,Private Call,None
-3998,5300176,ZL3IUB,Sam,Auckland,,New Zealand,DMR,Private Call,None
-3999,5300177,ZL1BNB,Mike,WANGANUI,,New Zealand,DMR,Private Call,None
-4000,5300178,ZL3BA,Mark,Woodend,South Island,New Zealand,DMR,Private Call,None
-4001,5300179,ZL1BWG,Bruce,Onerahi,North Island 1,New Zealand,DMR,Private Call,None
-4002,5300180,ZL1AXZ,Bill,Ranfurly,South Island,New Zealand,DMR,Private Call,None
-4003,5300181,ZL1EK,Ethan,Newmarket Auckland,,New Zealand,DMR,Private Call,None
-4004,5300182,ZL3TT,Kingsley (Blue),Napier,North Island 2,New Zealand,DMR,Private Call,None
-4005,5300184,ZL1ELC,Damon,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
-4006,5300183,ZL2VM,Michael,NAPIER 4112,North Island 2,New Zealand,DMR,Private Call,None
-4007,5300185,ZL2CHV,Brian,UPPER HUTT,,New Zealand,DMR,Private Call,None
-4008,5300186,ZL2WEG,Wilbert,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-4009,5300187,ZL1KR,Anton,HAMILTON 2001,North Island 2,New Zealand,DMR,Private Call,None
-4010,5300188,ZL4VV,Fraser,Upper Hutt,North Island 2,New Zealand,DMR,Private Call,None
-4011,5300189,ZL2GJ,Garry,waipawa hawke bay,North Island 2,New Zealand,DMR,Private Call,None
-4012,5300191,ZL2WK,William,Carterton,North Island 2,New Zealand,DMR,Private Call,None
-4013,5300192,ZL1BEO,Peter,Whangarei,,New Zealand,DMR,Private Call,None
-4014,5300193,ZL3TIQ,Darryl,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-4015,5300194,ZL2HUT,Ian,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-4016,5300195,ZL4MAT,Matt,Nelson,South Island,New Zealand,DMR,Private Call,None
-4017,5300197,ZL2RAZ,Ray,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-4018,5300196,ZL2FL,Colin,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-4019,5300198,ZL3BAM,Brendan,Christchurch,South Island,New Zealand,DMR,Private Call,None
-4020,5300199,ZL1JX,Sasha,Auckland 2014,North Island 1,New Zealand,DMR,Private Call,None
-4021,5300200,ZL3RD,Joshua B,Rolleston,South Island,New Zealand,DMR,Private Call,None
-4022,5300201,ZL2XD,Lachlan,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-4023,5300202,ZL2JSN,Jason,Palmeston North,North Island 2,New Zealand,DMR,Private Call,None
-4024,5300203,ZL4JW,R J,Queenstown 9300,South Island,New Zealand,DMR,Private Call,None
-4025,5300204,ZL3AWB,Andrew,Christchurch,South Island,New Zealand,DMR,Private Call,None
-4026,5300205,ZL3AMX,Maxwell,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-4027,5300206,ZL2ARP,Dick,OTAKI 5583,North Island 2,New Zealand,DMR,Private Call,None
-4028,5300207,ZL2WR,Mike,RD2 Otane,,New Zealand,DMR,Private Call,None
-4029,5300208,ZL2VS,Royden,North island,North Island 2,New Zealand,DMR,Private Call,None
-4030,5300209,ZL1DGK,David G,Te Aroha,North Island 2,New Zealand,DMR,Private Call,None
-4031,5300214,ZL4XYZ,Phill,Gisborne,,New Zealand,DMR,Private Call,None
-4032,5300215,ZL1PWM,Peter,Russell,North Island 1,New Zealand,DMR,Private Call,None
-4033,5300218,ZL1BBO,Edwin,Whangerei,North Island 2,New Zealand,DMR,Private Call,None
-4034,5300216,ZL4SGT,Thomas,Christchurch,South Island,New Zealand,DMR,Private Call,None
-4035,5300217,ZL2CT,Shaun,Masterton,,New Zealand,DMR,Private Call,None
-4036,5300219,ZL1RDK,Ronald,AUCKLAND,North Island 1,New Zealand,DMR,Private Call,None
-4037,5300220,ZL2EI,Terry,Wanganui,North Island 2,New Zealand,DMR,Private Call,None
-4038,5300221,ZL2DWC,Dave,Paraparaumu,North Island 2,New Zealand,DMR,Private Call,None
-4039,5300222,ZL2VA,Stewart,Nelson,South Island,New Zealand,DMR,Private Call,None
-4040,5300223,ZL1VIP,Brandon,Mount Maunganui,North Island 1,New Zealand,DMR,Private Call,None
-4041,5300224,ZL2VIP,Brandon,Mount Maunganui,North Island 2,New Zealand,DMR,Private Call,None
-4042,5300225,ZL1XE,Mark,Wellsford,North Island 1,New Zealand,DMR,Private Call,None
-4043,5300226,ZL2CTM,Charlie T,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-4044,5300227,ZL4KYH,Daniel,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-4045,5300228,ZL2XO,Dan,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-4046,5300231,ZL3TV,Graham,Canterbury,South Island,New Zealand,DMR,Private Call,None
-4047,5300229,ZL2HUI,Hui,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
-4048,5300230,ZL2TEW,Eddie,Napier,North Island 2,New Zealand,DMR,Private Call,None
-4049,5300232,ZL1TFI,Greg,RED BEACH AUCKLAND,North Island 2,New Zealand,DMR,Private Call,None
-4050,5300233,ZL2ED,Dan,Lower Hutt,North Island 2,New Zealand,DMR,Private Call,None
-4051,5300234,ZL2FN,Ross,Havelock North,North Island 2,New Zealand,DMR,Private Call,None
-4052,5300237,ZL3SAB,Shane,Christchurch,,New Zealand,DMR,Private Call,None
-4053,5300240,ZL4BJC,Bernard,Southland,South Island,New Zealand,DMR,Private Call,None
-4054,5300238,ZL2TBX,Tim,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-4055,5300239,ZL1JNA,Anurat,Wattledowns Auckland,,New Zealand,DMR,Private Call,None
-4056,5300241,ZL3DC,R J,RD 9 Feilding New Zealand,North Island 2,New Zealand,DMR,Private Call,None
-4057,5300242,ZL2XJ,John,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-4058,5300243,ZL1TED,Ted,Taupo,North Island 2,New Zealand,DMR,Private Call,None
-4059,5300244,ZL2UDF,Malcolm,Lower Hutt,North Island 2,New Zealand,DMR,Private Call,None
-4060,5300245,ZL2WLY,Maurice,Waverley,North Island 2,New Zealand,DMR,Private Call,None
-4061,5300247,ZL1RKO,Charles,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-4062,5300249,ZL3EX,Steve,Christchurch,North Island 2,New Zealand,DMR,Private Call,None
-4063,5300250,ZL1RAB,Ray,Te Puke,North Island 2,New Zealand,DMR,Private Call,None
-4064,5300252,ZL1DMC,Dave,Auckland,North Island 2,New Zealand,DMR,Private Call,None
-4065,5300254,ZL3ALF,Alf,Rangiora,South Island,New Zealand,DMR,Private Call,None
-4066,5300253,ZL3TVA,J P,PARKLANDS CHRISTCHURCH 8009,South Island,New Zealand,DMR,Private Call,None
-4067,5300255,ZL2NAP,Noel,Ashhurst,North Island 2,New Zealand,DMR,Private Call,None
-4068,5300256,ZL3HP,P,PARKLANDS CHRISTCHURCH 8009,South Island,New Zealand,DMR,Private Call,None
-4069,5300257,ZL1POM,Christopher,Lincoln,South Island,New Zealand,DMR,Private Call,None
-4070,5300258,ZL2DRC,Dan,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-4071,5300259,ZL1BVO,Graham,TAUPO  3330,North Island 2,New Zealand,DMR,Private Call,None
-4072,5300260,ZL2JST,Jeffery I,Masterton,North Island 1,New Zealand,DMR,Private Call,None
-4073,5300261,ZL1XLX,Brett,,,New Zealand,DMR,Private Call,None
-4074,5300262,ZL4CB,Charlie Roderick John,Waihola,South Island,New Zealand,DMR,Private Call,None
-4075,5300263,ZL4MB,Barry,Balclutha,South Island,New Zealand,DMR,Private Call,None
-4076,5300264,ZL3XLX,Wayne ,Hastings,,New Zealand,DMR,Private Call,None
-4077,5300265,ZL1CE,Graham R S,Ellerslie Auckland,,New Zealand,DMR,Private Call,None
-4078,5300266,ZL2DV,Edward,Auckland,,New Zealand,DMR,Private Call,None
-4079,5300002,ZL1AM,Whangarei Amateur,Whangarei,North Island 1,New Zealand,DMR,Private Call,None
-4080,5300267,ZL3DAB,Dave,Christchurch,South Island,New Zealand,DMR,Private Call,None
-4081,5300268,ZL3TDI,David,Christchurch,South Island,New Zealand,DMR,Private Call,None
-4082,5300273,ZL3ACA,Gina,Christchurch,South Island,New Zealand,DMR,Private Call,None
-4083,5300269,ZL1PKL,Nicola,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-4084,5300270,ZL3ABM,Helen,Christchurch,South Island,New Zealand,DMR,Private Call,None
-4085,5300271,ZL4XL,Susan,Dunedin,,New Zealand,DMR,Private Call,None
-4086,5300272,ZL1MAS,Matthew,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-4087,5300274,ZL6YOTA,YOTA NZ,New Zealand,,New Zealand,DMR,Private Call,None
-4088,5300275,ZL2TOY,Dusty,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-4089,5300276,ZL1SRP,Stephen,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-4090,5300277,ZL1LW,Cornelis,RD1 Silverdale  Auckland,North Island 1,New Zealand,DMR,Private Call,None
-4091,5300278,ZL1WJQ,John,Auckland,North Island 1,New Zealand,DMR,Private Call,None
-4092,5300279,ZL1TKL,Donald,Whakatane 3120,,New Zealand,DMR,Private Call,None
-4093,5300280,ZL1AF,Andrew R,BLOCKHOUSE BAY AUCKLAND,,New Zealand,DMR,Private Call,None
-4094,5300281,ZL4CAT,Alex,Wellington,North Island 2,New Zealand,DMR,Private Call,None
-4095,5300282,ZL3TY,Bob,Greymouth 7805,,New Zealand,DMR,Private Call,None
-4096,5300283,ZL1AIN,Ian,TAURANGA,,New Zealand,DMR,Private Call,None
-4097,5300284,ZL2DOW,Andy,Lower Hutt,,New Zealand,DMR,Private Call,None
-4098,5300285,ZL2DB,Tony,Wellington 6001,,New Zealand,DMR,Private Call,None
-4099,5300286,ZL2BIR,Peter,Upper Hut 6007,,New Zealand,DMR,Private Call,None
-4100,5300287,ZL2OT,Neil,Paraparaumu,North Island 2,New Zealand,DMR,Private Call,None
-4101,5520001,T88KY,Yunjae,KOROR,,Palau,DMR,Private Call,None
-4102,5520002,T88KZ,Jery,Koror,,Palau,DMR,Private Call,None
-4103,5371002,P29LZ,Lowell,Boroko Ncd Port Moresby,,Papua New Guinea,Mobile,Private Call,None
-4104,5371004,P29LZ,Lowell,Boroko Ncd Port Moresby,,Papua New Guinea,DMR,Private Call,None
-4105,5371003,P29JV,Joris,Port Moresby,,Papua New Guinea,Other,Private Call,None
-4106,5371001,P29ZTC,Terry,Port Moresby,,Papua New Guinea,Mobile,Private Call,None
-4107,5370001,DW1YSI,Nelson,Silang,,Papua New Guinea,DMR,Private Call,None
-4108,5410001,YJ8DX,Trevor,Vanuatu,,Vanuatu,DMR,Private Call,None
-4109,50501,VK3MJM,Mathew,Melbourne,Victoria,Australia,CAP_PLUS,Private Call,None
-4110,50502,VK3FJAL,Jarrod,Melbourne,Victoria,Australia,PORTABLE_CAPPLUS,Private Call,None
-4111,50503,VK3FJAL,Jarrod,Melbourne,Victoria,Australia,MOBILE_CAPPLUS,Private Call,None
-4112,53001,ZL4JY,John,Waikanae,North Island 2,New Zealand,None,Private Call,None
+3229,5051586,VK4VRX,Darrin,Logan Reserve,Queensland,Australia,DMR,Private Call,None
+3230,5051587,VK2JNC,Jamie,Gobbagombalin ,New South Wales,Australia,DMR,Private Call,None
+3231,5480001,E51DOM,Dom,Maritime mobile most of the time,,Cook Islands,DMR,Private Call,None
+3232,5460001,FK8HM,PESQUE,Noumea,South Province,New Caledonia,CCS7,Private Call,None
+3233,5460002,FK8HM,PESQUE,Noumea,South Province,New Caledonia,DMR,Private Call,None
+3234,5460003,FK8HM,PESQUE,Noumea,South Province,New Caledonia,Other,Private Call,None
+3235,5460004,FK4RD,Yves,Noumea,South Province,New Caledonia,CCS7,Private Call,None
+3236,5460005,FK1UW,Tardivel,Noumea,South Province,New Caledonia,CCS7,Private Call,None
+3237,5460006,FK4RH,Gilles (Gil),Bourail,South Province,New Caledonia,CCS7,Private Call,None
+3238,5460007,FK8IH,Pierre,NOUMEA,South Province,New Caledonia,DMR,Private Call,None
+3239,5460008,FK8GU,Jacques,PAITA,South Province,New Caledonia,DMR,Private Call,None
+3240,5460009,FK8ET,Jean Michel,Paita,South Province,New Caledonia,DMR,Private Call,None
+3241,5460010,FK4TK,Yannick,mont dore,South Province,New Caledonia,DMR,Private Call,None
+3242,3117107,ZL1TNC,Rex,Dargaville,North Island 2,New Zealand,Portable,Private Call,None
+3243,3117125,ZL1TNC,Rex,Dargaville,North Island 2,New Zealand,Mobile /W9,Private Call,None
+3244,5302057,ZL1TNC,Rex,Dargaville,North Island 2,New Zealand,DMR,Private Call,None
+3245,5301189,ZL1DEF,Nicholas,Auckland,North Island 2,New Zealand,Other,Private Call,None
+3246,5302109,ZL1DEF,Nicholas,Auckland,North Island 2,New Zealand,Other,Private Call,None
+3247,5300001,ZL4SJ,Steve,Mobile,North Island 2,New Zealand,,Private Call,None
+3248,5301035,ZL4SJ,Steve,Mobile,North Island 2,New Zealand,,Private Call,None
+3249,5301037,ZL2FX,Scott,Palmerston N.,,New Zealand,,Private Call,None
+3250,5300003,ZL2UN,Neil,Masterton,,New Zealand,,Private Call,None
+3251,5301038,ZL2UN,Neil,Masterton,,New Zealand,,Private Call,None
+3252,5300004,ZL4SLG,Stephen,Dunedin,,New Zealand,,Private Call,None
+3253,5300005,ZL2JA,Wanganui Amateur Radio Society Inc.,Whanganui,North Island 2,New Zealand,,Private Call,None
+3254,5302036,ZL2JA,Wanganui Amateur Radio Society Inc.,Whanganui,North Island 2,New Zealand,Club Fleet,Private Call,None
+3255,5302037,ZL2JA,Wanganui Amateur Radio Society Inc.,Whanganui,North Island 2,New Zealand,Club Fleet,Private Call,None
+3256,5302038,ZL2JA,Wanganui Amateur Radio Society Inc.,Whanganui,North Island 2,New Zealand,Club Fleet,Private Call,None
+3257,5302039,ZL2JA,Wanganui Amateur Radio Society Inc.,Whanganui,North Island 2,New Zealand,Club Fleet,Private Call,None
+3258,5302040,ZL2JA,Wanganui Amateur Radio Society Inc.,Whanganui,North Island 2,New Zealand,Club Fleet,Private Call,None
+3259,5302041,ZL2JA,Wanganui Amateur Radio Society Inc.,Whanganui,North Island 2,New Zealand,Club Fleet,Private Call,None
+3260,5300006,ZL2IY,Tim,Levin,,New Zealand,,Private Call,None
+3261,5300007,ZL2LOZ,Lawrence,Wellington,,New Zealand,,Private Call,None
+3262,5300008,ZL3WNG,Brian,Dunedin,South Island,New Zealand,,Private Call,None
+3263,5300168,ZL3WNG,Brian,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3264,5300009,ZL3EP,Scott,Christchurch,,New Zealand,,Private Call,None
+3265,5301001,ZL4JY,John,Waikanae,North Island 2,New Zealand,Portable,Private Call,None
+3266,5301002,ZL4JY,John,Waikanae,North Island 2,New Zealand,DMR,Private Call,None
+3267,5301003,ZL4JY,John,Waikanae,North Island 2,New Zealand,Portable,Private Call,None
+3268,5301042,ZL4JY,John,Waikanae,North Island 2,New Zealand,Control Station,Private Call,None
+3269,5302001,ZL4JY,John,Waikanae,North Island 2,New Zealand,Mobile,Private Call,None
+3270,5301005,ZL2JG,Jeff,Waikanae Beach,North Island 2,New Zealand,Portable,Private Call,None
+3271,5302002,ZL2JG,Jeff,Waikanae Beach,North Island 2,New Zealand,Mobile,Private Call,None
+3272,5302003,ZL2JG,Jeff,Waikanae Beach,North Island 2,New Zealand,Portable,Private Call,None
+3273,5301008,ZL2KG,Steve,Kapiti,North Island 2,New Zealand,Portable,Private Call,None
+3274,5302006,ZL2KG,Steve,Kapiti,North Island 2,New Zealand,Mobile,Private Call,None
+3275,5302154,ZL2KG,Steve,Kapiti,North Island 2,New Zealand,927.8Mhz ,Private Call,None
+3276,5301009,ZL2RAY,Ray,Wellington,North Island 1,New Zealand,Portable,Private Call,None
+3277,5301025,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,Loaner #1,Private Call,None
+3278,5301026,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,Loaner #2,Private Call,None
+3279,5302087,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,DMR,Private Call,None
+3280,5302088,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,DMR,Private Call,None
+3281,5302089,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,DMR,Private Call,None
+3282,5302090,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,DMR,Private Call,None
+3283,5302091,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,DMR,Private Call,None
+3284,5302101,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,DMR,Private Call,None
+3285,5302102,ZL2OA,Wairarapa Amateur Radio Club Arec,Po Box 860 Masterton,North Island 2,New Zealand,DMR,Private Call,None
+3286,5301029,ZL1THG,Tom,Hamilton,,New Zealand,Portable,Private Call,None
+3287,5301034,ZL2BEZ,Paul,Wellington,North Island 2,New Zealand,Portable,Private Call,None
+3288,5301049,ZL2BEZ,Paul,Wellington,North Island 2,New Zealand,Mobile,Private Call,None
+3289,5301039,ZL2MGS,Mike,Hamilton,North Island 1,New Zealand,Portable,Private Call,None
+3290,5301040,ZL1UPJ,Jono,Hamilton,North Island 1,New Zealand,Portable,Private Call,None
+3291,5301041,ZL1PK,Phil,Hamilton,North Island 1,New Zealand,Portable,Private Call,None
+3292,5301043,ZL1UX,Hamilton,Hamilton,North Island 1,New Zealand,Club Fleet,Private Call,None
+3293,5301044,ZL1UX,Hamilton,Hamilton,North Island 1,New Zealand,Club Fleet,Private Call,None
+3294,5301045,ZL1RWR,Russ,Hamilton,North Island 1,New Zealand,Mobile,Private Call,None
+3295,5301046,ZL1TOM,Tom,Hamilton,North Island 1,New Zealand,Portable,Private Call,None
+3296,5301047,ZL3IH,Earl,Te Awamutu,North Island 1,New Zealand,Portable,Private Call,None
+3297,5301048,ZL1TOY,Fergus,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3298,5301092,ZL1TOY,Fergus,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3299,5301050,ZL2TDC,Steve,Palmerston North,North Island 1,New Zealand,Portable,Private Call,None
+3300,5301051,ZL2GJL,Geoff,Turangi,North Island 2,New Zealand,Portable,Private Call,None
+3301,5301070,ZL2GJL,Geoff,Turangi,North Island 2,New Zealand,Mobile,Private Call,None
+3302,5301052,ZL1BNG,Neil,Hamilton,North Island 1,New Zealand,Portable,Private Call,None
+3303,5301053,ZL2AJ,Warren Kyle,Rd3 Te Awamutu,North Island 1,New Zealand,Mobile,Private Call,None
+3304,5301166,ZL2AJ,Warren Kyle,Rd3 Te Awamutu,North Island 1,New Zealand,DMR,Private Call,None
+3305,5301054,ZL2ADL,Brian,Sanson,North Island 1,New Zealand,Portable,Private Call,None
+3306,5301055,ZL1JJ,Japie,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3307,5301056,ZL1NE,John,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3308,5301057,ZL1BBZ,Bob,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3309,5301058,ZL1MIT,Malcolm,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3310,5301059,ZL1BNQ,Richard,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3311,5301060,ZL1ICU,Laurie,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3312,5301061,ZL1XR,Roger,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3313,5301062,ZL1JD,John,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3314,5301063,ZL1BQ,Auckland,Auckland,North Island 1,New Zealand,Club Fleet,Private Call,None
+3315,5301064,ZL1BQ,Auckland,Auckland,North Island 1,New Zealand,Club Fleet,Private Call,None
+3316,5301065,ZL1BQ,Auckland,Auckland,North Island 1,New Zealand,Club Fleet,Private Call,None
+3317,5301066,ZL1BQ,Auckland,Auckland,North Island 1,New Zealand,Club Fleet,Private Call,None
+3318,5301067,ZL1BQ,Auckland,Auckland,North Island 1,New Zealand,Club Fleet,Private Call,None
+3319,5301068,ZL1TTE,Doug,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3320,5301069,ZL1KF,Leslie,Hamilton,North Island 1,New Zealand,Portable,Private Call,None
+3321,5301071,ZL2ALY,Cliff,Paraparaumu,North Island 1,New Zealand,Portable,Private Call,None
+3322,5301072,ZL2SFM,Mercer,Wellington,North Island 1,New Zealand,Other,Private Call,None
+3323,5301073,ZL2TWT,Wysocki,Lower Hutt,North Island 1,New Zealand,Other,Private Call,None
+3324,5301074,ZL1HN,Brian,RAGLAN,North Island 1,New Zealand,Portable,Private Call,None
+3325,5301076,ZL1HN,Brian,RAGLAN,North Island 1,New Zealand,Mobile,Private Call,None
+3326,5301077,ZL1HN,Brian,RAGLAN,North Island 1,New Zealand,Other,Private Call,None
+3327,5301075,ZL1CC,Brendan,RAGLAN,North Island 1,New Zealand,Portable,Private Call,None
+3328,5301078,ZL1TBG,Ralph,Warkworth,North Island 1,New Zealand,Mobile,Private Call,None
+3329,5301116,ZL1TBG,Ralph,Warkworth,North Island 1,New Zealand,DMR,Private Call,None
+3330,5301079,ZL1ABX,,AUCKLAND,North Island 1,New Zealand,Portable,Private Call,None
+3331,5301080,ZL1VH,Vaughan,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3332,5301081,ZL1COP,Andrew,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3333,5301082,ZL2ARN,Gordon,Waikanae,North Island 1,New Zealand,Other,Private Call,None
+3334,5301083,ZL1KLP,Riku,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3335,5301110,ZL1KLP,Riku,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3336,5301135,ZL1KLP,Riku,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3337,5301084,ZL2AJS,Tony,Paraparaumu,North Island 1,New Zealand,Mobile,Private Call,None
+3338,5301085,ZL2OLY,Oliver,Wellington,North Island 1,New Zealand,Mobile,Private Call,None
+3339,5301086,ZL1KRH,Kevin,Tauranga,North Island 1,New Zealand,Non-DMR,Private Call,None
+3340,5301087,ZL1AZT,Ian K,Tauranga,North Island 2,New Zealand,Non-DMR,Private Call,None
+3341,5302049,ZL1AZT,Ian K,Tauranga,North Island 2,New Zealand,Other,Private Call,None
+3342,5301088,ZL1TAP,Andrew,TAURANGA,North Island 1,New Zealand,Other,Private Call,None
+3343,5301089,ZL1BVA,John K,Mount Maunganui Tau,North Island 1,New Zealand,Control Station,Private Call,None
+3344,5301177,ZL1BVA,John K,Mount Maunganui Tau,North Island 1,New Zealand,DMR,Private Call,None
+3345,5301090,ZL1DY,Graham,HAMILTON,North Island 1,New Zealand,Portable,Private Call,None
+3346,5301091,ZL1SB,Steve,HENDERSON  AK,North Island 1,New Zealand,Other,Private Call,None
+3347,5301093,ZL1TLC,Tony,auckland,North Island 1,New Zealand,Portable,Private Call,None
+3348,5301094,ZL1GI,Philip,Tauranga,North Island 1,New Zealand,Portable,Private Call,None
+3349,5301095,ZL1SKL,Soren,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3350,5301136,ZL1SKL,Soren,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3351,5301096,ZL3WPK,Paul,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3352,5301097,ZL1GSM,Grant,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3353,5301098,ZL1UOJ,David,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3354,5301099,ZL1BNO,Mark,Auckland,North Island 1,New Zealand,Portable,Private Call,None
+3355,5301100,ZL1BAK,Graeme,Te Aroha,North Island 1,New Zealand,DMR,Private Call,None
+3356,5300098,ZL1WBZ,Neil,Warkworth,North Island 1,New Zealand,Base,Private Call,None
+3357,5301101,ZL1WBZ,Neil,Warkworth,North Island 1,New Zealand,Mobile,Private Call,None
+3358,5301102,ZL1LK,Roy,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3359,5301103,ZL1CTS,Cliff,Tauranga,North Island 1,New Zealand,not used,Private Call,None
+3360,5301104,ZL1CTS,Cliff,Tauranga,North Island 1,New Zealand,not used,Private Call,None
+3361,5301190,ZL1CTS,Cliff,Tauranga,North Island 1,New Zealand,DMR,Private Call,None
+3362,5301105,ZL1OLE,Ole,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3363,5301106,ZL1DAM,David,Cambridge,North Island 1,New Zealand,DMR,Private Call,None
+3364,5301108,ZL1DAM,David,Cambridge,North Island 1,New Zealand,DMR,Private Call,None
+3365,5301107,ZL1AQC,Vic,Tauranga,North Island 1,New Zealand,Other,Private Call,None
+3366,5301109,ZL2RO,Phil,Hastings,North Island 1,New Zealand,CCS7,Private Call,None
+3367,5301111,ZL4DAN,Daniel,Whakatane,North Island 1,New Zealand,DMR,Private Call,None
+3368,5301127,ZL4DAN,Daniel,Whakatane,North Island 1,New Zealand,DMR,Private Call,None
+3369,5300246,ZL3RUM,Karl,Whakatane,North Island 1,New Zealand,DMR TM9300,Private Call,None
+3370,5301112,ZL3RUM,Karl,Whakatane,North Island 1,New Zealand,DMR MD380 & HotSpots,Private Call,None
+3371,5301113,ZL1FE,David,Whakatane,North Island 1,New Zealand,DMR,Private Call,None
+3372,5301114,ZL2HB,Paul,Napier,North Island 1,New Zealand,CCS7,Private Call,None
+3373,5300154,ZL1OBI,Sam,Hamilton,North Island 1,New Zealand,MD-UV380G,Private Call,None
+3374,5301115,ZL1OBI,Sam,Hamilton,North Island 1,New Zealand,MD-UV380G,Private Call,None
+3375,5301117,ZL1TGS,Jim,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3376,5301118,ZL1HSV,Craig,Tauranga,North Island 1,New Zealand,DMR,Private Call,None
+3377,5301119,ZL1HSV,Craig,Tauranga,North Island 1,New Zealand,DMR,Private Call,None
+3378,5301120,ZL1ID,Neil,Tauranga,North Island 1,New Zealand,DMR,Private Call,None
+3379,5301121,ZL1UUP,G N,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3380,5301122,ZL2EP,Michael,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
+3381,5301123,ZL2BJO,Selwyn,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
+3382,5301124,ZL2TFY,David Oliver,Taihape,North Island 1,New Zealand,DMR,Private Call,None
+3383,5301125,ZL2ROR,Phil,Hastings,North Island 1,New Zealand,CCS7,Private Call,None
+3384,5301126,ZL1TAJ,Neill,Tauranga,North Island 1,New Zealand,DMR,Private Call,None
+3385,5301128,ZL1TEC,Tauranga Emergency,Tauranga,North Island 1,New Zealand,Club Fleet,Private Call,None
+3386,5301129,ZL1TEC,Tauranga Emergency,Tauranga,North Island 1,New Zealand,Club Fleet,Private Call,None
+3387,5301130,ZL1TEC,Tauranga Emergency,Tauranga,North Island 1,New Zealand,Club Fleet,Private Call,None
+3388,5301131,ZL1TEC,Tauranga Emergency,Tauranga,North Island 1,New Zealand,Club Fleet,Private Call,None
+3389,5301132,ZL1TEC,Tauranga Emergency,Tauranga,North Island 1,New Zealand,Club Fleet,Private Call,None
+3390,5301133,ZL1TEC,Tauranga Emergency,Tauranga,North Island 1,New Zealand,Club Fleet,Private Call,None
+3391,5301134,ZL2MF,Maurice,Matakana,North Island 1,New Zealand,DMR,Private Call,None
+3392,5300212,ZL1RKW,Ryan,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
+3393,5301137,ZL1RKW,Ryan,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
+3394,5301138,ZL1PKS,K D,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3395,5301139,ZL1MIKE,Mike,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3396,5300251,ZL1AFK,C,Opotiki,North Island 1,New Zealand,DMR,Private Call,None
+3397,5301140,ZL1AFK,C,Opotiki,North Island 1,New Zealand,DMR,Private Call,None
+3398,5301141,ZL4FW,Danny,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3399,5301142,ZL1KNI,James,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3400,5301143,ZL1NB,Nigel,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
+3401,5301144,ZL4BEN,Ben,Wellington,North Island 2,New Zealand,CCS7,Private Call,None
+3402,5302063,ZL4BEN,Ben,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3403,5301145,ZL1RH,Rob,Hamilton,North Island 1,New Zealand,DMR,Private Call,None
+3404,5301146,ZL1MR,David,Papakura,North Island 1,New Zealand,DMR,Private Call,None
+3405,5301152,ZL1MR,David,Papakura,North Island 1,New Zealand,DMR,Private Call,None
+3406,5301163,ZL1MR,David,Papakura,North Island 1,New Zealand,DMR,Private Call,None
+3407,5301147,ZL1IRC,Ian,Papaklura,North Island 1,New Zealand,DMR,Private Call,None
+3408,5301148,ZL1RAC,Craig,New Plymouth,North Island 2,New Zealand,DMR,Private Call,None
+3409,5301149,ZL1TZP,Stephen,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3410,5301150,ZL1AAO,Bruce,Thames,North Island 1,New Zealand,DMR,Private Call,None
+3411,5301151,ZL1YA,Chris,Cambridge,North Island 1,New Zealand,DMR,Private Call,None
+3412,5301153,ZL1DK,David,Southgate  Takanini,North Island 1,New Zealand,Other,Private Call,None
+3413,5301154,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
+3414,5301155,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
+3415,5301156,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
+3416,5301157,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
+3417,5301158,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
+3418,5301159,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
+3419,5301160,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
+3420,5301161,ZL1VK,Papakura Radio Club,Papakura,North Island 1,New Zealand,DMR,Private Call,None
+3421,5301162,ZL1TOB,Jeff,Whangarei,North Island 1,New Zealand,Portable,Private Call,None
+3422,5301164,ZL1IA,Ivan,Glendene Auckland 06,North Island 1,New Zealand,DMR,Private Call,None
+3423,5301165,ZL1IA,Ivan,Glendene Auckland 06,North Island 1,New Zealand,DMR,Private Call,None
+3424,5301167,ZL2GV,J D,Tauranga 3118,North Island 1,New Zealand,CCS7,Private Call,None
+3425,5301168,ZL1MLD,Alex,Albany,North Island 1,New Zealand,DMR,Private Call,None
+3426,5301169,ZL1MLD,Alex,Albany,North Island 1,New Zealand,DMR,Private Call,None
+3427,5301030,ZL2KB,Kapiti,Paraparaumu,North Island 1,New Zealand,Loaner #1,Private Call,None
+3428,5301031,ZL2KB,Kapiti,Paraparaumu,North Island 1,New Zealand,Loaner #2,Private Call,None
+3429,5301032,ZL2KB,Kapiti,Paraparaumu,North Island 1,New Zealand,Loaner #3,Private Call,None
+3430,5301033,ZL2KB,Kapiti,Paraparaumu,North Island 1,New Zealand,Loaner #4,Private Call,None
+3431,5301036,ZL2KB,Kapiti,Paraparaumu,North Island 1,New Zealand,Fleet,Private Call,None
+3432,5301170,ZL2KB,Kapiti,Paraparaumu,North Island 1,New Zealand,DMR,Private Call,None
+3433,5301171,ZL2KB,Kapiti,Paraparaumu,North Island 1,New Zealand,DMR,Private Call,None
+3434,5301172,ZL1RIC,Ricky,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3435,5301173,ZL2DON,Donald,Lower Hutt,North Island 1,New Zealand,DMR,Private Call,None
+3436,5301178,ZL2DON,Donald,Lower Hutt,North Island 1,New Zealand,DMR,Private Call,None
+3437,5301174,ZL4LEY,Leyton,Hamilton,North Island 1,New Zealand,DMR,Private Call,None
+3438,5301175,ZL1OTF,Ivan,Rodney District,North Island 1,New Zealand,DMR,Private Call,None
+3439,5301176,ZL2JPM,John P (Dr),Wellington,North Island 1,New Zealand,DMR,Private Call,None
+3440,5301179,ZL1IX,Ian N,Whangarei,North Island 1,New Zealand,DMR,Private Call,None
+3441,5301180,ZL1NUX,Gavin L.,Papakura Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3442,5301181,ZL1AA,Zl1aa,Glen Innes Auckland,North Island 1,New Zealand,Club Fleet,Private Call,None
+3443,5301182,ZL1AA,Zl1aa,Glen Innes Auckland,North Island 1,New Zealand,Club Fleet,Private Call,None
+3444,5301183,ZL1JAP,Yasuo,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3445,5301184,ZL1JAP,Yasuo,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3446,5301185,ZL1BIV,Jeff,Beachlands Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3447,5301186,ZL1AKW,Dave,Tauranga,North Island 1,New Zealand,DMR,Private Call,None
+3448,5301187,ZL2ADP,M E,Carterton,North Island 1,New Zealand,DMR,Private Call,None
+3449,5301188,ZL1SWW,Simon,Glendowie,North Island 1,New Zealand,DMR,Private Call,None
+3450,5301191,ZL2DR,David,Levin,North Island 1,New Zealand,DMR,Private Call,None
+3451,5301192,ZL2KI,Kenneth,Levin,North Island 2,New Zealand,DMR,Private Call,None
+3452,5301193,ZL2KI,Kenneth,Levin,North Island 2,New Zealand,DMR,Private Call,None
+3453,5301194,ZL1CNB,Charles,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3454,5301195,ZL2WD,Hayden,Palmerston North,North Island 2,New Zealand,DMR Sec,Private Call,None
+3455,5302073,ZL2WD,Hayden,Palmerston North,North Island 2,New Zealand,DMR Prime,Private Call,None
+3456,5301196,ZL2HJS,Hayden,Palmerston North,North Island 2,New Zealand,Other,Private Call,None
+3457,5302086,ZL2HJS,Hayden,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3458,5301197,ZL2AQL,Mike,Tauranga,North Island 1,New Zealand,DMR,Private Call,None
+3459,5301198,ZL1BQA,E D (Ted),Waiuku,North Island 1,New Zealand,DMR,Private Call,None
+3460,5301215,ZL1BQA,E D (Ted),Waiuku,North Island 1,New Zealand,DMR,Private Call,None
+3461,5301199,ZL2JR,Jhun,New Lynn 0600,North Island 1,New Zealand,DMR,Private Call,None
+3462,5301200,ZL1BU,Graeme,,,New Zealand,DMR,Private Call,None
+3463,5301220,ZL1BU,Graeme,,,New Zealand,DMR,Private Call,None
+3464,5301201,ZL1BCO,Taupo Amateur Radio,Taupo,North Island 1,New Zealand,DMR,Private Call,None
+3465,5301217,ZL1BCO,Taupo Amateur Radio,Taupo,North Island 1,New Zealand,DMR,Private Call,None
+3466,5301221,ZL1BCO,Taupo Amateur Radio,Taupo,North Island 1,New Zealand,Club Fleet,Private Call,None
+3467,5301202,ZL1SK,M R,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3468,5301205,ZL1ED,Edward E,Taupo,North Island 1,New Zealand,DMR,Private Call,None
+3469,5301206,ZL1ED,Edward E,Taupo,North Island 1,New Zealand,DMR,Private Call,None
+3470,5300026,ZL1KFM,Kevin,Te Kauwhata,North Island 1,New Zealand,DMR,Private Call,None
+3471,5301207,ZL1KFM,Kevin,Te Kauwhata,North Island 1,New Zealand,DMR,Private Call,None
+3472,5301208,ZL1CR,Jeremy Pritchard,Hamilton,North Island 1,New Zealand,DMR,Private Call,None
+3473,5301209,ZL1CR,Jeremy Pritchard,Hamilton,North Island 1,New Zealand,DMR,Private Call,None
+3474,5301210,ZL1AMK,Jeff,Whangarei,North Island 1,New Zealand,DMR,Private Call,None
+3475,5301211,ZL1GIU,Bill,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3476,5301212,ZL1GIU,Bill,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3477,5301213,ZL1DX,Bob,Hamilton,North Island 1,New Zealand,DMR,Private Call,None
+3478,5301214,ZL1ULN,David,Henderson Auckland 0610,North Island 1,New Zealand,DMR,Private Call,None
+3479,5301216,ZL1MY,G R,Auckland,North Island 2,New Zealand,DMR,Private Call,None
+3480,5302144,ZL1MY,G R,Auckland,North Island 2,New Zealand,DMR,Private Call,None
+3481,5301218,ZL1KU,Kelvin,Taupo,North Island 1,New Zealand,DMR,Private Call,None
+3482,5301219,ZL1KU,Kelvin,Taupo,North Island 1,New Zealand,DMR,Private Call,None
+3483,5301222,ZL1HX,Bowden (Bow),Rd2 Wellsford,North Island 1,New Zealand,DMR,Private Call,None
+3484,5301223,ZL2REX,Rex,Wellington,North Island 1,New Zealand,DMR,Private Call,None
+3485,5302004,ZL2MDH,Martin,paraparaumu,North Island 2,New Zealand,Portable,Private Call,None
+3486,5302005,ZL3JM,Philip,Kapiti Coast,North Island 2,New Zealand,Portable,Private Call,None
+3487,5302007,ZL2LI,Len,palmerston north,North Island 2,New Zealand,Portable,Private Call,None
+3488,5302008,ZL2AUB,Peter,Palmerston North,North Island 2,New Zealand,Portable,Private Call,None
+3489,5302009,ZL2JML,Warren,Palmerston North,North Island 2,New Zealand,Portable,Private Call,None
+3490,5302152,ZL2JML,Warren,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3491,5302010,ZL2KO,Manawatu Amatuer Radio Soc.Inc Arec,Palmerston North,North Island 2,New Zealand,Club Fleet,Private Call,None
+3492,5302011,ZL2KO,Manawatu Amatuer Radio Soc.Inc Arec,Palmerston North,North Island 2,New Zealand,Club Fleet,Private Call,None
+3493,5302012,ZL2KO,Manawatu Amatuer Radio Soc.Inc Arec,Palmerston North,North Island 2,New Zealand,Club Fleet,Private Call,None
+3494,5302103,ZL2KO,Manawatu Amatuer Radio Soc.Inc Arec,Palmerston North,North Island 2,New Zealand,Club Fleet,Private Call,None
+3495,5302104,ZL2KO,Manawatu Amatuer Radio Soc.Inc Arec,Palmerston North,North Island 2,New Zealand,Club Fleet,Private Call,None
+3496,5302105,ZL2KO,Manawatu Amatuer Radio Soc.Inc Arec,Palmerston North,North Island 2,New Zealand,Club Fleet,Private Call,None
+3497,5302106,ZL2KO,Manawatu Amatuer Radio Soc.Inc Arec,Palmerston North,North Island 2,New Zealand,Club Fleet,Private Call,None
+3498,5302013,ZL2TDA,Denis,Palmerston North,North Island 2,New Zealand,Portable,Private Call,None
+3499,5302015,ZL2CZE,Jan,Napier,North Island 2,New Zealand,Mobile,Private Call,None
+3500,5302016,ZL3TJ,Peter,Wellington,North Island 2,New Zealand,Portable,Private Call,None
+3501,5302017,ZL3TJ,Peter,Wellington,North Island 2,New Zealand,Mobile,Private Call,None
+3502,5302018,ZL2NSA,Michael,Upper Hutt,North Island 2,New Zealand,Mobile,Private Call,None
+3503,5302019,ZL2DAZ,Darren,Palmerston North,North Island 2,New Zealand,Portable,Private Call,None
+3504,5300160,ZL2TYR,Don,Porirua,North Island 2,New Zealand,Portable,Private Call,None
+3505,5302020,ZL2TYR,Don,Porirua,North Island 2,New Zealand,Portable,Private Call,None
+3506,5302021,ZL2ASA,Dinsdale,Palmerston North,North Island 2,New Zealand,Portable,Private Call,None
+3507,5302022,ZL2JTD,Ted,Carterton 5713,North Island 2,New Zealand,Portable,Private Call,None
+3508,5302023,ZL2TXS,Stephen,Paraparaumu,North Island 2,New Zealand,Portable,Private Call,None
+3509,5302024,ZL2WAL,Rob,Wellington,North Island 2,New Zealand,Mobile,Private Call,None
+3510,5302026,ZL1VMF,Mark,Wellington,North Island 2,New Zealand,Other,Private Call,None
+3511,5300054,ZL2CJR,Colin,Otaki,North Island 2,New Zealand,DMR,Private Call,None
+3512,5302027,ZL2CJR,Colin,Otaki,North Island 2,New Zealand,DMR,Private Call,None
+3513,5302028,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3514,5302029,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
+3515,5302030,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
+3516,5302031,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
+3517,5302032,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
+3518,5302033,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
+3519,5302034,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
+3520,5302035,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Loaner,Private Call,None
+3521,5302081,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
+3522,5302082,ZL2WA,Wellington Vhf Group,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
+3523,5302042,ZL1DFC,Rob,Dairy Flat,North Island 2,New Zealand,DMR,Private Call,None
+3524,5302043,ZL1CQO,Jon,Hastings,North Island 2,New Zealand,DMR,Private Call,None
+3525,5302044,ZL1RD,Rob,Dairy Flat,North Island 2,New Zealand,DMR,Private Call,None
+3526,5300022,ZL2NAT,Nate,Paraparaumu,North Island 2,New Zealand,DMR,Private Call,None
+3527,5302045,ZL2NAT,Nate,Paraparaumu,North Island 2,New Zealand,DMR,Private Call,None
+3528,5302046,ZL4RFC,4rf,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
+3529,5302047,ZL4RFC,4rf,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
+3530,5302053,ZL4RFC,4rf,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
+3531,5302054,ZL4RFC,4rf,Wellington,North Island 2,New Zealand,Club Fleet,Private Call,None
+3532,5300017,ZL1AFZ,Jonathan,Pahiatua,North Island 2,New Zealand,DMR,Private Call,None
+3533,5302048,ZL1AFZ,Jonathan,Pahiatua,North Island 2,New Zealand,DMR,Private Call,None
+3534,5302050,ZL3JON,Jon,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3535,5302051,ZL2TH,Trevor,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3536,5302052,ZL2DAA,David,Auckland,North Island 2,New Zealand,DMR,Private Call,None
+3537,5302055,ZL2DAT,Steven,New Zealand,North Island 2,New Zealand,DMR,Private Call,None
+3538,5302056,ZL2VNZ,Roidain,Masterton,North Island 2,New Zealand,DMR,Private Call,None
+3539,5302058,ZL2MLH,Michael,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3540,5302065,ZL2MLH,Michael,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3541,5302059,ZL2JHG,James,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3542,5302060,ZL1FAT,Aaron,Auckland,North Island 2,New Zealand,DMR,Private Call,None
+3543,5302061,ZL1FAT,Aaron,Auckland,North Island 2,New Zealand,DMR,Private Call,None
+3544,5302062,ZL2WPW,Tony,Hastings,North Island 2,New Zealand,CCS7,Private Call,None
+3545,5302064,ZL2TVM,Gavin,Lower Hutt,North Island 2,New Zealand,DMR,Private Call,None
+3546,5302066,ZL1THU,Simon,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3547,5302067,ZL2HM,Peter,Waipawa,North Island 2,New Zealand,CCS7,Private Call,None
+3548,5302068,ZL1TCG,S G M,Marton,North Island 2,New Zealand,DMR,Private Call,None
+3549,5302069,ZL2GZ,Graeme,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3550,5302070,ZL2KA,Daniel,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3551,5302071,ZL1LC,Jim,Auckland,North Island 2,New Zealand,DMR,Private Call,None
+3552,5302072,ZL2DRM,David,Masterton,North Island 2,New Zealand,CCS7,Private Call,None
+3553,5302074,ZL1OZ,Brett,,,New Zealand,DMR,Private Call,None
+3554,5302123,ZL1OZ,Brett,,,New Zealand,DMR,Private Call,None
+3555,5302075,ZL2AUS,Brett,,,New Zealand,DMR,Private Call,None
+3556,5302107,ZL2AUS,Brett,,,New Zealand,DMR,Private Call,None
+3557,5302077,ZL2DEK,David,Palmerston North,North Island 2,New Zealand,DMR  Mobile,Private Call,None
+3558,5302112,ZL2DEK,David,Palmerston North,North Island 2,New Zealand,DMR  MD380,Private Call,None
+3559,5302140,ZL2DEK,David,Palmerston North,North Island 2,New Zealand,DMR  Ailunce H1,Private Call,None
+3560,5302078,ZL2LOL,Barbara,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3561,5302079,ZL1YHF,Matthew B,Auckland,North Island 2,New Zealand,DMR,Private Call,None
+3562,5302080,ZL1LWR,Syd,Rd 9 Te Puke.,North Island 2,New Zealand,Other,Private Call,None
+3563,5302083,ZL2SNG,Scott N,Levin,North Island 2,New Zealand,DMR,Private Call,None
+3564,5302124,ZL2SNG,Scott N,Levin,North Island 2,New Zealand,DMR,Private Call,None
+3565,5302084,ZL2TED,Ted,Wainuiomata Lower Hu,North Island 2,New Zealand,DMR,Private Call,None
+3566,5302085,ZL2TED,Ted,Wainuiomata Lower Hu,North Island 2,New Zealand,DMR,Private Call,None
+3567,5302093,ZL2RAC,Rachel,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3568,5302094,ZL2ARL,Colin,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3569,5302122,ZL2ARL,Colin,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3570,5302095,ZL2BRF,Brian,Porirua,North Island 2,New Zealand,DMR,Private Call,None
+3571,5302096,ZL2EZ,Tony,Hastings,North Island 2,New Zealand,CCS7,Private Call,None
+3572,5302097,ZL2BEQ,P M,New Zealand 4475,North Island 2,New Zealand,DMR,Private Call,None
+3573,5302098,ZL2WL,Wayne,Havelock North,North Island 2,New Zealand,DMR,Private Call,None
+3574,5302145,ZL2WL,Wayne,Havelock North,North Island 2,New Zealand,DMR,Private Call,None
+3575,5302099,ZL2AMS,Nzart Branch 23 Arec,Marton,North Island 2,New Zealand,Club Fleet,Private Call,None
+3576,5302100,ZL2AMS,Nzart Branch 23 Arec,Marton,North Island 2,New Zealand,Club Fleet,Private Call,None
+3577,5302108,ZL1UBE,Jim D,Dannevirke,North Island 2,New Zealand,DMR,Private Call,None
+3578,5300046,ZL2KEJ,Kim,Palmerston North,North Island 2,New Zealand,Portable,Private Call,None
+3579,5302110,ZL2KEJ,Kim,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3580,5300023,ZL2JEL,John,Aramoho Wanganui,North Island 2,New Zealand,DMR,Private Call,None
+3581,5302111,ZL2JEL,John,Aramoho Wanganui,North Island 2,New Zealand,DMR,Private Call,None
+3582,5302113,ZL2WLR,Wayne L,Hastings,North Island 2,New Zealand,DMR,Private Call,None
+3583,5302146,ZL2WLR,Wayne L,Hastings,North Island 2,New Zealand,DMR,Private Call,None
+3584,5302114,ZL2AEL,Tony A.,Paraparaumu Beach,North Island 2,New Zealand,DMR,Private Call,None
+3585,5302115,ZL1AXG,Mike,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3586,5302116,ZL2AN,Rob,Napier,North Island 2,New Zealand,Other,Private Call,None
+3587,5302117,ZL2WPA,Peter,Waipawa,North Island 2,New Zealand,DMR,Private Call,None
+3588,5302118,ZL2APD,Alan,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3589,5302119,ZL2BILL,Bill,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3590,5302120,ZL2SKY,Allan,Woodville,North Island 2,New Zealand,DMR,Private Call,None
+3591,5302121,ZL2OK,David,Takapau,North Island 2,New Zealand,CCS7,Private Call,None
+3592,5302125,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
+3593,5302126,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
+3594,5302127,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
+3595,5302128,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
+3596,5302129,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
+3597,5302130,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
+3598,5302131,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
+3599,5302132,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
+3600,5302133,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
+3601,5302134,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
+3602,5302135,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
+3603,5302136,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
+3604,5302137,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
+3605,5302138,ZL2DS,Horowhenua,Levin,North Island 2,New Zealand,Club Fleet,Private Call,None
+3606,5300075,ZL4LOL,Dean,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3607,5302139,ZL4LOL,Dean,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3608,5302141,ZL2MCP,Mike,Whanganui,North Island 2,New Zealand,DMR,Private Call,None
+3609,5302142,ZL2MST,Max Julian,Masterton,North Island 2,New Zealand,DMR,Private Call,None
+3610,5302143,ZL2FT,Jason,Wanganui,North Island 2,New Zealand,DMR,Private Call,None
+3611,5302147,ZL2RCL,Robin,Lower Hutt,North Island 2,New Zealand,DMR,Private Call,None
+3612,5302148,ZL2LO,Chris,Wanganui,North Island 2,New Zealand,DMR,Private Call,None
+3613,5302150,ZL2LO,Chris,Wanganui,North Island 2,New Zealand,DMR,Private Call,None
+3614,5302149,ZL2OR,D O,Palmerston North 5301,North Island 2,New Zealand,DMR,Private Call,None
+3615,5302151,ZL2TFG,Warren,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3616,5302153,ZL2KEA,Juno,Levin,North Island 2,New Zealand,DMR,Private Call,None
+3617,5303001,ZL3VP,Gareth,Christchurch,South Island,New Zealand,Mobile,Private Call,None
+3618,5303002,ZL3PX,Geoff,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3619,5303003,ZL4FZ,Richard G,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3620,5303136,ZL4FZ,Richard G,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3621,5303004,ZL3DMC,Don,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3622,5300235,ZL3AC,Christchurch,Christchurch,South Island,New Zealand,Club Mobl 1,Private Call,None
+3623,5300236,ZL3AC,Christchurch,Christchurch,South Island,New Zealand,Club Mobl 2,Private Call,None
+3624,5303005,ZL3AC,Christchurch,Christchurch,South Island,New Zealand,Club Port 1,Private Call,None
+3625,5303006,ZL3AC,Christchurch,Christchurch,South Island,New Zealand,Club Port 2,Private Call,None
+3626,5303026,ZL3AC,Christchurch,Christchurch,South Island,New Zealand,Club Port 3,Private Call,None
+3627,5303027,ZL3AC,Christchurch,Christchurch,South Island,New Zealand,Club Port 4,Private Call,None
+3628,5303028,ZL3AC,Christchurch,Christchurch,South Island,New Zealand,Club Port 5,Private Call,None
+3629,5300016,ZL3TOY,Blair,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3630,5303007,ZL3TOY,Blair,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3631,5300037,ZL3RCK,Ron,Loburn,South Island,New Zealand,DMR,Private Call,None
+3632,5303008,ZL3RCK,Ron,Loburn,South Island,New Zealand,Portable,Private Call,None
+3633,5303009,ZL3RX,Rob,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3634,5303010,ZL3ROD,Rodrigo,West Melton,South Island,New Zealand,Portable,Private Call,None
+3635,5303011,ZL3DMH,Douglas Mervyn,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3636,5303035,ZL3DMH,Douglas Mervyn,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3637,5303141,ZL3DMH,Douglas Mervyn,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3638,5303012,ZL4KD,Kenneth,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3639,5303013,ZL4KS,Lindsey,Dunedin,South Island,New Zealand,Portable,Private Call,None
+3640,5303014,ZL4ASC,Adam,Dunedin,South Island,New Zealand,Portable,Private Call,None
+3641,5303015,ZL4DC,Stewart,Dunedin,South Island,New Zealand,Portable,Private Call,None
+3642,5303016,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Portable,Private Call,None
+3643,5303017,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Portable,Private Call,None
+3644,5303018,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Portable,Private Call,None
+3645,5303019,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Portable,Private Call,None
+3646,5303020,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Portable,Private Call,None
+3647,5303070,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3648,5303071,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3649,5303072,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3650,5303073,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3651,5303074,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3652,5303075,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3653,5303076,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3654,5303077,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3655,5303078,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3656,5303086,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
+3657,5303087,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
+3658,5303088,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
+3659,5303089,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
+3660,5303090,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
+3661,5303091,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
+3662,5303092,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
+3663,5303112,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
+3664,5303113,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
+3665,5303114,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
+3666,5303115,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
+3667,5303116,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
+3668,5303117,ZL4AA,Otago Branch Nzart,Dunedin,South Island,New Zealand,Club Fleet,Private Call,None
+3669,5303021,ZL4JH,Martin,Dunedin,South Island,New Zealand,Portable,Private Call,None
+3670,5303022,ZL4KX,Bede,Dunedin,South Island,New Zealand,Portable,Private Call,None
+3671,5303023,ZL4FM,Alan,Dunedin,South Island,New Zealand,Portable,Private Call,None
+3672,5303024,ZL4RC,Ross,Dunedin,South Island,New Zealand,Portable,Private Call,None
+3673,5303025,ZL3TRX,D J,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3674,5303110,ZL3TRX,D J,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3675,5303111,ZL3TRX,D J,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3676,5303029,ZL2ASF,Steve,Motueka,South Island,New Zealand,Portable,Private Call,None
+3677,5303030,ZL2FZ,Robin,Motueka,South Island,New Zealand,Portable,Private Call,None
+3678,5303031,ZL2BCG,Jim,Motueka,South Island,New Zealand,Portable,Private Call,None
+3679,5303032,ZL2GK,Motueka,Motueka,South Island,New Zealand,Club Fleet,Private Call,None
+3680,5303033,ZL2GK,Motueka,Motueka,South Island,New Zealand,Club Fleet,Private Call,None
+3681,5303054,ZL2GK,Motueka,Motueka,South Island,New Zealand,Portable,Private Call,None
+3682,5303055,ZL2GK,Motueka,Motueka,South Island,New Zealand,Portable,Private Call,None
+3683,5303056,ZL2GK,Motueka,Motueka,South Island,New Zealand,Portable,Private Call,None
+3684,5303057,ZL2GK,Motueka,Motueka,South Island,New Zealand,Portable,Private Call,None
+3685,5303058,ZL2GK,Motueka,Motueka,South Island,New Zealand,Portable,Private Call,None
+3686,5303059,ZL2GK,Motueka,Motueka,South Island,New Zealand,Portable,Private Call,None
+3687,5303034,ZL3GSL,Graham,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3688,5303036,ZL2UCX,Steve,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3689,5303142,ZL2UCX,Steve,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3690,5303037,ZL4RP,Roy,DUNEDIN,South Island,New Zealand,Mobile,Private Call,None
+3691,5300068,ZL3TMB,Mike,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3692,5303038,ZL3TMB,Mike,Christchurch,South Island,New Zealand,Mobile,Private Call,None
+3693,5303039,ZL3UYJ,Alan,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3694,5303040,ZL3IX,Smith,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3695,5303041,ZL2MV,Graham,Christchurch,South Island,New Zealand,Mobile,Private Call,None
+3696,5303042,ZL2BHF,Jim,Nelson,South Island,New Zealand,Portable,Private Call,None
+3697,5303043,ZL1DFA,Daniel,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3698,5303044,ZL4NZ,Keith,Rolleston,South Island,New Zealand,Portable,Private Call,None
+3699,5300039,ZL4HD,Tom,Bluff,South Island,New Zealand,DMR,Private Call,None
+3700,5303045,ZL4HD,Tom,Bluff,South Island,New Zealand,Mobile,Private Call,None
+3701,5303046,ZL4DE,Daniel,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3702,5303189,ZL4DE,Daniel,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3703,5303047,ZL3FV,James,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3704,5303048,ZL2IC,David,Christchurch,South Island,New Zealand,Portable,Private Call,None
+3705,5303049,ZL3CHD,Pete,Christchurch,South Island,New Zealand,Other,Private Call,None
+3706,5303050,ZL2HZ,Andrew,Nelson,South Island,New Zealand,Portable,Private Call,None
+3707,5303060,ZL2HZ,Andrew,Nelson,South Island,New Zealand,Mobile,Private Call,None
+3708,5303051,ZL3DG,Rene,CHRISTCHURCH,South Island,New Zealand,Other,Private Call,None
+3709,5303052,ZL3HB,Rory,Christchurch,South Island,New Zealand,Mobile,Private Call,None
+3710,5303053,ZL4LDS,Lindsay,Dunedin,South Island,New Zealand,Mobile,Private Call,None
+3711,5303061,ZL4QD,Kevin,Dunedin,South Island,New Zealand,Portable,Private Call,None
+3712,5303062,ZL4AL,Eastern,Gore,South Island,New Zealand,Control Station,Private Call,None
+3713,5303063,ZL4AL,Eastern,Gore,South Island,New Zealand,Club Fleet,Private Call,None
+3714,5303064,ZL4AL,Eastern,Gore,South Island,New Zealand,Club Fleet,Private Call,None
+3715,5303065,ZL4AL,Eastern,Gore,South Island,New Zealand,Club Fleet,Private Call,None
+3716,5303066,ZL4AL,Eastern,Gore,South Island,New Zealand,Club Fleet,Private Call,None
+3717,5303067,ZL4AL,Eastern,Gore,South Island,New Zealand,Club Fleet,Private Call,None
+3718,5303068,ZL4AL,Eastern,Gore,South Island,New Zealand,Club Fleet,Private Call,None
+3719,5303069,ZL4AL,Eastern,Gore,South Island,New Zealand,Club Fleet,Private Call,None
+3720,5303079,ZL4SB,David,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3721,5303080,ZL3AD,Andrew,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3722,5303081,ZL3HRB,Heinz,Koenigswinter,,New Zealand,,Private Call,None
+3723,5303082,ZL3UE,R H,Lincoln,South Island,New Zealand,DMR,Private Call,None
+3724,5303083,ZL3LM,Lez,Oamaru,South Island,New Zealand,DMR,Private Call,None
+3725,5303084,ZL3FK,F R,Oamaru,South Island,New Zealand,DMR,Private Call,None
+3726,5303085,ZL2ARC,Alastair,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3727,5303093,ZL4VM,Vernon,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3728,5303094,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3729,5303095,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3730,5303096,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3731,5303097,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3732,5303098,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3733,5303099,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3734,5303123,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3735,5303124,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3736,5303158,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3737,5303159,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3738,5303160,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3739,5303161,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3740,5303162,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3741,5303163,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3742,5303164,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3743,5303165,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,DMR,Private Call,None
+3744,5303174,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,Club Fleet,Private Call,None
+3745,5303175,ZL2ARG,Branch 26,Nelson,South Island,New Zealand,Club Fleet,Private Call,None
+3746,5303100,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,Club Fleet,Private Call,None
+3747,5303101,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,Club Fleet,Private Call,None
+3748,5303102,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,Club Fleet,Private Call,None
+3749,5303103,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,Club Fleet,Private Call,None
+3750,5303104,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,Club Fleet,Private Call,None
+3751,5303105,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
+3752,5303177,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
+3753,5303178,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
+3754,5303179,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
+3755,5303180,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
+3756,5303181,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
+3757,5303182,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
+3758,5303183,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
+3759,5303184,ZL2KS,Marlborough Amateur Radio Club,Blenheim,South Island,New Zealand,DMR,Private Call,None
+3760,5303106,ZL2SAR,Dylan N,Tasman,South Island,New Zealand,DMR,Private Call,None
+3761,5303107,ZL2SAR,Dylan N,Tasman,South Island,New Zealand,DMR,Private Call,None
+3762,5303108,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,Club Fleet,Private Call,None
+3763,5303125,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3764,5303126,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3765,5303127,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3766,5303128,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3767,5303129,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3768,5303130,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3769,5303131,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3770,5303147,ZL4GQ,Southland Branch 37,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3771,5303109,ZL3OOC,Oliver J.,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3772,5303118,ZL3TFQ,R L,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3773,5303119,ZL4IND,Daniel,Invercargill,South Island,New Zealand,CCS7,Private Call,None
+3774,5303120,ZL3VY,A P,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3775,5303121,ZL4OC,R F,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3776,5300140,ZL4LC,Lindsay,Wyndham,South Island,New Zealand,DMR Repeater,Private Call,None
+3777,5303122,ZL4LC,Lindsay,Wyndham,South Island,New Zealand,DMR,Private Call,None
+3778,5303132,ZL3TDF,B A,Old West Coast Road,South Island,New Zealand,DMR,Private Call,None
+3779,5303133,ZL3TDF,B A,Old West Coast Road,South Island,New Zealand,DMR,Private Call,None
+3780,5303143,ZL3TDF,B A,Old West Coast Road,South Island,New Zealand,DMR,Private Call,None
+3781,5303134,ZL1UTC,Tony,Havelock,South Island,New Zealand,DMR,Private Call,None
+3782,5303135,ZL3PM,Matthew J,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3783,5303137,ZL2IA,Jim,Te Anau,South Island,New Zealand,DMR,Private Call,None
+3784,5303138,ZL3TNK,H A,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3785,5303139,ZL4LDY,Dave,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3786,5303140,ZL1KJ,Gertjan,Auckland,South Island,New Zealand,DMR,Private Call,None
+3787,5303203,ZL1KJ,Gertjan,Auckland,South Island,New Zealand,DMR,Private Call,None
+3788,5303144,ZL3MJH,Matt,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3789,5303145,ZL4CD,Chris.,Invercargill . South,South Island,New Zealand,CCS7,Private Call,None
+3790,5303146,ZL3STU,Stuart W,Ashburton,South Island,New Zealand,DMR,Private Call,None
+3791,5300010,ZL3CLD,Chris,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3792,5303166,ZL3CLD,Chris,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3793,5303167,ZL4CJF,Chris,Te Anau,South Island,New Zealand,DMR,Private Call,None
+3794,5303212,ZL4CJF,Chris,Te Anau,South Island,New Zealand,DMR,Private Call,None
+3795,5303168,ZL3TVP,Tony T,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3796,5303169,ZL3TVP,Tony T,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3797,5303170,ZL3REW,Robin,Rakaia,South Island,New Zealand,DMR,Private Call,None
+3798,5303186,ZL3REW,Robin,Rakaia,South Island,New Zealand,DMR,Private Call,None
+3799,5303171,ZL4ERU,Hamish,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3800,5303172,ZL2EX,Tasman,Motueka,South Island,New Zealand,DMR,Private Call,None
+3801,5300040,ZL4BLF,Thomas,Bluff,South Island,New Zealand,DMR,Private Call,None
+3802,5303173,ZL4BLF,Thomas,Bluff,South Island,New Zealand,DMR,Private Call,None
+3803,5303176,ZL1ANI,Kevin,Wakefield Nelson,South Island,New Zealand,DMR,Private Call,None
+3804,5303185,ZL4RX,Robin,Rakaia,South Island,New Zealand,DMR,Private Call,None
+3805,5303193,ZL4RX,Robin,Rakaia,South Island,New Zealand,DMR,Private Call,None
+3806,5303187,ZL3ADF,J E (John),Christchurch 8053,South Island,New Zealand,DMR,Private Call,None
+3807,5303188,ZL4RA,Chris,Queenstown,South Island,New Zealand,DMR,Private Call,None
+3808,5303190,ZL3DVR,Douglas M,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3809,5303191,ZL4KRS,Mike,Oamaru,South Island,New Zealand,DMR,Private Call,None
+3810,5303192,ZL3TOO,C D,Christchurch 8002,South Island,New Zealand,DMR,Private Call,None
+3811,5303195,ZL4FOX,Bart,Roxburgh,South Island,New Zealand,DMR,Private Call,None
+3812,5303196,ZL3JH,James C,Temuka South Canterbury.,South Island,New Zealand,Other,Private Call,None
+3813,5303197,ZL3JH,James C,Temuka South Canterbury.,South Island,New Zealand,DMR,Private Call,None
+3814,5303198,ZL2WMS,Mike,Nelson,South Island,New Zealand,DMR,Private Call,None
+3815,5303199,ZL2BAZ,Barry G,Nelson,South Island,New Zealand,DMR,Private Call,None
+3816,5303205,ZL2BAZ,Barry G,Nelson,South Island,New Zealand,DMR,Private Call,None
+3817,5303200,ZL2JGW,Gordon,Nelson,South Island,New Zealand,DMR,Private Call,None
+3818,5303201,ZL4OM,M P,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3819,5303202,ZL4SN,N C,Oamaru,South Island,New Zealand,DMR,Private Call,None
+3820,5303204,ZL2BBK,Steve,Nelson,South Island,New Zealand,DMR,Private Call,None
+3821,5303206,ZL3SI,Simon,Kaiapoi,South Island,New Zealand,DMR,Private Call,None
+3822,5303207,ZL4BDS,Brendan,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3823,5303208,ZL4BMC,Bevan,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3824,5303209,ZL3CATH,Catherine J,Christchurch City Canterbury,South Island,New Zealand,DMR,Private Call,None
+3825,5303210,ZL4MD,Allan,Mosgiel,South Island,New Zealand,DMR,Private Call,None
+3826,5303211,ZL3CJB,Carey,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3827,5301004,ZL2GGD,Graham,Hawke's Bay,,New Zealand,,Private Call,None
+3828,5301006,ZL2HD,John,Wellington,,New Zealand,Portable,Private Call,None
+3829,5301007,ZL1MRC,Mike,Auckland,,New Zealand,,Private Call,None
+3830,5301010,ZL3TC,Peter,Lower Hutt,,New Zealand,Portable,Private Call,None
+3831,5301011,ZL2TWS,John,Lower Hutt,,New Zealand,Portable,Private Call,None
+3832,5301012,ZL2FY,Richard,Paraparaumu,,New Zealand,Portable,Private Call,None
+3833,5301024,ZL2FY,Richard,Paraparaumu,,New Zealand,Mobile,Private Call,None
+3834,5301013,ZL2BHJ,Jill,Wellington,,New Zealand,Control,Private Call,None
+3835,5301014,ZL2SX,David,Wellington,,New Zealand,Portable,Private Call,None
+3836,5301015,ZL2ABN,Graham,Porirua,,New Zealand,Mobile,Private Call,None
+3837,5301016,ZL4JS,Jeff,Masterton,,New Zealand,Portable,Private Call,None
+3838,5301017,ZL2BRG,Simon,Wellington,,New Zealand,Portable,Private Call,None
+3839,5301018,ZL2UGL,Justin,Wellington,,New Zealand,Portable,Private Call,None
+3840,5301019,ZL2UFI,Mark,Wellington,,New Zealand,Portable,Private Call,None
+3841,5301020,ZL2GO,Len,Paraparaumu,,New Zealand,Portable,Private Call,None
+3842,5301021,ZL2BKC,Wayne,Wellington,,New Zealand,Portable,Private Call,None
+3843,5301022,ZL2RJP,Randall,Wellington,,New Zealand,Portable,Private Call,None
+3844,5301023,ZL2TGC,Geoff,Kapiti,,New Zealand,Loaner,Private Call,None
+3845,5301027,ZL2FC,Colin,Wairarapa,,New Zealand,Portable,Private Call,None
+3846,5301028,ZL2BA,David,Wairarapa,,New Zealand,Portable,Private Call,None
+3847,5300013,ZL2MNM,Mike,Wellington,North Island 1,New Zealand,DMR,Private Call,None
+3848,5300011,ZL3ADB,Graham,Westport 7601,South Island,New Zealand,DMR,Private Call,None
+3849,5300012,ZL3GAV,Gavin,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3850,5300014,ZL3FLY,John-Willaim,Bluff,South Island,New Zealand,DMR,Private Call,None
+3851,5300015,ZL3FLY,John-Willaim,Bluff,South Island,New Zealand,DMR,Private Call,None
+3852,5300018,ZL2BRM,Eddie,Masterton,North Island 2,New Zealand,DMR,Private Call,None
+3853,5300019,ZL1LAC,Leith,Orewa,North Island 1,New Zealand,TP9360-H5,Private Call,None
+3854,5300020,ZL1LAC,Leith,Orewa,North Island 1,New Zealand,Kydera DM-760,Private Call,None
+3855,5300021,ZL3MIL,Maree,Levin,North Island 2,New Zealand,DMR,Private Call,None
+3856,5300024,ZL3VW,Ronald,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3857,5300025,ZL2XT,Mike,Trx Nr Christchurch,South Island,New Zealand,DMR,Private Call,None
+3858,5300027,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,BM OpenBridge,Private Call,None
+3859,5300028,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,DMR,Private Call,None
+3860,5300029,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,DMR,Private Call,None
+3861,5300030,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,DMR,Private Call,None
+3862,5300047,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,DMR,Private Call,None
+3863,5300108,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,DMR,Private Call,None
+3864,5300210,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,DMR,Private Call,None
+3865,5300211,ZL2XLX,Digital Radio Group,Levin,North Island 2,New Zealand,DMR,Private Call,None
+3866,5300031,ZL2ADO,James,Carterton 5951,North Island 2,New Zealand,DMR,Private Call,None
+3867,5300033,ZL1KAN,Michael,1 Waitetoko Rd2 Turangi,North Island 1,New Zealand,DMR,Private Call,None
+3868,5300034,ZL1KAN,Michael,1 Waitetoko Rd2 Turangi,North Island 1,New Zealand,DMR,Private Call,None
+3869,5300035,ZL2KRIS,Kris,Porirua,North Island 2,New Zealand,DMR,Private Call,None
+3870,5300036,ZL4TE,Pete,Cambridge,North Island 1,New Zealand,DMR,Private Call,None
+3871,5300038,ZL4NB,Nick,INVERCARGILL,South Island,New Zealand,DMR,Private Call,None
+3872,5300041,ZL1PRT,S,Taupo,North Island 1,New Zealand,DMR,Private Call,None
+3873,5300042,ZL1FJ,Brendan,Taupo,North Island 1,New Zealand,DMR,Private Call,None
+3874,5300043,ZL3TGR,Ian,Timaru,South Island,New Zealand,Ian ZL3TGR,Private Call,None
+3875,5300044,ZL4SGB,Stewart,Te Anau,South Island,New Zealand,DMR,Private Call,None
+3876,5300045,ZL4AU,Roland/Roly,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3877,5300048,ZL1UTH,Trevor,Taumarunui,North Island 1,New Zealand,DMR,Private Call,None
+3878,5300049,ZL1UTH,Trevor,Taumarunui,North Island 1,New Zealand,DMR,Private Call,None
+3879,5300050,ZL4GJ,Trevor,Hamilton 3206,North Island 1,New Zealand,DMR,Private Call,None
+3880,5300051,ZL2AUX,Dave,Marton 4710,North Island 2,New Zealand,DMR,Private Call,None
+3881,5300052,ZL4ARG,Alex R,Invercargill,South Island,New Zealand,DMR,Private Call,None
+3882,5300053,ZL1LAP,Graham,Hamilton,North Island 1,New Zealand,DMR,Private Call,None
+3883,5300055,ZL1KCJ,Ms.K C J (Jerry),Bader Hamilton,North Island 1,New Zealand,DMR,Private Call,None
+3884,5300032,ZL2BD,Bernard,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3885,5300056,ZL2DOC,Dave,Taihape,North Island 2,New Zealand,DMR,Private Call,None
+3886,5300057,ZL2DOC,Dave,Taihape,North Island 2,New Zealand,DMR,Private Call,None
+3887,5300058,ZL4WPS,Warren P,Greymouth,South Island,New Zealand,DMR,Private Call,None
+3888,5300248,ZL4WPS,Warren P,Greymouth,South Island,New Zealand,DMR,Private Call,None
+3889,5300059,ZL1MPW,Mark,Whakatane,North Island 1,New Zealand,DMR,Private Call,None
+3890,5300060,ZL3CAR,Canterbury Amateur,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3891,5300063,ZL3CAR,Canterbury Amateur,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3892,5300061,ZL2SN,Kuang,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3893,5300062,ZL2BCI,Benjamin,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3894,5300064,ZL3HAM,Tony,Rd1 Oxford 7495,South Island,New Zealand,DMR,Private Call,None
+3895,5300065,ZL1VE,VENKATESAN,hamilton,North Island 1,New Zealand,DMR,Private Call,None
+3896,5300066,ZL2ATH,Wynne,Wellington,North Island 1,New Zealand,DMR,Private Call,None
+3897,5300067,ZL4IA,Mike,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3898,5300069,ZL4GDM,Graham,Wanaka,South Island,New Zealand,DMR,Private Call,None
+3899,5300070,ZL4GDM,Graham,Wanaka,South Island,New Zealand,DMR,Private Call,None
+3900,5300071,ZL3CJH,Chris,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3901,5300072,ZL2ELL,Elliot,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3902,5300087,ZL2ELL,Elliot,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3903,5300073,ZL2RMC,Robert,Nelson,South Island,New Zealand,DMR,Private Call,None
+3904,5300074,ZL4MV,G L,Invercargill 9810,South Island,New Zealand,DMR,Private Call,None
+3905,5300076,ZL4DVG,Daniel J,Hokitika,South Island,New Zealand,DMR,Private Call,None
+3906,5300077,ZL1VCR,N. Brian,Rotorua,North Island 1,New Zealand,DMR,Private Call,None
+3907,5300078,ZL3TSD,Tony,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3908,5300079,ZL1JWB,John,Whakatane,North Island 1,New Zealand,DMR,Private Call,None
+3909,5300080,ZL2FOX,Adam,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3910,5300081,ZL1AOX,Ian T.,Rd4 Papakura Auckland 2584,North Island 1,New Zealand,DMR,Private Call,None
+3911,5300082,ZL1BTS,Terence,Paremoremo Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3912,5300083,ZL4ND,Nick,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3913,5300084,ZL4DK,David,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3914,5300085,ZL4WDR,Peter,Wellington,North Island 1,New Zealand,ZL4WDR,Private Call,None
+3915,5300086,ZL2KH,Roger,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3916,5300088,ZL3TOM,Thomas,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3917,5300089,ZL2THS,Tom,Nelson,South Island,New Zealand,DMR,Private Call,None
+3918,5300090,ZL1JHE,Ian,Mount Maunganui Tauranga,North Island 1,New Zealand,DMR,Private Call,None
+3919,5300091,ZL3PRA,Rob,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3920,5300092,ZL2UB,David J,Dannevirke,North Island 2,New Zealand,DMR,Private Call,None
+3921,5300093,ZL2UB,David J,Dannevirke,North Island 2,New Zealand,DMR,Private Call,None
+3922,5300094,ZL2WT,David H.,Havelock North,North Island 1,New Zealand,DMR,Private Call,None
+3923,5300095,ZL2WG,Wayne,Hastings,North Island 1,New Zealand,DMR,Private Call,None
+3924,5300096,ZL4SY,Norman,Kaka Point Otago. South Island,South Island,New Zealand,DMR,Private Call,None
+3925,5300099,ZL4FG,Peter,INVERCARGILL 9879,South Island,New Zealand,DMR,Private Call,None
+3926,5300097,ZL1CVD,Chris,Oamaru,South Island,New Zealand,ZL1CVD,Private Call,None
+3927,5300100,ZL1PID,Stuart J,Carterton,,New Zealand,DMR,Private Call,None
+3928,5300101,ZL2IQ,Murray,LOWER HUT 6315,North Island 2,New Zealand,DMR,Private Call,None
+3929,5300103,ZL1BHD,Steve,Edgecumbe,North Island 2,New Zealand,DMR,Private Call,None
+3930,5300102,ZL2XM,Barrie,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3931,5300104,ZL4CEL,Terry,Mosgiel,South Island,New Zealand,DMR,Private Call,None
+3932,5300105,ZL2JTL,John,Porirua,,New Zealand,DMR,Private Call,None
+3933,5300106,ZL2AQY,Eddie,RD1 Thames,,New Zealand,DMR,Private Call,None
+3934,5300107,ZL2AQY,Eddie,RD1 Thames,,New Zealand,DMR,Private Call,None
+3935,5300109,ZL1MDR,Matt,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3936,5300110,ZL2RSA,Shaun,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+3937,5300111,ZL4KN,R B,INVERCARGILL 9812,South Island,New Zealand,DMR,Private Call,None
+3938,5300112,ZL2VAX,Philip,PAHIATUA,North Island 2,New Zealand,DMR,Private Call,None
+3939,5300113,ZL1DL,Dave,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3940,5300114,ZL1DL,Dave,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3941,5300116,ZL1SLC,shannon,Auckland,North Island 2,New Zealand,DMR,Private Call,None
+3942,5300115,ZL1RAH,Rodger,AUCKLAND,,New Zealand,DMR,Private Call,None
+3943,5300117,ZL2MRT,Murray,Eketahuna,North Island 2,New Zealand,DMR,Private Call,None
+3944,5300118,ZL2BZH,G J,NEW PLYMOUTH 4310,North Island 2,New Zealand,DMR,Private Call,None
+3945,5300119,ZL2BAC,T G,WAIKANAE KAPITI 5036,North Island 2,New Zealand,DMR,Private Call,None
+3946,5300120,ZL2CWA,Craig Warren,Hamilton,North Island 2,New Zealand,DMR,Private Call,None
+3947,5300121,ZL1VR,Charlie,DUNEDIN,South Island,New Zealand,DMR,Private Call,None
+3948,5300122,ZL1TOA,Ocean,Hamilton,North Island 2,New Zealand,DMR,Private Call,None
+3949,5300126,ZL2DW,David,Hastings,North Island 2,New Zealand,DMR,Private Call,None
+3950,5300123,ZL2GX,Giovanni,Palmerston North,,New Zealand,DMR,Private Call,None
+3951,5300124,ZL1OW,Raymond J,Kawerau,North Island 1,New Zealand,DMR,Private Call,None
+3952,5300125,ZL3KBL,Alex,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3953,5300127,ZL2FAD,Frederik,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
+3954,5300128,ZL2FAD,Frederik,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
+3955,5300129,ZL2EW,Matthew. W,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3956,5300130,ZL2EW,Matthew. W,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+3957,5300131,ZL2TEC,Bryce,Nelson,South Island,New Zealand,DMR,Private Call,None
+3958,5300133,ZL1AB,North Shore Radio Club,AUCKLAND,North Island 2,New Zealand,DMR,Private Call,None
+3959,5300132,ZL1LDP,Lance,TAURANGA,North Island 2,New Zealand,DMR,Private Call,None
+3960,5300134,ZL1VAK,Allan B,Taupo 3330,North Island 1,New Zealand,DMR,Private Call,None
+3961,5300135,ZL3HGN,Stuart,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3962,5300136,ZL3HGN,Stuart,Christchurch,South Island,New Zealand,DMR,Private Call,None
+3963,5300137,ZL2SH,Shane,Masterton,North Island 2,New Zealand,DMR,Private Call,None
+3964,5300147,ZL2SH,Shane,Masterton,North Island 2,New Zealand,DMR,Private Call,None
+3965,5300138,ZL3HR,Paul,ROLLESTON,,New Zealand,DMR,Private Call,None
+3966,5300139,ZL3HR,Paul,ROLLESTON,,New Zealand,DMR,Private Call,None
+3967,5300141,ZL1UCH,Chris,Kerikeri,North Island 2,New Zealand,DMR,Private Call,None
+3968,5300142,ZL2XS,Brian,Timberlea,North Island 2,New Zealand,DMR,Private Call,None
+3969,5300143,ZL1MVL,Ian,Whangarei,North Island 2,New Zealand,DMR,Private Call,None
+3970,5300144,ZL2WKS,Will,Wellington/Wairarapa,North Island 2,New Zealand,DMR,Private Call,None
+3971,5300190,ZL2WKS,Will,Wellington/Wairarapa,North Island 2,New Zealand,ZL2WK,Private Call,None
+3972,5300145,ZL4MY,Mike,Feilding,North Island 2,New Zealand,DMR,Private Call,None
+3973,5300146,ZL4MY,Mike,Feilding,North Island 2,New Zealand,DMR,Private Call,None
+3974,5300148,ZL1HMD,Simon J,Waitakere,North Island 2,New Zealand,DMR,Private Call,None
+3975,5300149,ZL1GW,Paul,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3976,5300150,ZL3MC,Mark,Nelson,South Island,New Zealand,DMR,Private Call,None
+3977,5300151,ZL2SY,Seymour,Carterton,North Island 2,New Zealand,DMR,Private Call,None
+3978,5300152,ZL2FJ,Frank,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3979,5300153,ZL3GP,Philip,Picton,South Island,New Zealand,DMR,Private Call,None
+3980,5300163,ZL3GP,Philip,Picton,South Island,New Zealand,DMR,Private Call,None
+3981,5300155,ZL1GER,Kieran,Auckland,North Island 2,New Zealand,Mobile,Private Call,None
+3982,5300213,ZL1GER,Kieran,Auckland,North Island 2,New Zealand,Portable,Private Call,None
+3983,5300156,ZL4RM,Eb,INVERCARGILL,North Island 2,New Zealand,DMR,Private Call,None
+3984,5300157,ZL3SST,Shaun,New Plymouth,North Island 2,New Zealand,DMR,Private Call,None
+3985,5300158,ZL1CLH,Chris,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3986,5300159,ZL1LAS,Liam,Taupo,North Island 1,New Zealand,DMR,Private Call,None
+3987,5300161,ZL2SB,Brendin,Hastings Hawksbay NZ,North Island 2,New Zealand,DMR,Private Call,None
+3988,5300162,ZL2SB,Brendin,Hastings Hawksbay NZ,North Island 2,New Zealand,DMR,Private Call,None
+3989,5300164,ZL2TD,Peter,Otaki,North Island 2,New Zealand,DMR,Private Call,None
+3990,5300165,ZL2WGN,Don,Porirua,North Island 2,New Zealand,DMR,Private Call,None
+3991,5300166,ZL2WGN,Don,Porirua,North Island 2,New Zealand,DMR,Private Call,None
+3992,5300167,ZL1OGX,Ian,Auckland,,New Zealand,DMR,Private Call,None
+3993,5300170,ZL2TB,Ted,Newlands WELLINGTON 6037,North Island 1,New Zealand,DMR,Private Call,None
+3994,5300169,ZL3NR,Narottam,Christchurch 8022,South Island,New Zealand,DMR,Private Call,None
+3995,5300171,ZL4PDX,Braidy,Dunedin,South Island,New Zealand,DMR,Private Call,None
+3996,5300172,ZL1QV,David,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+3997,5300173,ZL4GS,Grant,Tauranga,North Island 2,New Zealand,DMR,Private Call,None
+3998,5300174,ZL1KPB,Karsten,Kihikihi,North Island 2,New Zealand,DMR,Private Call,None
+3999,5300175,ZL1WK,Eastern Bay Of Plenty Branch 51,Whakatane,North Island 1,New Zealand,DMR,Private Call,None
+4000,5300176,ZL3IUB,Sam,Auckland,,New Zealand,DMR,Private Call,None
+4001,5300177,ZL1BNB,Mike,WANGANUI,,New Zealand,DMR,Private Call,None
+4002,5300178,ZL3BA,Mark,Woodend,South Island,New Zealand,DMR,Private Call,None
+4003,5300179,ZL1BWG,Bruce,Onerahi,North Island 1,New Zealand,DMR,Private Call,None
+4004,5300180,ZL1AXZ,Bill,Ranfurly,South Island,New Zealand,DMR,Private Call,None
+4005,5300181,ZL1EK,Ethan,Newmarket Auckland,,New Zealand,DMR,Private Call,None
+4006,5300182,ZL3TT,Kingsley (Blue),Napier,North Island 2,New Zealand,DMR,Private Call,None
+4007,5300184,ZL1ELC,Damon,Palmerston North,North Island 1,New Zealand,DMR,Private Call,None
+4008,5300183,ZL2VM,Michael,NAPIER 4112,North Island 2,New Zealand,DMR,Private Call,None
+4009,5300185,ZL2CHV,Brian,UPPER HUTT,,New Zealand,DMR,Private Call,None
+4010,5300186,ZL2WEG,Wilbert,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+4011,5300187,ZL1KR,Anton,HAMILTON 2001,North Island 2,New Zealand,DMR,Private Call,None
+4012,5300188,ZL4VV,Fraser,Upper Hutt,North Island 2,New Zealand,DMR,Private Call,None
+4013,5300189,ZL2GJ,Garry,waipawa hawke bay,North Island 2,New Zealand,DMR,Private Call,None
+4014,5300191,ZL2WK,William,Carterton,North Island 2,New Zealand,DMR,Private Call,None
+4015,5300192,ZL1BEO,Peter,Whangarei,,New Zealand,DMR,Private Call,None
+4016,5300193,ZL3TIQ,Darryl,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+4017,5300194,ZL2HUT,Ian,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+4018,5300195,ZL4MAT,Matt,Nelson,South Island,New Zealand,DMR,Private Call,None
+4019,5300197,ZL2RAZ,Ray,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+4020,5300196,ZL2FL,Colin,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+4021,5300198,ZL3BAM,Brendan,Christchurch,South Island,New Zealand,DMR,Private Call,None
+4022,5300199,ZL1JX,Sasha,Auckland 2014,North Island 1,New Zealand,DMR,Private Call,None
+4023,5300200,ZL3RD,Joshua B,Rolleston,South Island,New Zealand,DMR,Private Call,None
+4024,5300201,ZL2XD,Lachlan,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+4025,5300202,ZL2JSN,Jason,Palmeston North,North Island 2,New Zealand,DMR,Private Call,None
+4026,5300203,ZL4JW,R J,Queenstown 9300,South Island,New Zealand,DMR,Private Call,None
+4027,5300204,ZL3AWB,Andrew,Christchurch,South Island,New Zealand,DMR,Private Call,None
+4028,5300205,ZL3AMX,Maxwell,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+4029,5300206,ZL2ARP,Dick,OTAKI 5583,North Island 2,New Zealand,DMR,Private Call,None
+4030,5300207,ZL2WR,Mike,RD2 Otane,,New Zealand,DMR,Private Call,None
+4031,5300208,ZL2VS,Royden,North island,North Island 2,New Zealand,DMR,Private Call,None
+4032,5300209,ZL1DGK,David G,Te Aroha,North Island 2,New Zealand,DMR,Private Call,None
+4033,5300214,ZL4XYZ,Phill,Gisborne,,New Zealand,DMR,Private Call,None
+4034,5300215,ZL1PWM,Peter,Russell,North Island 1,New Zealand,DMR,Private Call,None
+4035,5300218,ZL1BBO,Edwin,Whangerei,North Island 2,New Zealand,DMR,Private Call,None
+4036,5300216,ZL4SGT,Thomas,Christchurch,South Island,New Zealand,DMR,Private Call,None
+4037,5300217,ZL2CT,Shaun,Masterton,,New Zealand,DMR,Private Call,None
+4038,5300219,ZL1RDK,Ronald,AUCKLAND,North Island 1,New Zealand,DMR,Private Call,None
+4039,5300220,ZL2EI,Terry,Wanganui,North Island 2,New Zealand,DMR,Private Call,None
+4040,5300221,ZL2DWC,Dave,Paraparaumu,North Island 2,New Zealand,DMR,Private Call,None
+4041,5300222,ZL2VA,Stewart,Nelson,South Island,New Zealand,DMR,Private Call,None
+4042,5300223,ZL1VIP,Brandon,Mount Maunganui,North Island 1,New Zealand,DMR,Private Call,None
+4043,5300224,ZL2VIP,Brandon,Mount Maunganui,North Island 2,New Zealand,DMR,Private Call,None
+4044,5300225,ZL1XE,Mark,Wellsford,North Island 1,New Zealand,DMR,Private Call,None
+4045,5300226,ZL2CTM,Charlie T,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+4046,5300227,ZL4KYH,Daniel,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+4047,5300228,ZL2XO,Dan,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+4048,5300231,ZL3TV,Graham,Canterbury,South Island,New Zealand,DMR,Private Call,None
+4049,5300229,ZL2HUI,Hui,Palmerston North,North Island 2,New Zealand,DMR,Private Call,None
+4050,5300230,ZL2TEW,Eddie,Napier,North Island 2,New Zealand,DMR,Private Call,None
+4051,5300232,ZL1TFI,Greg,RED BEACH AUCKLAND,North Island 2,New Zealand,DMR,Private Call,None
+4052,5300233,ZL2ED,Dan,Lower Hutt,North Island 2,New Zealand,DMR,Private Call,None
+4053,5300234,ZL2FN,Ross,Havelock North,North Island 2,New Zealand,DMR,Private Call,None
+4054,5300237,ZL3SAB,Shane,Christchurch,,New Zealand,DMR,Private Call,None
+4055,5300240,ZL4BJC,Bernard,Southland,South Island,New Zealand,DMR,Private Call,None
+4056,5300238,ZL2TBX,Tim,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+4057,5300239,ZL1JNA,Anurat,Wattledowns Auckland,,New Zealand,DMR,Private Call,None
+4058,5300241,ZL3DC,R J,RD 9 Feilding New Zealand,North Island 2,New Zealand,DMR,Private Call,None
+4059,5300242,ZL2XJ,John,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+4060,5300243,ZL1TED,Ted,Taupo,North Island 2,New Zealand,DMR,Private Call,None
+4061,5300244,ZL2UDF,Malcolm,Lower Hutt,North Island 2,New Zealand,DMR,Private Call,None
+4062,5300245,ZL2WLY,Maurice,Waverley,North Island 2,New Zealand,DMR,Private Call,None
+4063,5300247,ZL1RKO,Charles,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+4064,5300249,ZL3EX,Steve,Christchurch,North Island 2,New Zealand,DMR,Private Call,None
+4065,5300250,ZL1RAB,Ray,Te Puke,North Island 2,New Zealand,DMR,Private Call,None
+4066,5300252,ZL1DMC,Dave,Auckland,North Island 2,New Zealand,DMR,Private Call,None
+4067,5300254,ZL3ALF,Alf,Rangiora,South Island,New Zealand,DMR,Private Call,None
+4068,5300253,ZL3TVA,J P,PARKLANDS CHRISTCHURCH 8009,South Island,New Zealand,DMR,Private Call,None
+4069,5300255,ZL2NAP,Noel,Ashhurst,North Island 2,New Zealand,DMR,Private Call,None
+4070,5300256,ZL3HP,P,PARKLANDS CHRISTCHURCH 8009,South Island,New Zealand,DMR,Private Call,None
+4071,5300257,ZL1POM,Christopher,Lincoln,South Island,New Zealand,DMR,Private Call,None
+4072,5300258,ZL2DRC,Dan,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+4073,5300259,ZL1BVO,Graham,TAUPO  3330,North Island 2,New Zealand,DMR,Private Call,None
+4074,5300260,ZL2JST,Jeffery I,Masterton,North Island 1,New Zealand,DMR,Private Call,None
+4075,5300261,ZL1XLX,Brett,,,New Zealand,DMR,Private Call,None
+4076,5300262,ZL4CB,Charlie Roderick John,Waihola,South Island,New Zealand,DMR,Private Call,None
+4077,5300263,ZL4MB,Barry,Balclutha,South Island,New Zealand,DMR,Private Call,None
+4078,5300264,ZL3XLX,Wayne ,Hastings,,New Zealand,DMR,Private Call,None
+4079,5300265,ZL1CE,Graham R S,Ellerslie Auckland,,New Zealand,DMR,Private Call,None
+4080,5300266,ZL2DV,Edward,Auckland,,New Zealand,DMR,Private Call,None
+4081,5300002,ZL1AM,Whangarei Amateur,Whangarei,North Island 1,New Zealand,DMR,Private Call,None
+4082,5300267,ZL3DAB,Dave,Christchurch,South Island,New Zealand,DMR,Private Call,None
+4083,5300268,ZL3TDI,David,Christchurch,South Island,New Zealand,DMR,Private Call,None
+4084,5300273,ZL3ACA,Gina,Christchurch,South Island,New Zealand,DMR,Private Call,None
+4085,5300269,ZL1PKL,Nicola,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+4086,5300270,ZL3ABM,Helen,Christchurch,South Island,New Zealand,DMR,Private Call,None
+4087,5300271,ZL4XL,Susan,Dunedin,,New Zealand,DMR,Private Call,None
+4088,5300272,ZL1MAS,Matthew,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+4089,5300274,ZL6YOTA,YOTA NZ,New Zealand,,New Zealand,DMR,Private Call,None
+4090,5300275,ZL2TOY,Dusty,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+4091,5300276,ZL1SRP,Stephen,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+4092,5300277,ZL1LW,Cornelis,RD1 Silverdale  Auckland,North Island 1,New Zealand,DMR,Private Call,None
+4093,5300278,ZL1WJQ,John,Auckland,North Island 1,New Zealand,DMR,Private Call,None
+4094,5300279,ZL1TKL,Donald,Whakatane 3120,,New Zealand,DMR,Private Call,None
+4095,5300280,ZL1AF,Andrew R,BLOCKHOUSE BAY AUCKLAND,,New Zealand,DMR,Private Call,None
+4096,5300281,ZL4CAT,Alex,Wellington,North Island 2,New Zealand,DMR,Private Call,None
+4097,5300282,ZL3TY,Bob,Greymouth 7805,,New Zealand,DMR,Private Call,None
+4098,5300283,ZL1AIN,Ian,TAURANGA,,New Zealand,DMR,Private Call,None
+4099,5300284,ZL2DOW,Andy,Lower Hutt,,New Zealand,DMR,Private Call,None
+4100,5300285,ZL2DB,Tony,Wellington 6001,,New Zealand,DMR,Private Call,None
+4101,5300286,ZL2BIR,Peter,Upper Hut 6007,,New Zealand,DMR,Private Call,None
+4102,5300287,ZL2OT,Neil,Paraparaumu,North Island 2,New Zealand,DMR,Private Call,None
+4103,5300288,ZL3PD,Paul,Christchurch,South Island,New Zealand,DMR,Private Call,None
+4104,5520001,T88KY,Yunjae,KOROR,,Palau,DMR,Private Call,None
+4105,5520002,T88KZ,Jery,Koror,,Palau,DMR,Private Call,None
+4106,5371002,P29LZ,Lowell,Boroko Ncd Port Moresby,,Papua New Guinea,Mobile,Private Call,None
+4107,5371004,P29LZ,Lowell,Boroko Ncd Port Moresby,,Papua New Guinea,DMR,Private Call,None
+4108,5371003,P29JV,Joris,Port Moresby,,Papua New Guinea,Other,Private Call,None
+4109,5371001,P29ZTC,Terry,Port Moresby,,Papua New Guinea,Mobile,Private Call,None
+4110,5370001,DW1YSI,Nelson,Silang,,Papua New Guinea,DMR,Private Call,None
+4111,5410001,YJ8DX,Trevor,Vanuatu,,Vanuatu,DMR,Private Call,None
+4112,50501,VK3MJM,Mathew,Melbourne,Victoria,Australia,CAP_PLUS,Private Call,None
+4113,50502,VK3FJAL,Jarrod,Melbourne,Victoria,Australia,PORTABLE_CAPPLUS,Private Call,None
+4114,50503,VK3FJAL,Jarrod,Melbourne,Victoria,Australia,MOBILE_CAPPLUS,Private Call,None
+4115,53001,ZL4JY,John,Waikanae,North Island 2,New Zealand,None,Private Call,None
